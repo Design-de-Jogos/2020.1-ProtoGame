@@ -13,9 +13,17 @@ Data | Versão | Descrição | Autor(es)
 
 ### Propósito
 
+Esse projeto visa apoiar o aprendizado sobre a interação humana com a tecnologia no âmbito das prototipações.
+
 ### Escopo
 
+O projeto limita-se às prototipações de baixo e alto nível. 
+
+
 ### Tema do Jogo
+
+O jogo será educacional voltado ao aprendizado de prototipação. 
+
 
 ### Definições, acrônimos e abreviações
 
@@ -23,6 +31,12 @@ Data | Versão | Descrição | Autor(es)
 * IHC - Interação Humano Computador
 
 ### Visão geral
+
+Seguindo o ciclo de engenharia de usabilidade da Mayhew. O projeto será desenvolvido segundo o cronograma presente nesse documento no tópico 5. As características do jogo, como história, personagens, jogabilidade e interface serão pensadas a partir do problema identificado no tópico 2.2 e dos dados que serão coletados a partir do público alvo.
+
+### Ciclo de Vida
+
+![Ciclo de Vida](./img/ciclo-de-vida.png)
 
 ## Posição
 
@@ -48,10 +62,10 @@ Data | Versão | Descrição | Autor(es)
 
  Nome | Matrícula | Responsabilidade | GitHub
 ------- | ---------|----------------- | -------
-Gabriela |    |Planejar e executar o Projeto de Interface do software. |   
-Guilherme || Planejar e executar o Projeto de Interface do software. |
+Gabriela | 15/0127006   |Planejar e executar o Projeto de Interface do software. | @gag2502
+Guilherme |15/0128312| Planejar e executar o Projeto de Interface do software. | @gleal17
 Iolane Andrade | 13/0028355 | Planejar e executar o Projeto de Interface do software. | [@IolaneAndrade](https://github.com/IolaneAndrade)
-Julio | | Planejar e executar o Projeto de Interface do software. | 
+Julio |16/0129443 | Planejar e executar o Projeto de Interface do software. | @juliolitwin
 Stéfane Souza | 15/0148623 | Planejar e executar o Projeto de Interface do software. | [@stefanesouza](https://github.com/stefanesouza)
 
 
@@ -64,6 +78,46 @@ André Barros | Professor da disciplina. | Orientar a equipe durante o desenvolv
 ## Ferramentas do Projeto
 
 ## Cronograma
+
+Iteração | Atividades |Datas
+------ | ------- | ------
+0 | -|19/08 à 25/08
+ | Definição da Equipe | 
+ |Definição de tema | 
+1 | - | 26/08 à 31/08
+| Ferramentas |
+|Identificação do problema |
+|Cronograma |
+| Escopo |
+2 | | 01/09 à 07/09
+|Título do Jogo |
+| História do Jogo |
+| Fluxo do jogo |
+| Storyboard |
+3 | | 08/09 á 14/09
+| Perfil do Usuário |
+| Personas |
+| Análise de tarefas |
+| Princípios e diretrizes de design |
+| Metas de usabilidade |
+| Planejamento da Avaliação |
+4 | | 15/09 à 21/09
+| Prototipação em Papel |
+| Teste Piloto |
+| Verificação do protótipo |
+5 | | 22/09 à 28/09
+| Verificação das metas de usabilidade |
+| Análise dos resultados |
+6 | | 29/09 à 05/10
+| Prototipação Alta fidelidade |
+| Testes de usabilidade |
+| Análise dos resultados |
+7 | | 06/10 à 12/10
+| Verificação de Artefatos |
+|Considerações finais |
+
+
+
 
 ## Referências
 

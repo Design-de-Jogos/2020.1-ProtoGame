@@ -4,5 +4,5 @@ repo_url: 'https://github.com/Design-de-Jogos/2020.1-Prototyping'
 pages:
  - Sobre o projeto:
    - Home: index.md
- - Análise de Requisitos :clipboard::
+ - Análise de Requisitos:
    - Visão do produto: Visao.md
