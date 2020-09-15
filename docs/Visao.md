@@ -6,6 +6,10 @@ Data | Versão | Descrição | Autor(es)
 29/08/2020 | 0.2 | Evolução do cronograma; Instrução do problema; descrição das partes interessadas. | Iolane e Stéfane
 29/08/2020 | 0.3 | Oportunidade de negócios | Iolane
 29/08/2020 | 0.4 | Ferramentas | Stéfane
+30/08/2020 | 0.5 | Propósito, escopo, tema do jogo, visão geral | Gabriela 
+02/09/2020 | 0.6 | Riscos | Julio
+06/09/2020 | 0.7 | Ciclo de Vida, alterações nas Ferramentas do Projeto e Revisão do documento | Stéfane
+
 
 
 
@@ -36,7 +40,7 @@ Seguindo o ciclo de engenharia de usabilidade da Mayhew. O projeto será desenvo
 
 ### Ciclo de Vida
 
-![Ciclo de Vida](./img/ciclo-de-vida.png)
+![Ciclo de Vida](./img/ciclo-de-vida.jpeg)
 
 ## Posição
 
