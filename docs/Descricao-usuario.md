@@ -45,12 +45,25 @@ De acordo com a pesquisa, 100% dos participantes afirmam utilizar o computador p
 
 De acordo com a pesquisa, Video aulas, com 83,8% e resolução de exercícios, com 75,7%, estão entre os recursos de estudo mais utilizados entre os participantes.
 
-![interesse-tema-4](./img/recursos.jpeg)
+![interesse-tema-5](./img/recursos.jpeg)
 
 ## Jodos Educacionais
 
 De acordo com a pesquisa, 78,4% dos participantes não utiliza jogos educacionais como recurso para auxiliar os estudos.
 
-![interesse-tema-4](./img/utiliza-jogos.jpeg)
+![jogos-1](./img/utiliza-jogos.jpeg)
+
+De acordo com a pesquisa, 91,9% dos participantes gostaria que houvesse alguma interação com outros jogadores em jogos educacionais.
+
+![jogos-2](./img/interacao-jogos.jpeg)
+
+De acordo com a pesquisa, 73% acredita que os jogos educaionais são desafiadores para o aprendizado.
+
+![jogos-3](./img/desafiadores.jpeg)
+
+De acordo com a pesquisa, Jogos de perguntas e respostas e jogos de estratégias são os mais jogados dentre os participantes.
+
+![jogos-4](./img/tipo-jogo.jpeg)
+
 
 
