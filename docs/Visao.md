@@ -62,10 +62,10 @@ Seguindo o ciclo de engenharia de usabilidade da Mayhew. O projeto será desenvo
 
  Nome | Matrícula | Responsabilidade | GitHub
 ------- | ---------|----------------- | -------
-Gabriela | 15/0127006   |Planejar e executar o Projeto de Interface do software. | @gag2502
-Guilherme |15/0128312| Planejar e executar o Projeto de Interface do software. | @gleal17
+Gabriela | 15/0127006   |Planejar e executar o Projeto de Interface do software. | [@gag2502](https://github.com/gag2502)
+Guilherme |15/0128312| Planejar e executar o Projeto de Interface do software. | [@gleal17](https://github.com/gleal17)
 Iolane Andrade | 13/0028355 | Planejar e executar o Projeto de Interface do software. | [@IolaneAndrade](https://github.com/IolaneAndrade)
-Julio |16/0129443 | Planejar e executar o Projeto de Interface do software. | @juliolitwin
+Julio |16/0129443 | Planejar e executar o Projeto de Interface do software. | [@juliolitwin](https://github.com/@juliolitwin)
 Stéfane Souza | 15/0148623 | Planejar e executar o Projeto de Interface do software. | [@stefanesouza](https://github.com/stefanesouza)
 
 
