@@ -1,6 +1,9 @@
 site_name: Prototyping
 repo_url: 'https://github.com/Design-de-Jogos/2020.1-Prototyping'
 
+theme:
+  name: 'material' 
+
 pages:
  - Sobre o projeto:
    - Home: index.md
