@@ -8,6 +8,9 @@ nav:
  - Análise de Requisitos:
    - Visão do produto: Visao.md
    - Descrição do Jogo: Descricao-jogo.md
-   - Descrição dos Usuários: Descricao-usuario.md
+   - Perfil do Usuário: Perfil-usuario.md
+ - Gerenciamento:
+   - Gerenciamento de tempo: Cronograma.md
+   - Reuniões: Reuniao.md
  - Apresentações:
    - Apresentações: Apresentacao.md

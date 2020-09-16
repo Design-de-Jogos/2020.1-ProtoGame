@@ -1,4 +1,4 @@
-# Descrição do Usuário
+# Perfil do Usuário
 
 Uma técnica utilizada para compreender melhor o nosso público alvo foi a aplicação de questionário. 
 
