@@ -37,11 +37,31 @@ O jogo será educacional voltado ao aprendizado de prototipação.
 
 ### Visão geral
 
-Seguindo o ciclo de engenharia de usabilidade da Mayhew. O projeto será desenvolvido segundo o cronograma presente nesse documento no tópico 5. As características do jogo, como história, personagens, jogabilidade e interface serão pensadas a partir do problema identificado no tópico 2.2 e dos dados que serão coletados a partir do público alvo.
+<p align="justify"> Seguindo o ciclo de engenharia de usabilidade da Mayhew. O projeto será desenvolvido segundo o cronograma presente nesse documento no tópico 5. As características do jogo, como história, personagens, jogabilidade e interface serão pensadas a partir do problema identificado no tópico 2.2 e dos dados que serão coletados a partir do público alvo.</p>
 
 ### Ciclo de Vida
 
 ![Ciclo de Vida](./img/ciclo-de-vida.jpeg)
+
+[Figura 1 - Ciclo da Engenharia de Usabilidade, Mayhew (1999)](./img/ciclo-de-vida.jpeg)
+
+
+<p align="justify"> O Ciclo da Engenharia de Usabilidade é dividido em três fases: Análise de requisitos; Design, avaliação e desenvolvimento, e Instalação. </p>
+
+<p align="justify">Análise de requisitos: Nesta fase, são definidas as metas de usabilidade com base no perfil dos usuários, análise de tarefas, possibilidades e limitações da plataforma, e princípios gerais de design em IHC. Todas essas informações são registradas no artefato Guia de Estilo. Nessa fase o grupo pretende criar um questionário e recolher dados sobre o que os usuários esperam de um jogo educacional, os interesses do público, etc. </p>
+
+<p align="justify">Design, avaliação e desenvolvimento: O objetivo desta fase é conceber uma solução que atenda às metas de usabilidade definidas na fase anterior. Isso é feito em 3 níveis.</p>
+
+<p align="justify"> a) Nível 1: Neste nível, é preciso realizar uma reengenharia do trabalho, repensando a execução das tarefas para alcançar os objetivos dos usuários. É preciso elaborar alternativas de solução do modelo conceitual, elaborar protótipos de baixa fidelidade e analisá-los.</p>
+
+<p align="justify"> b) Nível 2: Neste nível, é preciso estabelecer padrões de design para a solução que está sendo concebida, construir protótipos de média fidelidade e avaliá-los de acordo com esses padrões. </p>
+
+<p align="justify"> c) Nível 3: Neste nível, é realizado o projeto detalhado da interface, com alta fidelidade, para ser implementado.
+Instalação: Nesta fase, o designer deve coletar opiniões e dados dos usuários a respeito da utilização da ferramenta depois de algum tempo de uso. 
+Como o foco do trabalho dentro da disciplina é apenas o planejamento, funcionamento e história completa do jogo, não iremos abordar as partes de desenvolvimento de instalação do ciclo de vida Mayhew, visto que para a disciplina não é necessário a parte de codificação. </p>
+
+
+
 
 ## Posição
 
@@ -70,7 +90,6 @@ Seguindo o ciclo de engenharia de usabilidade da Mayhew. O projeto será desenvo
 Gabriela | 15/0127006   |Planejar e executar o Projeto de Interface do software. | [@gag2502](https://github.com/gag2502)
 Guilherme |15/0128312| Planejar e executar o Projeto de Interface do software. | [@gleal17](https://github.com/gleal17)
 Iolane Andrade | 13/0028355 | Planejar e executar o Projeto de Interface do software. | [@IolaneAndrade](https://github.com/IolaneAndrade)
-Julio |16/0129443 | Planejar e executar o Projeto de Interface do software. | [@juliolitwin](https://github.com/@juliolitwin)
 Stéfane Souza | 15/0148623 | Planejar e executar o Projeto de Interface do software. | [@stefanesouza](https://github.com/stefanesouza)
 
 
