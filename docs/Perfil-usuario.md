@@ -1,6 +1,17 @@
 # Perfil do Usuário
 
-Uma técnica utilizada para compreender melhor o nosso público alvo foi a aplicação de questionário. 
+Data | Versão | Descrição | Autor(es)
+---- | ---- | ----| -----
+08/09/2020 | 0.0 | Criação do documento | Equipe de GDD
+10/09/2020 | 0.1| Elaboração  e liberação do questionário | Equipe de GDD
+14/09/2020 | 0.2 | Descrição da metodologia | Iolane
+15/09/2020 | 0.2 | Coleta dos resultados | Iolane
+
+## Metodologia
+
+<p align="justify">Uma técnica utilizada para compreender melhor o nosso público alvo foi a aplicação de questionário.</p> 
+
+<p align="justify">O questionário, segundo Gil (1999, p.128), é uma técnica de investigação quantitativa que tem como objetivo o conhecer as opiniões, crenças, sentimentos, interesses, expectativas, situações vivenciadas. O questionário é uma técnica que serve para coletar as informações da realidade. </p>
 
 
 ## Idade
@@ -67,3 +78,6 @@ De acordo com a pesquisa, Jogos de perguntas e respostas e jogos de estratégias
 
 
 
+## Referências
+
+CHAER, Galdino; DINIZ, Rafael Rosa Pereira; RIBEIRO, Elisa Antônia. **A técnica do questionário na pesquisa educacional.** Revista Evidência, v. 7, n. 7, 2012. Disponível em: [http://www.educadores.diaadia.pr.gov.br/arquivos/File/maio2013/sociologia_artigos/pesqusia_social.pdf](http://www.educadores.diaadia.pr.gov.br/arquivos/File/maio2013/sociologia_artigos/pesqusia_social.pdf)
