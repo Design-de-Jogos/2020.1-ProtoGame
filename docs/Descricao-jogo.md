@@ -22,9 +22,13 @@ ProtoGame
 
 <p align="justify">O jogo contará com testes de múltiplas escolhas, memorização e desafios de associação e outros. Terá fases bloqueadas que serão liberadas de acordo com a pontuação do jogador, caso o jogador erre sua resposta, sofrerá uma penalidade. A penalidade funciona como as vidas do jogador, ele terá 5 chances para acertar a respostas e caso erre todas terá que reiniciar o jogo. Ao passar de cada fase o jogador irá receber pequenas recompensas que o ajudará no jogo e manter a saúde do Protus. Ao final de cada módulo o jogador recebe um conjunto de recompensas.</p>
 
+<p align="justify"> O jogo será dividido em módulos sobre o tema de prototipação e cada módulo subdividido em tópicos. Cada tópico corresponderá a três perguntas, com feedback, ao final destas perguntas é atribuida uma pontuação referente a fase do jogo.</p>
+
 # Fluxo do jogo
 
 ![Fluxo](./img/fluxo-jogo.jpeg)
+
+[Figura 1: Fluxo do jogo](./img/fluxo-jogo.jpeg)
 
 # Personagem
 
@@ -40,7 +44,7 @@ Protus, mascote do jogo que acompanha o jogador durante todo o processo de apren
   
   - **Fim de jogo**: O fim de jogo se dá de duas maneiras. A primeira é ao perder as 5 vidas. Uma vida é perdida ao errar uma questão. A segunda maneira é deixando os níveis de saúde do Protus chegarem a níveis críticos, desta maneira o Protus é levado para adoção.
   
-  - **Recompensas:** Ao pasar de fase o jogador conquista pequenas recompensas. Ao finalizar um módulo o jogador recebe um conjunto de recompensas.
+  - **Recompensas:** Ao passar de fase o jogador conquista pequenas recompensas. Ao finalizar um módulo o jogador recebe um conjunto de recompensas.
 
 
 # Plataforma
