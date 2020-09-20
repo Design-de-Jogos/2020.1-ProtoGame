@@ -11,7 +11,7 @@ Data | Versão | Descrição | Autor(es)
 
 <p align="justify">Uma técnica utilizada para compreender melhor o nosso público alvo foi a aplicação de questionário.</p> 
 
-<p align="justify">O questionário, segundo Gil (1999, p.128), é uma técnica de investigação quantitativa que tem como objetivo o conhecer as opiniões, crenças, sentimentos, interesses, expectativas, situações vivenciadas. O questionário é uma técnica que serve para coletar as informações da realidade. </p>
+<p align="justify">O questionário, segundo Gil (1999, p.128), é uma técnica de investigação quantitativa que tem como objetivo de conhecer as opiniões, crenças, sentimentos, interesses, expectativas, situações vivenciadas. O questionário é uma técnica que serve para coletar as informações da realidade. </p>
 
 <p align="justify">Segundo BARBOSA e SILVA (2010, p.134), os dados coletados sobre o usuário são relacionados a sua relação com tecnologia, seu conhecimento do domínio do produto e das tarefas que deverá realizar utilizando o produto.</p>
 
@@ -19,6 +19,8 @@ Data | Versão | Descrição | Autor(es)
 
 
 ## Resultados
+
+Para a análise dos resultados obtivemos 37 participações.
 
 ### Dados Pessoais
 
