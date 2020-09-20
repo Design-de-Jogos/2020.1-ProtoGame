@@ -4,8 +4,9 @@ Data | Versão | Descrição | Autor(es)
 ---------- | --- | -------------------------------------------------| -----
 16/09/2020 | 0.0 | Transferencia do cronograma para uma nova página | Iolane
 
-o gerenciamento de tempo  do nosso projeto será realizado através da elaboração de um
-cronograma, com a definição de macro atividades envolvidas em cada iteração.
+## Metodologia 
+
+<p align="justify">O gerenciamento de tempo  do nosso projeto será realizado através da elaboração de um cronograma, com a definição de macro atividades envolvidas em cada iteração. </p>
 
 ## Cronograma
 
