@@ -124,6 +124,14 @@ De acordo com a pesquisa, Jogos de perguntas e respostas e jogos de estratégias
 
 [Figura 12: Resultado da pesquisa sobre a preferência de tipos de jogos](./img/tipo-jogo.jpeg)
 
+#### Questão aberta
+
+Foi elaborada uma questão aberta para que os participantes da pesquisa desse sua opiniões relacionadas ao tema.
+Elaboramos um gráfico com as palavras mais recorrentes dentre as respostas ([Figura 13](./img/grafico-palavras.jpeg))
+
+![jogos-5](./img/grafico-palavras.jpeg)
+
+[Figura 13: gráfico de palavras](./img/grafico-palavras.jpeg)
 
 
 ## Referências
