@@ -60,7 +60,9 @@ O jogo será educacional voltado ao aprendizado de prototipação.
 Instalação: Nesta fase, o designer deve coletar opiniões e dados dos usuários a respeito da utilização da ferramenta depois de algum tempo de uso. 
 Como o foco do trabalho dentro da disciplina é apenas o planejamento, funcionamento e história completa do jogo, não iremos abordar as partes de desenvolvimento de instalação do ciclo de vida Mayhew, visto que para a disciplina não é necessário a parte de codificação. </p>
 
+<p align="justify"> Instalação: Nesta fase, o designer deve coletar opiniões e dados dos usuários a respeito da utilização da ferramenta depois de algum tempo de uso.
 
+<p align="justify"> Como o foco do trabalho dentro da disciplina é apenas o planejamento, funcionamento e história completa do jogo, não iremos abordar a parte de Instalação do ciclo de vida Mayhew, visto que para a disciplina não é necessário a parte de codificação.
 
 
 ## Posição
@@ -101,7 +103,13 @@ André Barros | Professor da disciplina. | Orientar a equipe durante o desenvolv
 
 ## Ferramentas do Projeto
 
-
+Ferramenta | Nome | Descrição
+----- | ------ | -------
+x | Microsoft Teams | Ferramenta de comunicação do grupo para acompanhamento de aulas e reuniões
+ x | GitHub | Plataforma utilizada para manter a documentação do projeto e o seu versionamento
+ x | GitPages | Ferramenta utilizada para publicar os documentos do projeto de forma mais organizada
+ x | Telegram | Ferramenta de comunicação rápida entre os membros do grupo para marcar reuniões, etc
+ x | Google Drive | Plataforma utilizada para armazenar documentos necessários para o projeto onde todos possam ter acesso rápido
 
 
 
