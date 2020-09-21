@@ -28,7 +28,7 @@ Data | Versão | Descrição | Autor(es)
 
 [Figura 1: Fluxo do jogo](./img/fluxo-jogo.jpeg)
 
-## Fluvo do jogo (v2)
+## Fluxo do jogo (v2)
 ![Fluxo](./img/fluxo_protogame.jpg)
 
 [Figura 2: Fluxo do jogo](./img/fluxo_protogame.jpg)
