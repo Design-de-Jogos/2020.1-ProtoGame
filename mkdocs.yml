@@ -7,9 +7,9 @@ nav:
    - Home: index.md
  - Análise de Requisitos:
    - Visão do produto: Visao.md
-   - Descrição do Jogo: Descricao-jogo.md
    - Perfil do Usuário: Perfil-usuario.md
    - Persona: Persona.md
+   - Descrição do Jogo: Descricao-jogo.md
    - Análise de Tarefas: analise_de_tarefas.md
    - Storyboard: storyboard.md 
    - Guia de Estilo: Usabilidade.md
