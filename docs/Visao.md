@@ -75,6 +75,7 @@ Como o foco do trabalho dentro da disciplina é apenas o planejamento, funcionam
 
 <p align="justify">Nosso projeto visa solucionar o problema da falta de jogos educacionais que ensinem a respeito da teoria de prototipação.</p>
 
+
 ### Instrução do problema
 
 <table>
@@ -106,10 +107,10 @@ André Barros | Professor da disciplina. | Orientar a equipe durante o desenvolv
 Ferramenta | Nome | Descrição
 ----- | ------ | -------
 x | Microsoft Teams | Ferramenta de comunicação do grupo para acompanhamento de aulas e reuniões
- x | GitHub | Plataforma utilizada para manter a documentação do projeto e o seu versionamento
- x | GitPages | Ferramenta utilizada para publicar os documentos do projeto de forma mais organizada
- x | Telegram | Ferramenta de comunicação rápida entre os membros do grupo para marcar reuniões, etc
- x | Google Drive | Plataforma utilizada para armazenar documentos necessários para o projeto onde todos possam ter acesso rápido
+x | GitHub | Plataforma utilizada para manter a documentação do projeto e o seu versionamento
+x | GitPages | Ferramenta utilizada para publicar os documentos do projeto de forma mais organizada
+x | Telegram | Ferramenta de comunicação rápida entre os membros do grupo para marcar reuniões, etc
+x | Google Drive | Plataforma utilizada para armazenar documentos necessários para o projeto onde todos possam ter acesso rápido
 
 
 
