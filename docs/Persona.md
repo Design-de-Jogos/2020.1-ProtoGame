@@ -26,3 +26,9 @@ Data | Versão | Descrição | Autor(es)
 ![persona 3](./img/persona-3.jpg)
 
 [Figura 3: Descrição da persona 3](./img/persona-3.jpg)
+
+### Persona 4
+
+![persona 4](./img/persona-4.png)
+
+[Figura 4: Descrição da persona 3](./img/persona-4.png)
