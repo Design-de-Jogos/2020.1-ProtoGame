@@ -4,15 +4,13 @@ Data | Versão | Descrição | Autor(es)
 ----- | ------ | -------- | --------
 14/09/2020 | 0.0 | Definição do título, história, fluxo, personagens, gameplay e plataforma do jogo  | Guilherme, Gabriela, Iolane, Stéfane
 18/09/2020 | 0.1 | Atualização da história do jogo e gameplay | Iolane
-
-
-
+20/09/2020 | 0.2 | Atualização fluxo do game| Guilherme
 
 
 
 ## Título do jogo
 
-ProtoGame
+### ProtoGame
 
 ## História do jogo (Tarefas, Fases)
 
@@ -29,6 +27,11 @@ ProtoGame
 ![Fluxo](./img/fluxo-jogo.jpeg)
 
 [Figura 1: Fluxo do jogo](./img/fluxo-jogo.jpeg)
+
+## Fluvo do jogo (v2)
+![Fluxo](./img/fluxo_protogame.jpg)
+
+[Figura 2: Fluxo do jogo](./img/fluxo_protogame.jpg)
 
 # Personagem
 
@@ -54,3 +57,10 @@ Protus, mascote do jogo que acompanha o jogador durante todo o processo de apren
 
 
 
+
+## Referências
+
+
+> Figura 1 por Guilherme Leal
+
+> Figura 2 por Guilherme Leal

@@ -12,6 +12,8 @@ nav:
    - Persona: Persona.md
    - Requisitos de Usabilidade:
        - Guia de Estilo: Usabilidade.md
+   - Análise de Tarefas: analise_de_tarefas.md
+   - Storyboard: storyboard.md 
  - Gerenciamento:
    - Gerenciamento de tempo: Cronograma.md
    - Riscos: Riscos.md
