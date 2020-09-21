@@ -3,9 +3,7 @@
 ## Histórico de versão 
 
 | Data | Versão | Descrição | Autor(es) | 
-
 | :--: | :----: | :-------: | :-------: | 
-
 |20/09/2020| 0.1 | Criação do Manual de Identidade Visual| [Guilherme Leal](https://github.com/gleal17)| 
 
 
@@ -17,19 +15,13 @@
 
 # 2. Storyboards 
 
- 
-
 ## 2.1 Storyboard 1 
-
- 
 
 ![Storyboard 1 -](./img/Storyboad1.jpg) 
 
  
 
 ## Referêcias 
-
- 
 
 >(1) PREECE, J.; Rogers, Y.; Sharp, H. (2013). Design de Interação: além da interação humano-computador. Tradução: Isabela Gasparini; revisão técnica: Marcelo Soares Pimenta - 3. Ed – Porto alegre: Bookman, 2013 
 
