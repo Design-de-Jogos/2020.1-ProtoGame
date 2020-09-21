@@ -31,4 +31,4 @@ Data | Versão | Descrição | Autor(es)
 
 ![persona 4](./img/persona-4.png)
 
-[Figura 4: Descrição da persona 3](./img/persona-4.png)
+[Figura 4: Descrição da persona 4](./img/persona-4.png)
