@@ -10,10 +10,9 @@ nav:
    - Descrição do Jogo: Descricao-jogo.md
    - Perfil do Usuário: Perfil-usuario.md
    - Persona: Persona.md
-   - Requisitos de Usabilidade:
-       - Guia de Estilo: Usabilidade.md
    - Análise de Tarefas: analise_de_tarefas.md
    - Storyboard: storyboard.md 
+   - Guia de Estilo: Usabilidade.md
  - Gerenciamento:
    - Gerenciamento de tempo: Cronograma.md
    - Riscos: Riscos.md
