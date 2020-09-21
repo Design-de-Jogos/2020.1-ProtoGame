@@ -60,9 +60,9 @@ O jogo será educacional voltado ao aprendizado de prototipação.
 Instalação: Nesta fase, o designer deve coletar opiniões e dados dos usuários a respeito da utilização da ferramenta depois de algum tempo de uso. 
 Como o foco do trabalho dentro da disciplina é apenas o planejamento, funcionamento e história completa do jogo, não iremos abordar as partes de desenvolvimento de instalação do ciclo de vida Mayhew, visto que para a disciplina não é necessário a parte de codificação. </p>
 
-<p align="justify"> Instalação: Nesta fase, o designer deve coletar opiniões e dados dos usuários a respeito da utilização da ferramenta depois de algum tempo de uso.
+<p align="justify"> Instalação: Nesta fase, o designer deve coletar opiniões e dados dos usuários a respeito da utilização da ferramenta depois de algum tempo de uso. </p>
 
-<p align="justify"> Como o foco do trabalho dentro da disciplina é apenas o planejamento, funcionamento e história completa do jogo, não iremos abordar a parte de Instalação do ciclo de vida Mayhew, visto que para a disciplina não é necessário a parte de codificação.
+<p align="justify"> Como o foco do trabalho dentro da disciplina é apenas o planejamento, funcionamento e história completa do jogo, não iremos abordar a parte de Instalação do ciclo de vida Mayhew, visto que para a disciplina não é necessário a parte de codificação. </p>
 
 
 ## Posição
