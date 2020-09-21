@@ -7,13 +7,12 @@ nav:
    - Home: index.md
  - Análise de Requisitos:
    - Visão do produto: Visao.md
-   - Descrição do Jogo: Descricao-jogo.md
    - Perfil do Usuário: Perfil-usuario.md
    - Persona: Persona.md
-   - Requisitos de Usabilidade:
-       - Guia de Estilo: Usabilidade.md
-   - Análise de Tarefas: analise_de_tarefas.md
+   - Descrição do Jogo: Descricao-jogo.md
    - Storyboard: storyboard.md 
+   - Análise de Tarefas: analise_de_tarefas.md
+   - Guia de Estilo: Usabilidade.md
  - Gerenciamento:
    - Gerenciamento de tempo: Cronograma.md
    - Riscos: Riscos.md
