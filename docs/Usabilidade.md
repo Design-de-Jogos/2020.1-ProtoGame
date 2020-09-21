@@ -1,5 +1,4 @@
-#Guia de Estilo de Usabilidade do Software ProtoGame 
-## Especificação dos Requisitos de Usabilidade do Software
+# Guia de Estilo de Usabilidade do Software ProtoGame 
 
 Data | Versão | Descrição | Autor(es)
 ---- | ---- | ----| -----
@@ -50,9 +49,9 @@ desenvolvedores. Minimiza a reinvenção e beneficia o re-uso.
 Projeto | ProtoGame 
 Data inicial/ Data Atual | 19 de agosto de 2020 / 19 de setembro de 2020  
 Equipe Nome Papel | Gabriela Desenvolvedora 
- | Guilherme Desenvolvedor
- | Iolane Desenvolvedora  
- | Stefane Desenvolvedora 
+_ | Guilherme Desenvolvedor
+_ | Iolane Desenvolvedora  
+_ | Stefane Desenvolvedora 
 
 ### 1.7 Organização do documento 
 
