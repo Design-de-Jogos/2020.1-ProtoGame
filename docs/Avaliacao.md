@@ -46,3 +46,8 @@ Objetivo | Questão
 Buscou-se utilizar uma persona do grupo de usuários secundários do sistema. As características para a persona utilizada na avaliação serão da Persona 3 definida no  <a href= https://design-de-jogos.github.io/2020.1-Prototyping/Persona/>Documento de Descrição das Persona</a>. 
 
 
+## Referências
+
+BARBOSA, Simone; SILVA, Bruno. **Interação humano-computador**. Elsevier Brasil, 2010.
+
+NIELSEN, Jakob. **Usability engineering**. Morgan Kaufmann, 1994.
