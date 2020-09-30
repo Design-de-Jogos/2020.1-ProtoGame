@@ -79,10 +79,10 @@ Como o foco do trabalho dentro da disciplina é apenas o planejamento, funcionam
 ### Instrução do problema
 
 <table>
-<tr> <td> O problema da </td> <td>falta de uma forma interativa de estudos do tema de Prototipação da disciplina de Interação Humano Computador (IHC) </td> </tr>
-<tr> <td>Afeta</td> <td> os estudantes da disciplina</td> </tr>
-<tr> <td>Cujo impacto é</td> <td> a dificuldade de fixar o conteúdo ministrado em sala </td> </tr>
-<tr> <td> Uma boa solução seria</td> <td> um jogo interativo de perguntas e respostas.</td> </tr>
+<tr> <td> <b>O problema da</b> </td> <td>falta de uma forma interativa de estudos do tema de Prototipação da disciplina de Interação Humano Computador (IHC) </td> </tr>
+<tr> <td><b>Afeta </b></td> <td> os estudantes da disciplina</td> </tr>
+<tr> <td><b>Cujo impacto é</b></td> <td> a dificuldade de fixar o conteúdo ministrado em sala </td> </tr>
+<tr> <td> <b>Uma boa solução seria</b></td> <td> um jogo interativo de perguntas e respostas.</td> </tr>
 </table>
 
 ### Descrições das Partes Interessadas e Usuários

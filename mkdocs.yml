@@ -1,4 +1,4 @@
-site_name: Prototyping
+site_name: ProtoGame
 repo_url: 'https://github.com/Design-de-Jogos/2020.1-Prototyping'
 theme:
   name: 'material'
@@ -12,8 +12,10 @@ nav:
    - Descrição do Jogo: Descricao-jogo.md
    - Storyboard: storyboard.md 
    - Análise de Tarefas: analise_de_tarefas.md
-   - Guia de Estilo: Usabilidade.md
    - Princípios e Diretrizes para o Design: diretrizesDesign.md
+   - Guia de Estilo: Usabilidade.md
+ - Design, Avaliação:
+   - Planejamento das Avaliações: Avaliacao.md
  - Gerenciamento:
    - Gerenciamento de tempo: Cronograma.md
    - Riscos: Riscos.md
