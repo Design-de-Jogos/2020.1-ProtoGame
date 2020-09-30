@@ -1,12 +1,12 @@
 # Análise de Tarefas
 
-## Histórico de versão 
+### Histórico de versão 
 
 | Data | Versão | Descrição | Autor(es) | 
 | :--: | :----: | :-------: | :-------: | 
 |20/09/2020| 0.1 | Criação do Manual de Identidade Visual| [Guilherme Leal](https://github.com/gleal17)|
 
-# Introdução 
+## Introdução 
 
 <p align="justify">Os jogos digitais possuem uma série de considerações e problemas diferente dos outros tipos de softwares. Enquanto um consumidor pode ter a necessidade de comprar ou usar um software para executar determinada tarefa, o jogador compra um jogo voluntariamente, baseado em seu valor de entretenimento.  </p>
 
@@ -19,6 +19,9 @@
 ![Análise de tarefa](./img/analise%20de%20tarefas.jpg) 
 
 <p align="justify">A decisão de tarefas depende de como o usuário visualiza o processo dentro do sistema, é possível consequentemente a criar cenários e definir os requisitos de usabilidade.   </p>
+
+
+## Referências
 
 >JULL, J., 2005. Half-Real: Video Games Between real rules and fictional worlds – Cambridge MIT Press.  
 

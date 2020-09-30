@@ -136,6 +136,6 @@ Elaboramos um gráfico com as palavras mais recorrentes dentre as respostas ([Fi
 
 ## Referências
 
-CHAER, Galdino; DINIZ, Rafael Rosa Pereira; RIBEIRO, Elisa Antônia. **A técnica do questionário na pesquisa educacional.** Revista Evidência, v. 7, n. 7, 2012. Disponível em: [http://www.educadores.diaadia.pr.gov.br/arquivos/File/maio2013/sociologia_artigos/pesqusia_social.pdf](http://www.educadores.diaadia.pr.gov.br/arquivos/File/maio2013/sociologia_artigos/pesqusia_social.pdf)
+>CHAER, Galdino; DINIZ, Rafael Rosa Pereira; RIBEIRO, Elisa Antônia. **A técnica do questionário na pesquisa educacional.** Revista Evidência, v. 7, n. 7, 2012. Disponível em: [http://www.educadores.diaadia.pr.gov.br/arquivos/File/maio2013/sociologia_artigos/pesqusia_social.pdf](http://www.educadores.diaadia.pr.gov.br/arquivos/File/maio2013/sociologia_artigos/pesqusia_social.pdf)
 
-BARBOSA, Simone; SILVA, Bruno. **Interação humano-computador.** Elsevier Brasil, 2010.
+>BARBOSA, Simone; SILVA, Bruno. **Interação humano-computador.** Elsevier Brasil, 2010.

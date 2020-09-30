@@ -43,11 +43,12 @@ Objetivo | Questão
 <p align="justify"><cite>“Primeiro, deixe-me esclarecer que sempre recomendamos 3-4 usuários como o número ideal para a maioria dos estudos de usabilidade. O Motivo da minha recomendação mais ampla para planejar para 5 usuários é que isso permite um ou até dois não-comparecidos. Enquanto continua a observar 3-4 usuários. Assim, 5 é o número mágico durante o planejamento, enquanto o número mágico para o teste real é 3-4. (NIELSEN, J. 2003)” </cite></p>
 
 <p align="justify">Portanto, 5 pessoas serão selecionadas e uma persona para a avaliação, seguintes os critérios: ter entre 15 e 34 anos, ser um aluno e ter interesse em aprender sobre prototipação.
-Buscou-se utilizar uma persona do grupo de usuários secundários do sistema. As características para a persona utilizada na avaliação serão da Persona 3 definida no  <a href= https://design-de-jogos.github.io/2020.1-Prototyping/Persona/>Documento de Descrição das Persona</a>. 
+Buscou-se utilizar uma persona do grupo de usuários secundários do sistema. As características para a persona utilizada na avaliação serão da Persona 3 definida no  <a href= https://design-de-jogos.github.io/2020.1-Prototyping/Persona/>Documento de Descrição das Persona</a>. </p>
 
 
 ## Referências
 
-BARBOSA, Simone; SILVA, Bruno. **Interação humano-computador**. Elsevier Brasil, 2010.
 
-NIELSEN, Jakob. **Usability engineering**. Morgan Kaufmann, 1994.
+>BARBOSA, Simone; SILVA, Bruno. **Interação humano-computador**. Elsevier Brasil, 2010.
+
+>NIELSEN, Jakob. **Usability engineering**. Morgan Kaufmann, 1994.

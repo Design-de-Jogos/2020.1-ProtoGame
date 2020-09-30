@@ -102,18 +102,42 @@ Nome | Descrição | Responsabilidade
 ----- | ------ | -------
 André Barros | Professor da disciplina. | Orientar a equipe durante o desenvolvimento do projeto.
 
+### Perfil do usuário
+
+#### Estudante
+
+ . | .
+-- | --
+**Representantes** | Estudantes
+**Descrição** | Estudantes que tem interesse em um auxilio para aprender prototipação
+**Responsabilidade** | Estudar para responder questões, manter as vidas no jogo e a saúde do personagem .
+**Critérios de Sucesso** | Responder questões diáriamente para ganhar icones para manter a saúde do personagem, manter as vidas e avançar de fases para concluir o estudo.
+**Envolvimento** | Alto
+
+
+#### Professor
+
+ . | .
+-- | --
+**Representantes** | Professores
+**Descrição** | Professores que lecionam sobre prototipação
+**Responsabilidade** | Criar uma turma, selecionar questões do banco de questões e monitorar o ranking da turma.
+**Critérios de Sucesso** | Monitorar o progresso dos estudantes.
+**Envolvimento** | Baixo
+
+
 ## Ferramentas do Projeto
 
-Ferramenta | Nome | Descrição
------ | ------ | -------
-x | Microsoft Teams | Ferramenta de comunicação do grupo para acompanhamento de aulas e reuniões
-x | GitHub | Plataforma utilizada para manter a documentação do projeto e o seu versionamento
-x | GitPages | Ferramenta utilizada para publicar os documentos do projeto de forma mais organizada
-x | Telegram | Ferramenta de comunicação rápida entre os membros do grupo para marcar reuniões, etc
-x | Google Drive | Plataforma utilizada para armazenar documentos necessários para o projeto onde todos possam ter acesso rápido
+Ferramenta | Descrição
+ ------ | -------
+**Microsoft Teams** | Ferramenta de comunicação do grupo para acompanhamento de aulas e reuniões
+**GitHub** | Plataforma utilizada para manter a documentação do projeto e o seu versionamento
+**GitPages** | Ferramenta utilizada para publicar os documentos do projeto de forma mais organizada
+**Telegram** | Ferramenta de comunicação rápida entre os membros do grupo para marcar reuniões, etc
+**Google Drive** | Plataforma utilizada para armazenar documentos necessários para o projeto onde todos possam ter acesso rápido
 
 
 
 ## Referências
 
-SAVI, Rafael; ULBRICHT, Vania Ribas. **Jogos digitais educacionais: benefícios e desafios.** RENOTE-Revista Novas Tecnologias na Educação, v. 6, n. 1, 2008. Disponível em: [https://www.seer.ufrgs.br/renote/article/viewFile/14405/8310](https://www.seer.ufrgs.br/renote/article/viewFile/14405/8310)
+>SAVI, Rafael; ULBRICHT, Vania Ribas. **Jogos digitais educacionais: benefícios e desafios.** RENOTE-Revista Novas Tecnologias na Educação, v. 6, n. 1, 2008. Disponível em: [https://www.seer.ufrgs.br/renote/article/viewFile/14405/8310](https://www.seer.ufrgs.br/renote/article/viewFile/14405/8310)
