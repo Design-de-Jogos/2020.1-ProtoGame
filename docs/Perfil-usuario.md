@@ -3,9 +3,10 @@
 Data | Versão | Descrição | Autor(es)
 ---- | ---- | ----| -----
 08/09/2020 | 0.0 | Criação do documento | Equipe de GDD
-10/09/2020 | 0.1| Elaboração  e liberação do questionário | Equipe de GDD
+10/09/2020 | 0.1 | Elaboração  e liberação do questionário | Equipe de GDD
 14/09/2020 | 0.2 | Descrição da metodologia | Iolane
 15/09/2020 | 0.3 | Coleta dos resultados | Iolane
+05/10/2020 | 0.4 | Adição da tabela de questões usadas no questionário | Iolane 
 
 ## Metodologia
 
@@ -15,8 +16,25 @@ Data | Versão | Descrição | Autor(es)
 
 <p align="justify">Segundo BARBOSA e SILVA (2010, p.134), os dados coletados sobre o usuário são relacionados a sua relação com tecnologia, seu conhecimento do domínio do produto e das tarefas que deverá realizar utilizando o produto.</p>
 
-<p align="justify">Ao elaborarmos o questionário, o dividimos em três seções. Na primeira seção pedimos a autorização do uso dos dados na nossa pesquisa, e coletamos dados pessoas como: idade; faixa etária; escolaridade e gênero. Com o objetivo de conhecermos nosso público alvo. Na segunda seção coletamos dados relacionados a práticas de estudo e interesse em prototipação. Na terceira seção coletados dados relacionados a jogos educacionais, para entendermos a relação do nosso público com jogos.</p>
+<p align="justify">Ao elaborarmos o questionário, o dividimos em três seções. Na primeira seção pedimos a autorização do uso dos dados na nossa pesquisa, e coletamos dados pessoas como: idade; faixa etária; escolaridade e gênero. Com o objetivo de conhecermos nosso público alvo. Na segunda seção coletamos dados relacionados a práticas de estudo e interesse em prototipação. Na terceira seção coletados dados relacionados a jogos educacionais, para entendermos a relação do nosso público com jogos. A tabela abaixo mostra as questões relacionadas aos seus objetivos.</p>
 
+Objetivo | Questões
+-------- | -------
+**Conhecer nosso público** | Qual a sua faixa etária?
+  . | Qual seu maior nível de formação? 
+  . | Qual é o seu gênero?
+**Conhecer práticas de estudo** | Você já teve algum contato com conteúdos sobre prototipação?
+ . | Você tem interesse em aprender prototipação?
+ . | Em sua prática de estudos, qual parte do conteúdo você sente maior dificuldade de assimilação?
+ . | Qual equipamento você costuma utilizar para auxiliar seus estudos?
+ . | Qual(is) o(s) recurso(s) de estudo você mais utilizada?
+ **Opniões relacionados a Jogos de Aprendizagem** | Você utiliza jogos educacionais para auxiliar na sua aprendizagem?
+  . | Você gostaria de um jogo educacional que tivesse interação com outros jogadores?
+  . | Você acha que os jogos educacionais são desafiadores para o aprendizado?
+  . | Quais tipos de jogos você costuma jogar?
+  . | Dê sua opinião sobre jogos educacionais. Nos dê um exemplo de um jogo que você goste ou como deveria ser um jogo que te motivaria a aprender.
+  
+  A aplicação dos questionários foi feita online. Os questionários foram elaborados no Google Forms e liberados nas redes sociais da Universidade de Brasilia e cursos técnicos. O questionário ficou aberto a participações do dia 10 de setembro ao dia 15 de setembro.
 
 ## Resultados
 
