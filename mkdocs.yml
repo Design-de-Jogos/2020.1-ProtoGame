@@ -5,6 +5,7 @@ theme:
 nav:
  - Sobre o projeto:
    - Home: index.md
+   - Cronograma: Cronograma.md
  - Análise de Requisitos:
    - Visão do produto: Visao.md
    - Perfil do Usuário: Perfil-usuario.md
@@ -15,10 +16,10 @@ nav:
    - Análise de Tarefas: analise_de_tarefas.md
    - Princípios e Diretrizes para o Design: diretrizesDesign.md
    - Guia de Estilo: Usabilidade.md
+   - Ferramentas: ferramentas.md
  - Design, Avaliação:
    - Planejamento das Avaliações: Avaliacao.md
  - Gerenciamento:
-   - Gerenciamento de tempo: Cronograma.md
    - Riscos: Riscos.md
    - Reuniões: Reuniao.md
  - Apresentações:
