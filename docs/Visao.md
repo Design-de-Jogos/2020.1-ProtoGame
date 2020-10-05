@@ -135,6 +135,7 @@ Ferramenta | Descrição
 **GitPages** | Ferramenta utilizada para publicar os documentos do projeto de forma mais organizada
 **Telegram** | Ferramenta de comunicação rápida entre os membros do grupo para marcar reuniões, etc
 **Google Drive** | Plataforma utilizada para armazenar documentos necessários para o projeto onde todos possam ter acesso rápido
+**Storyboard That** | Ferramenta utilizada para a elaboração dos storyboads do projeto
 
 
 
