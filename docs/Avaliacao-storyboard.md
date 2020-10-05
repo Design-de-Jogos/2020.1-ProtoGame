@@ -1,14 +1,32 @@
 # Avaliação do Storyboard
 
-Foram feitas 7 perguntas aos participantes.
+### Perfil dos participantes
+
+| Nome  | Idade  | Escolaridade   | Ocupação profissional |
+|---|---|---|---|
+| João | 22 | Ensino Superior Incompleto  | Estudante |
+| Alice | 18 | Ensino Superior Incompleto  | Estudante |
+| Victor Hugo | 25 | Ensino Superior Incompleto  | Estudante |
+
+
+
+### Análise
+Foram feitas 7 perguntas aos participantes:
 
 - As atividades estão adequadas para faixa etária?
+![perg](./img/perg1.png)
 - As atividades proporcionam o desenvolvimento de competências gerais pelo aluno/utilizador, sugeridas no currículo?
+![perg](./img/perg2.png)
 - As atividades permitem um envolvimento ativo do professor?
+![perg](./img/perg3.png)
 - A organização e apresentação da informação está simples de compreender?
+![perg](./img/perg4.png)
 - A ideia do produto é agradável?
+![perg](./img/perg5.png)
 - O personagem Protus (bichinho de estimação) transmite uma ideia/sentimento positivo?
+![perg](./img/perg6.png)
 - Possui alguma consideração a respeito da avaliação?
+![perg](./img/perg7.png)
 
 Os participantes da avaliação enquadram-se no perfil definido pelas Personas elaboradas.
 O participante mais velho tem 25 anos e o mais jovem possue 18 anos e são alunos de graduação.
