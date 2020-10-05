@@ -1,6 +1,7 @@
 
 # Visão do Produto 
 
+## Versionamento
 Data | Versão | Descrição | Autor(es)
 ---- | ---- | ----| -----
 26/08/2020 | 0.0 | Criação do cronograma | Equipe de GDD
@@ -12,6 +13,7 @@ Data | Versão | Descrição | Autor(es)
 02/09/2020 | 0.6 | Riscos | Julio
 06/09/2020 | 0.7 | Ciclo de Vida, alterações nas Ferramentas do Projeto e Revisão do documento | Stéfane
 16/09/2020 | 0.8 | Tranferencia do cronograma para uma nova página | Iolane
+05/10/2020 | 0.9 | Adição de novas ferramentas | Iolane
 
 
 ## Introdução
@@ -136,6 +138,8 @@ Ferramenta | Descrição
 **Telegram** | Ferramenta de comunicação rápida entre os membros do grupo para marcar reuniões, etc
 **Google Drive** | Plataforma utilizada para armazenar documentos necessários para o projeto onde todos possam ter acesso rápido
 **Storyboard That** | Ferramenta utilizada para a elaboração dos storyboads do projeto
+**Google Forms** | Ferramenta utilizada na elaboração e aplicação de questionários
+**Draw.io** | Ferramenta utilizada na elaboração de esquemáticos
 
 
 
