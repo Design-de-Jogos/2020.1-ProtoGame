@@ -3,6 +3,9 @@
 # Grupo 4: Protótipo 
 
 
+Data | Versão | Descrição | Autor(es)
+---- | ---- | ----| -----
+15/09/2020 | 0.0 | Saída do membro do time Júlio devido trancamento da disciplina| Equipe de GDD
 
 
 ## Equipe
