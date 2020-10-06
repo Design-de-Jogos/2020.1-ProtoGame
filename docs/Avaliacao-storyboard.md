@@ -15,16 +15,22 @@ Foram feitas 7 perguntas aos participantes:
 
 - As atividades estão adequadas para faixa etária?
 ![perg](./img/perg1.png)
+[Figura 1: Avaliação da faixa etária](./img/perg1.png)
 - As atividades proporcionam o desenvolvimento de competências gerais pelo aluno/utilizador, sugeridas no currículo?
 ![perg](./img/perg2.png)
+[Figura 2: Avaliação do desenvolvimento de competências por meio do jogo](./img/perg2.png)
 - As atividades permitem um envolvimento ativo do professor?
 ![perg](./img/perg3.png)
+[Figura 3: Avaliação da participação do professor](./img/perg3.png)
 - A organização e apresentação da informação está simples de compreender?
 ![perg](./img/perg4.png)
+[Figura 4: Avaliação da compreensão sobre o enredo por parte dos participantes](./img/perg4.png)
 - A ideia do produto é agradável?
 ![perg](./img/perg5.png)
+[Figura 5: Avaliação sobre a atratividade](./img/perg5.png)
 - O personagem Protus (bichinho de estimação) transmite uma ideia/sentimento positivo?
 ![perg](./img/perg6.png)
+[Figura 6: Avaliação sobre o Protus](./img/perg6.png)
 - Possui alguma consideração a respeito da avaliação?
 ![perg](./img/perg7.png)
 
