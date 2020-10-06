@@ -13,13 +13,13 @@ nav:
    - Descrição do Jogo: Descricao-jogo.md
    - Recursos do produto: recursos-produto.md
    - Storyboard: storyboard.md
-   - Avaliação do Storyboard: Avaliacao-storyboard.md
    - Análise de Tarefas: analise_de_tarefas.md
    - Princípios e Diretrizes para o Design: diretrizesDesign.md
    - Guia de Estilo: Usabilidade.md
    - Ferramentas: ferramentas.md
  - Design, Avaliação:
    - Planejamento das Avaliações: Avaliacao.md
+   - Análise dos Resultados da Avaliação: Avaliacao-storyboard.md
  - Gerenciamento:
    - Riscos: Riscos.md
    - Reuniões: Reuniao.md
