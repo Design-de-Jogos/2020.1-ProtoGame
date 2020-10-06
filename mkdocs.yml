@@ -3,8 +3,8 @@ repo_url: 'https://github.com/Design-de-Jogos/2020.1-Prototyping'
 theme:
   name: 'material'
 nav:
+ - Home: index.md
  - Sobre o projeto:
-   - Home: index.md
    - Cronograma: Cronograma.md
  - Análise de Requisitos:
    - Visão do produto: Visao.md
