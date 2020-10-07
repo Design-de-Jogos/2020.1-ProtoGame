@@ -1,5 +1,10 @@
 # Avaliação do Storyboard
 
+Data | Versão | Descrição | Autor(es)
+---- | ---- | ----| -----
+04/09/2020 | 0.0 | Criação do documento | Gabriela
+05/09/2020 | 0.1 | Adição Storyboads | Guilherme
+
 ### Perfil dos participantes
 
 | Nome  | Idade  | Escolaridade   | Ocupação profissional |
@@ -8,7 +13,27 @@
 | Alice | 18 | Ensino Superior Incompleto  | Estudante |
 | Victor Hugo | 25 | Ensino Superior Incompleto  | Estudante |
 
+### Storyboards 
 
+#### Storyboard 1
+
+![Storyboard 1 -](./img/sb2.jpg) 
+
+#### Storyboard 2
+
+![Storyboard 2 -](./img/sb3.jpg)
+
+#### Storyboard 3
+
+![Storyboard 3 -](./img/sb4.jpg)
+
+#### Storyboard 4
+
+![Storyboard 4 -](./img/sb5.jpg)
+
+#### Storyboard 5
+
+![Storyboard 5 -](./img/sb6.jpg)
 
 ### Análise
 Foram feitas 7 perguntas aos participantes:
@@ -46,3 +71,8 @@ Um dos comentários foi:
 "Achei criativo e de fácil compreensão de qualquer pessoa que esteja interessada no assunto :-), amei o Protus"
 
 Com isso podemos avaliar a aceitação da ideia dentre o nosso público alvo como tendo uma resposta positiva.
+
+
+## Referências
+
+>Storyboard 1,2,3,4,5 por Guilherme Leal (edição adaptada) em https://www.storyboardthat.com/
