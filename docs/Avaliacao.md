@@ -16,7 +16,7 @@ Data | Versão | Descrição | Autor(es)
 
 ## Storyboard
 
-<p align="justify">A avaliação do storyboard tem como objetivo avaliar o potencial técnico-didático dos mesmo. Para a coleta dos dados utilizaremos a técnica de investigação com a aplicação de questionários que visam abstrair percepções positivas e negativas dos utilizadores em relação aos storyboards. Na Figura 1 está ilustrada o esquema de avaliação do storyboard.</p>
+<p align="justify">A avaliação do storyboard tem como objetivo avaliar o potencial técnico-didático do mesmo. Para a coleta dos dados utilizaremos a técnica de investigação com a aplicação de questionários que visam abstrair percepções positivas e negativas dos utilizadores em relação aos storyboards. Na Figura 1 está ilustrada o esquema de avaliação do storyboard.</p>
 
 ![metodologia da avaliação](./img/Avaliacao-storyboard.jpg)
 
@@ -44,6 +44,36 @@ Objetivo | Questão
 
 <p align="justify">Portanto, 5 pessoas serão selecionadas e uma persona para a avaliação, seguintes os critérios: ter entre 15 e 34 anos, ser um aluno e ter interesse em aprender sobre prototipação.
 Buscou-se utilizar uma persona do grupo de usuários secundários do sistema. As características para a persona utilizada na avaliação serão da Persona 3 definida no  <a href= https://design-de-jogos.github.io/2020.1-Prototyping/Persona/>Documento de Descrição das Persona</a>. </p>
+
+## Protótipo de Papel
+
+<p align="justify">A avaliação do protótipo de papel tem como objetivo avaliar o potencial técnico-didático do mesmo. Para a coleta dos dados utilizaremos a técnica de investigação com a aplicação de uma entrevista semi-estruturada que visam abstrair percepções positivas e negativas dos utilizadores em relação aos storyboards. Na Figura 2 está ilustrada o esquema de avaliação do protótipo de papel.</p>
+
+![metodologia da avaliação prototipo de papel](./img/Planejamento-Avaliacao-prototipo-papel.jpg)
+
+[Figura 1 - esquema de avaliação do protótipo de papel.](./img/Planejamento-Avaliacao-prototipo-papel.jpg)
+
+<p align="justify">Com os objetivos da avaliação definidos, elaboramos uma tabela com questões relacionadas ao objetivo que auxiliarão na condução da entrevista.</p>
+
+
+Objetivo | Questão
+------- | -------
+**Potencial técnico-didático** | 1. As atividades do professor estão adequadas?
+  | 2. As atividades do professor estão claras?
+ | 3. O fluxo das atividades do professor estão intuitivas?
+ | 1. As atividades do aluno estão adequadas?
+  | 2. As atividades do aluno estão claras?
+ | 3. O fluxo das atividades do aluno estão intuitivas?
+**Percepções positivas e negativas** | 1. A organização e apresentação da informação está simples de compreender?
+ | 2. A ideia do produto é agradável?
+ | 3. O personagem Protus(bichinho de estimação) transmite uma ideia/sentimento positivo?
+ | 4. Você se sentiu frustrado em algum momento da avaliação?
+ | 5. Em caso afirmativo, descreva quais atividades causaram frustração.
+ | 6. De modo geral, qual a sua opnião sobre o produto.
+
+### Perfil e número de participantes
+
+<p align="justify">Devido a algumas dificuldades enfrentadas na seleção de participantes para a avaliação do protótipo de papel, iremos selecionar apenas 1 participante externo a equipe e que se encaixa no perfil das <a href= https://design-de-jogos.github.io/2020.1-Prototyping/Persona/>Personas</a>. </p>
 
 
 ## Referências
