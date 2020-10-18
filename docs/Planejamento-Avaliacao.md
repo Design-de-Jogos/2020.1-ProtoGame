@@ -29,12 +29,12 @@ Data | Versão | Descrição | Autor(es)
 Objetivo | Questão
 ------- | -------
 **Potencial técnico-didático** | 1. As atividades estão adequadas para faixa etária?
-  | 2. As atividades proporcionam o desenvolvimento de competências gerais pelo aluno/utilizador, sugeridas no currículo?
- | 3. As atividades permitem um desenvolvimento ativo do professor?
+   .                           | 2. As atividades proporcionam o desenvolvimento de competências gerais pelo aluno/utilizador, sugeridas no currículo?
+   .                           | 3. As atividades permitem um desenvolvimento ativo do professor?
 **Percepções positivas e negativas** | 1. A organização e apresentação da informação está simples de compreender?
- | 2. A ideia do produto é agradável?
- | 3. O personagem Protus(bichinho de estimação) transmite uma ideia/sentimento positivo?
- | 4. Possui alguma consideração a respeito da avaliação?
+  .                                  | 2. A ideia do produto é agradável?
+  .                                  | 3. O personagem Protus(bichinho de estimação) transmite uma ideia/sentimento positivo?
+  .                                  | 4. Possui alguma consideração a respeito da avaliação?
 
 
 ### Perfil e número de participantes
@@ -60,17 +60,17 @@ Buscou-se utilizar uma persona do grupo de usuários secundários do sistema. As
 Objetivo | Questão
 ------- | -------
 **Potencial técnico-didático** | 1. As atividades do professor estão adequadas?
-  | 2. As atividades do professor estão claras?
- | 3. O fluxo das atividades do professor estão intuitivas?
- | 4. As atividades do aluno estão adequadas?
-  | 5. As atividades do aluno estão claras?
- | 6. O fluxo das atividades do aluno estão intuitivas?
+  .                            | 2. As atividades do professor estão claras?
+  .                            | 3. O fluxo das atividades do professor estão intuitivas?
+  .                            | 4. As atividades do aluno estão adequadas?
+  .                            | 5. As atividades do aluno estão claras?
+  .                            | 6. O fluxo das atividades do aluno estão intuitivas?
 **Percepções positivas e negativas** | 1. A organização e apresentação da informação está simples de compreender?
- | 2. A ideia do produto é agradável?
- | 3. O personagem Protus(bichinho de estimação) transmite uma ideia/sentimento positivo?
- | 4. Você se sentiu frustrado em algum momento da avaliação?
- | 5. Em caso afirmativo, descreva quais atividades causaram frustração.
- | 6. De modo geral, qual a sua opnião sobre o produto.
+  .                                  | 2. A ideia do produto é agradável?
+  .                                  | 3. O personagem Protus(bichinho de estimação) transmite uma ideia/sentimento positivo?
+  .                                  | 4. Você se sentiu frustrado em algum momento da avaliação?
+  .                                  | 5. Em caso afirmativo, descreva quais atividades causaram frustração.
+  .                                  | 6. De modo geral, qual a sua opnião sobre o produto?
 
 ### Perfil e número de participantes
 
