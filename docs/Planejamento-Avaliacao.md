@@ -52,7 +52,7 @@ Buscou-se utilizar uma persona do grupo de usuários secundários do sistema. As
 
 ![metodologia da avaliação prototipo de papel](./img/Planejamento-Avaliacao-prototipo-papel.jpg)
 
-[Figura 1 - esquema de avaliação do protótipo de papel.](./img/Planejamento-Avaliacao-prototipo-papel.jpg)
+[Figura 2 - esquema de avaliação do protótipo de papel.](./img/Planejamento-Avaliacao-prototipo-papel.jpg)
 
 <p align="justify">Com os objetivos da avaliação definidos, elaboramos uma tabela com questões relacionadas ao objetivo que auxiliarão na condução da entrevista.</p>
 
