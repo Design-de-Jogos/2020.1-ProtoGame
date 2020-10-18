@@ -5,6 +5,7 @@ Data | Versão | Descrição | Autor(es)
  --- | ------ | --------- | ------
 28/09/2020 | 0.0 | Criação do documento e Introdução |[Iolane Andrade](https://github.com/IolaneAndrade)
 29/09/2020 | 0.1 | Metodologia das avaliações e avaliação do storyboard | [Iolane Andrade](https://github.com/IolaneAndrade)
+18/10/2020 | 0.2 | Metodologia das avaliações e avaliação do prototipo de papel | [Iolane Andrade](https://github.com/IolaneAndrade)
 
 ## Introdução
 
@@ -61,9 +62,9 @@ Objetivo | Questão
 **Potencial técnico-didático** | 1. As atividades do professor estão adequadas?
   | 2. As atividades do professor estão claras?
  | 3. O fluxo das atividades do professor estão intuitivas?
- | 1. As atividades do aluno estão adequadas?
-  | 2. As atividades do aluno estão claras?
- | 3. O fluxo das atividades do aluno estão intuitivas?
+ | 4. As atividades do aluno estão adequadas?
+  | 5. As atividades do aluno estão claras?
+ | 6. O fluxo das atividades do aluno estão intuitivas?
 **Percepções positivas e negativas** | 1. A organização e apresentação da informação está simples de compreender?
  | 2. A ideia do produto é agradável?
  | 3. O personagem Protus(bichinho de estimação) transmite uma ideia/sentimento positivo?
