@@ -13,3 +13,7 @@
 ## Ponto de controle 05 de Outubro
  
  - [Vídeo](https://drive.google.com/file/d/1iUCy64YpnYB1UWBf8hIuqSkzWL7XELw0/view?usp=sharing)
+ 
+ ## Ponto de controle 19 de Outubro
+ 
+ - [Vídeo- PARTE1](https://drive.google.com/file/d/1iUCy64YpnYB1UWBf8hIuqzWL7XELw0/view?usp=sharing)
