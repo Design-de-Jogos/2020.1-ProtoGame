@@ -14,6 +14,6 @@
  
  - [Vídeo](https://drive.google.com/file/d/1iUCy64YpnYB1UWBf8hIuqSkzWL7XELw0/view?usp=sharing)
  
- ## Ponto de controle 19 de Outubro
+## Ponto de controle 19 de Outubro
  
  - [Vídeo- PARTE1](https://drive.google.com/file/d/1jmoPk-ZlHgst-McPOvtyymapBOsQ-uDk/view?usp=sharing)
