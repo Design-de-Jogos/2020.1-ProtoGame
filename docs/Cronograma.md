@@ -3,6 +3,7 @@
 Data | Versão | Descrição | Autor(es)
 ---------- | --- | -------------------------------------------------| -----
 16/09/2020 | 0.0 | Transferencia do cronograma para uma nova página | Iolane
+28/10/2020 | 0.1 | atualização do cronograma por entrega| Iolane
 
 ## Metodologia 
 
@@ -87,4 +88,14 @@ Análise de tarefas - notação utilizada | - | não
 explicar Saída do Julio | GABRIELA | sim
 Ferramentas do projeto (atualizar) | GABRIELA | sim
 	
+## Entrega 22/10/2020
+
+TAREFA |	RESPONSÁVEL | Entregue?
+------ | ------- | -------
+Planejamento da Avaliação prototipo de papel | Iolane | sim
+Prototipo de papel | Gabriela | sim
+Teste piloto e Relato dos resultados da avaliação do protótipo de papel | Stefane | sim
+
+## Entrega 16/11/2020
+
 
