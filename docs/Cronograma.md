@@ -31,19 +31,60 @@ Iteração | Atividades |Datas
 | Análise de tarefas |
 | Princípios e diretrizes de design |
 | Metas de usabilidade |
+4 | | 15/09 à 04/10
 | Planejamento da Avaliação |
-4 | | 15/09 à 21/09
+| storyboard |
+| analise da Avaliação |
+5 | | 05/10 à 12/10
+| Planejamento da Avaliação |
 | Prototipação em Papel |
 | Teste Piloto |
 | Verificação do protótipo |
-5 | | 22/09 à 28/09
+6 | | 13/10 à 21/10
 | Verificação das metas de usabilidade |
 | Análise dos resultados |
-6 | | 29/09 à 05/10
+7 | | 22/10 à 16/11
 | Prototipação Alta fidelidade |
 | Testes de usabilidade |
 | Análise dos resultados |
-7 | | 06/10 à 12/10
+8 | | 16/11 à 18/11
 | Verificação de Artefatos |
 |Considerações finais |
+
+
+## Entrega 21/09/2020
+
+TAREFA	|	RESPONSÁVEL | Entregue?
+------  | ----------- | ---------
+Ferramentas	| 	Stefane | sim
+Cronograma | todos | sim
+Ciclo de vida |	Stefane | não
+Título do Jogo | todos | sim
+História do Jogo |	Iolane | sim
+Fluxo do jogo | Guilherme | sim
+Storyboard | Guilherme | incompleto
+Perfil do Usuário |	Iolane | sim
+Personas |	Gabriela | sim
+Análise de tarefas | Guilherme | sim
+Princípios e diretrizes de design |	Stefane | sim
+Metas de usabilidade | Gabriela | sim
+
+## Entrega 05/10/2020
+
+TAREFA |	RESPONSÁVEL | Entregue?
+------ | ------- | -------
+Elaborar mais storyboards |	GUILHERME | sim
+Planejamento da Avaliação do storyboard | IOLANE | sim
+aplicação da avaliação	é um item a ser conversado |	todos | sim
+Relato dos resultados da avaliação do storyboard |	Gabriela | sim
+Análise de tarefas.	|	Stéfane | não
+atualizar partes interessadas no doc de visão |IOLANE | sim
+Criar um tópico de recursos do produto |	Gabriela | sim
+Atualizar cronograma |	Stéfane | não
+Ciclo de vida | | não
+Atualizar Perfil do usuário | IOLANE | sim
+Análise de tarefas - notação utilizada | - | não	
+explicar Saída do Julio | GABRIELA | sim
+Ferramentas do projeto (atualizar) | GABRIELA | sim
+	
 
