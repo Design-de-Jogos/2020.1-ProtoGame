@@ -6,6 +6,7 @@ nav:
  - Home: index.md
  - Sobre o projeto:
    - Cronograma: Cronograma.md
+   - Ferramentas: ferramentas.md
  - Análise de Requisitos:
    - Visão do produto: Visao.md
    - Perfil do Usuário: Perfil-usuario.md
@@ -16,11 +17,14 @@ nav:
    - Análise de Tarefas: analise_de_tarefas.md
    - Princípios e Diretrizes para o Design: diretrizesDesign.md
    - Guia de Estilo: Usabilidade.md
-   - Ferramentas: ferramentas.md
  - Design, Avaliação:
-   - Planejamento das Avaliações: Planejamento-Avaliacao.md
-   - Análise dos Resultados da Avaliação dos Storyboards: Avaliacao-storyboard.md
-   - Análise dos Resultados da Avaliação do Protótipo de Papel: analise-prototipo.md
+   - Planejamento das Avaliações: 
+     - Storyboard: Planejamento-Avaliacao.md
+     - Protótipo de papel : Planejamento-avaliacao-prototipo-papel.md
+     - Prototipo de alta fidelidade: Planejamento-prototipo-alta-fidelidade.md
+   - Análise dos Resultados da Avaliação: 
+     - Storyboards: Avaliacao-storyboard.md
+     - Protótipo de Papel: analise-prototipo.md
  - Gerenciamento:
    - Riscos: Riscos.md
    - Reuniões: Reuniao.md

@@ -5,7 +5,7 @@ Data | Versão | Descrição | Autor(es)
  --- | ------ | --------- | ------
 28/09/2020 | 0.0 | Criação do documento e Introdução |[Iolane Andrade](https://github.com/IolaneAndrade)
 29/09/2020 | 0.1 | Metodologia das avaliações e avaliação do storyboard | [Iolane Andrade](https://github.com/IolaneAndrade)
-18/10/2020 | 0.2 | Metodologia das avaliações e avaliação do prototipo de papel | [Iolane Andrade](https://github.com/IolaneAndrade)
+
 
 ## Introdução
 
@@ -21,7 +21,7 @@ Data | Versão | Descrição | Autor(es)
 
 ![metodologia da avaliação](./img/Avaliacao-storyboard.jpg)
 
-[Figura 1 - esquema de avaliação do storyboard.](./img/Avaliacao-storyboard.jpg)
+[Figura 1 - esquema de avaliação do storyboard. Fonte: autor](./img/Avaliacao-storyboard.jpg)
 
 <p align="justify">Com os objetivos da avaliação definidos, elaboramos uma tabela com questões relacionadas ao objetivo.</p>
 
