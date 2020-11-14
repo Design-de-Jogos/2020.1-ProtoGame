@@ -5,6 +5,7 @@ Data | Versão | Descrição | Autor(es)
 14/09/2020 | 0.0 | Definição do título, história, fluxo, personagens, gameplay e plataforma do jogo  | Guilherme, Gabriela, Iolane, Stéfane
 18/09/2020 | 0.1 | Atualização da história do jogo e gameplay | Iolane
 20/09/2020 | 0.2 | Atualização fluxo do game| Guilherme
+14/11/2020 | 0.3 | Adicionando mapa do jogo e descrição dos módulos| Iolane Andrade
 
 
 
@@ -22,22 +23,43 @@ Data | Versão | Descrição | Autor(es)
 
 <p align="justify"> O jogo será dividido em módulos sobre o tema de prototipação e cada módulo subdividido em tópicos. Cada tópico corresponderá a três perguntas, com feedback, ao final destas perguntas é atribuida uma pontuação referente a fase do jogo.</p>
 
-# Fluxo do jogo
+## Fluxo do jogo
 
 ![Fluxo](./img/fluxo-jogo.jpeg)
 
-[Figura 1: Fluxo do jogo](./img/fluxo-jogo.jpeg)
+[Figura 1: Fluxo do jogo. Fonte: autor](./img/fluxo-jogo.jpeg)
 
 ## Fluxo do jogo (v2)
 ![Fluxo](./img/fluxo_protogame.jpg)
 
-[Figura 2: Fluxo do jogo](./img/fluxo_protogame.jpg)
+[Figura 2: Fluxo do jogo. Fonte: autor](./img/fluxo_protogame.jpg)
 
-# Personagem
+## Mapa do jogo
+
+<p align="justify">Na Figura 3 está uma representação inicial simples do mapa do jogo protogame, com 6 módulos. </p>
+
+
+<center>
+<img src="./img/MAPA-PROTOGAME-mapa.jpg" alt="Figura 3: Versão 1 do mapa do ProtoGame. Fonte: autor" width=400 height=600>
+</center>
+
+[Figura 3: Versão 1 do mapa do ProtoGame. Fonte: autor](./img/MAPA-PROTOGAME-mapa.jpg)
+
+### Módulos
+
+<p align="justify"> O jogo é constituído de 6 módulos, como mostra a figura 4 abaixo. São módulos de conceitos básicos, ideias e concepções, planejamento, checagem e validação, e análise e relato dos resultados. Todos sobre o tema de prototipação.  </p>
+ 
+ <center>
+<img src="./img/MAPA-PROTOGAME-modulos-fases.jpg" alt="Figura 3: Versão 1 do mapa do ProtoGame. Fonte: autor" width=300 height=600>
+</center>
+
+[Figura 4: Descrição dos módulos e fases do jogo ProtoGame. Fonte: autor](./img/MAPA-PROTOGAME-modulos-fases.jpg)
+
+## Personagem
 
 Protus, mascote do jogo que acompanha o jogador durante todo o processo de aprendizado das fases.
 
-# Gameplay
+## Gameplay
 
 <p align="justify">A dinâmica do jogo consiste em uma interação de perguntas e respostas. Alguns fatores importantes são:</p>
   
@@ -50,7 +72,7 @@ Protus, mascote do jogo que acompanha o jogador durante todo o processo de apren
   - **Recompensas:** Ao passar de fase o jogador conquista pequenas recompensas. Ao finalizar um módulo o jogador recebe um conjunto de recompensas.
 
 
-# Plataforma
+## Plataforma
 
 <p align="justify">O jogo será disponibilizado por meio de um site, poderá ser jogado por dispositivos móveis ou computador.</p>
 
@@ -64,3 +86,7 @@ Protus, mascote do jogo que acompanha o jogador durante todo o processo de apren
 > Figura 1 por Guilherme Leal
 
 > Figura 2 por Guilherme Leal
+
+> Figura 3 por Iolane Andrade
+
+> Figura 4 por Iolane Andrade
