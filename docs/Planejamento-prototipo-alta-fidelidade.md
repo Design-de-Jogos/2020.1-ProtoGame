@@ -1,4 +1,4 @@
-# Planejamento da Avaliação do ProtoGame
+# Planejamento da Avaliação do Protótipo de Alta-fidelidade do ProtoGame
 
 
 Data | Versão | Descrição | Autor(es)
@@ -17,6 +17,8 @@ Data | Versão | Descrição | Autor(es)
 
 
 ## Protótipo de alta fidelidade
+
+<p align="justify"> Um protótipo de alta fidelidade (às vezes chamado de high-fi ou hi-fi) é uma representação interativa do produto, baseada no computador ou em dispositivos móveis. Esse protótipo já apresenta maior semelhança com o design final em termos de detalhes e funcionalidade.</p>
 
 <p align="justify">A avaliação do protótipo de alta fidelidade seguirá o mesmo modelo da avaliação do protótipo de papel e tem como objetivo avaliar o potencial técnico-didático do mesmo. Para a coleta dos dados utilizaremos a técnica de investigação com a aplicação de uma entrevista semi-estruturada que visam abstrair percepções positivas e negativas dos utilizadores em relação ao protótipo. Na Figura 1 está ilustrada o esquema de avaliação do protótipo de papel.</p>
 

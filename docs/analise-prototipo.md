@@ -1,4 +1,4 @@
-# Avaliação do Storyboard
+# Avaliação do Protótipo de Papel
 
 Data | Versão | Descrição | Autor(es)
 ---- | ---- | ----| -----
