@@ -38,10 +38,8 @@ Data | Versão | Descrição | Autor(es)
 
 <p align="justify">Na Figura 3 está uma representação inicial simples do mapa do jogo protogame, com 6 módulos. </p>
 
-
-<center>
 <img src="./img/MAPA-PROTOGAME-mapa.jpg" alt="Figura 3: Versão 1 do mapa do ProtoGame. Fonte: autor" width=400 height=600>
-</center>
+
 
 [Figura 3: Versão 1 do mapa do ProtoGame. Fonte: autor](./img/MAPA-PROTOGAME-mapa.jpg)
 
@@ -49,9 +47,7 @@ Data | Versão | Descrição | Autor(es)
 
 <p align="justify"> O jogo é constituído de 6 módulos, como mostra a figura 4 abaixo. São módulos de conceitos básicos, ideias e concepções, planejamento, checagem e validação, e análise e relato dos resultados. Todos sobre o tema de prototipação.  </p>
  
- <center>
-<img src="./img/MAPA-PROTOGAME-modulos-fases.jpg" alt="Figura 3: Versão 1 do mapa do ProtoGame. Fonte: autor" width=300 height=600>
-</center>
+<img src="./img/MAPA-PROTOGAME-modulos-fases.jpg" alt="Figura 4: Versão 1 do mapa do ProtoGame. Fonte: autor" width=300 height=600>
 
 [Figura 4: Descrição dos módulos e fases do jogo ProtoGame. Fonte: autor](./img/MAPA-PROTOGAME-modulos-fases.jpg)
 
