@@ -38,21 +38,22 @@ Data | Versão | Descrição | Autor(es)
 
 <p align="justify">Na Figura 3 está uma representação inicial simples do mapa do jogo protogame, com 6 módulos. </p>
 
-<p>
-<img src="./img/MAPA-PROTOGAME-mapa.jpg" alt="Figura 3: Versão 1 do mapa do ProtoGame. Fonte: autor" width=400 height=600>
+<p align="center">
+<img src="https://design-de-jogos.github.io/2020.1-Prototyping/img/MAPA-PROTOGAME-mapa.jpg" alt="Figura 3: Versão 1 do mapa do ProtoGame. Fonte: autor" width=400 height=600>
 </p>
 
-[Figura 3: Versão 1 do mapa do ProtoGame. Fonte: autor](https://design-de-jogos.github.io/2020.1-Prototyping/img/MAPA-PROTOGAME-mapa.jpg)
+[Figura 3: Versão 1 do mapa do ProtoGame. Fonte: autor](./img/MAPA-PROTOGAME-mapa.jpg)
 
 ### Módulos
 
 <p align="justify"> O jogo é constituído de 6 módulos, como mostra a figura 4 abaixo. São módulos de conceitos básicos, ideias e concepções, planejamento, checagem e validação, e análise e relato dos resultados. Todos sobre o tema de prototipação.  </p>
 
-<p>
-<img src="./img/MAPA-PROTOGAME-modulos-fases.jpg" alt="Figura 4: Versão 1 do mapa do ProtoGame. Fonte: autor" width=300 height=600>
+<p align="center">
+<img src="https://design-de-jogos.github.io/2020.1-Prototyping/img/MAPA-PROTOGAME-modulos-fases.jpg" alt="Figura 4: Versão 1 do mapa do ProtoGame. Fonte: autor" width=300 height=600>
 </p>
 
-[Figura 4: Descrição dos módulos e fases do jogo ProtoGame. Fonte: autor](https://design-de-jogos.github.io/2020.1-Prototyping/img/MAPA-PROTOGAME-modulos-fases.jpg)
+
+[Figura 4: Descrição dos módulos e fases do jogo ProtoGame. Fonte: autor](./img/MAPA-PROTOGAME-modulos-fases.jpg)
 
 ## Personagem
 
