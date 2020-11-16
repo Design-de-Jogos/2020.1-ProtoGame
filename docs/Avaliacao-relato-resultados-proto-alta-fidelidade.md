@@ -88,17 +88,19 @@ Para acessar a gravação da avaliação 1 >>[clique aqui.](https://www.youtube.
 
 <p align="justify">
 A avaliação com a Matilde gerou bons resultados. Para uma versão inicial do protótipo, demonstrou está coerente com a ideia do produto. A participante disse: "Parece ser coerente com o estudo de prototipação e o design parece bem simples entender então eu acredito que está adequado." A organização das atividades também estão simplificadas e claras. A participante disse: "Sim para mim estava bem claro. [...] Se eu errar eu sou levada para o início do jogo, se eu acerto eu consigo prosseguir. Então está bem claro". As atividades também foram avaliadas como intuitivas e as informações simples de compreender . A participante disse: " Sim. É bem intuitivo, porque são poucas funcionalidades. É um protótipo bem simples então acaba que a gente não tem muito aonde se perder no jogo. [...] "Sim. São bem simples como eu falei, são poucas atividades no jogo então a gente não tem como se perder muito". No geral, a ideia do produto foi considerada agradável. A participante disse: "A ideia do produto é agradável sim. Eu gostei bastante da ideia. Questões simples e aí vai dificultando o nível. [...]  eu gostei da ideia do produto".
-<p>
+</p>
 <p align="justify"> 
 No geral a avaliação do protótipo, na atividade do aluno responder uma questão, atendeu as expectativas iniciais da equipe. Atividades simples, claras, coerentes e agradavel.
-</p>  
+</p>
 
 
 ## Avaliação 2:
 
 ### Participante:
 
+
 ![persona 4](./img/personas/persona-4.png)
+
 
 [Figura 4: Descrição da persona 4](./img/personas/persona-4.png)
 
@@ -112,33 +114,30 @@ No geral a avaliação do protótipo, na atividade do aluno responder uma quest�
 
 item                    | descrição
 ----------------------- | ---------------------------
-**Objetivo 2:**         | Criar uma turma e incluir questões  
-**Ator:**               | Professor  
-**Pré-condição:**       | Nenhuma  
-**Procedimentos:**      | 1. Entrar no jogo ProtoGame selecionar a opção "Professor"  
+**Objetivo 2:**         | Criar uma turma e incluir questões
+**Ator:**               | Professor
+**Pré-condição:**       | Nenhuma
+**Procedimentos:**      | 1. Entrar no jogo ProtoGame selecionar a opção "Professor"
                         | 2. Fazer seu cadastro como professor  
                         | 3. Criar questão  
                         | 4. Listar questões  
                         | 5. Alterar uma questão  
                         | 6. Excluir uma questão
-**Resultado esperado:** | É esperado que o professor consiga gerenciar suas questões  
+**Resultado esperado:** | É esperado que o professor consiga gerenciar suas questões
 
 
 ## Coleta de dados  
 
-
-A coleta de dados ocorreu por meio da aplicação e gravação do teste de usabilidade com a utilização do software Cool Scren Recorder, feita com o participante Pedro.  
-
+A coleta de dados ocorreu por meio da aplicação e gravação do teste de usabilidade com a utilização do software Cool Scren Recorder, feita com o participante Pedro.
 
 
 ## Consolidação e relato dos resultados  
-
 
 <p align="justify">
 A avaliação com o Pedro gerou bons resultados, assim como a com a Matilde. O participante gostou da aplicação e não demonstrou dificuldades ao navegar afim de realizar suas tarefas. Além disso, avaliou como sendo útil para seus objetivos. Sugeriu que a aplicação permitisse o professor adicionar tempo para responder cada pergunta, porque assim poderia usar o jogo para aplicar mini testes da disciplina.
 </p>
 <p align="justify"> 
 A avaliação do protótipo do ponto de vista do professor também obteve resultados positivos.
-<p>
+</p>
 
 
