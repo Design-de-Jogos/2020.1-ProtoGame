@@ -91,7 +91,7 @@ A avaliação com a Matilde gerou bons resultados. Para uma versão inicial do p
 <p>
 <p align="justify"> 
 No geral a avaliação do protótipo, na atividade do aluno responder uma questão, atendeu as expectativas iniciais da equipe. Atividades simples, claras, coerentes e agradavel.
-<p>
+<p>  
 
 ## Avaliação 2:
 
