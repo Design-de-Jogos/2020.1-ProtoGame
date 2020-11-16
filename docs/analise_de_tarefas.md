@@ -6,6 +6,7 @@
 | :--: | :----: | :-------: | :-------: | 
 |20/09/2020| 0.1 | Criação documento Análise de tarefas| [Guilherme Leal](https://github.com/gleal17)|
 |16/11/2020| 0.2 | Correção de notação de análise de tarefas| [Guilherme Leal](https://github.com/gleal17)|
+
 ## Introdução 
 
 <p align="justify">Os jogos digitais possuem uma série de considerações e problemas diferente dos outros tipos de softwares. Enquanto um consumidor pode ter a necessidade de comprar ou usar um software para executar determinada tarefa, o jogador compra um jogo voluntariamente, baseado em seu valor de entretenimento.  </p>
