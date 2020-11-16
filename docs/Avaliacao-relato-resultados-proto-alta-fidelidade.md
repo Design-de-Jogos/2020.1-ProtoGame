@@ -67,6 +67,15 @@ item                    | descrição
                         | 6. Responder a segunda questão como "verdadeira";
 **Resultado esperado:** | É esperado que o aluno erre a segunda questão e tenha que reiniciar o jogo.
 
+### Protótipo utilizado na avaliação
+
+Para esta avaliação foi utilizada esta primeira parte do protótipo de alta fidelidade. Nesta fase, o protótipo engloba apenas o fluxo do aluno descrito nos casos de teste.
+
+<p>
+ <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FviUeY0Pov7Thoh0ZC19Eh1%2FProtoGame-FluxoAluno-IniciarJogo-responderquest%25C3%25A3o%3Fscaling%3Dscale-down%26node-id%3D61%253A85" allowfullscreen></iframe>
+
+</p>
+
 ## Coleta de dados
 
 A coleta de dados ocorreu por meio da aplicação e gravação da avaliação heurística, feita com a participante Matilde.
