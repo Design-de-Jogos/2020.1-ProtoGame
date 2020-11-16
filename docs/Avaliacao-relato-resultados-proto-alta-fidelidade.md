@@ -32,7 +32,7 @@ item     | descrição
 -------------------| ---------------------------
 **Objetivo 1:**    | Iniciar um jogo e responder questões corretamente.
 **Ator:**          | Aluno.
-**Pré-condição:**  | O Aluno já está cadastradado no sistema.
+**Pré-condição:**  | O Aluno já está cadastrado no sistema.
 **Procedimentos:** | 1. Entrar no jogo ProtoGame e selecionar a opção "Aluno";
                    | 2. Selecionar a opção "Próximo";
                    | 3. Selecionar a opção "Jogar";
@@ -46,7 +46,7 @@ item | descrição
 ----- | ----
 **Objetivo 2:** | Iniciar um jogo e responder alguma questão incorretamente.
 **Ator:** | Aluno.
-**Pré-condição:** | O Aluno já está cadastradado no sistema.
+**Pré-condição:** | O Aluno já está cadastrado no sistema.
 **Procedimentos:** | 1. Entrar no jogo ProtoGame e selecionar a opção "Aluno";
   | 2. Selecionar a opção "Próximo";
   | 3. Selecionar a opção "Jogar";
