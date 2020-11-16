@@ -7,6 +7,7 @@ Data       | Versão | Descrição                               | Autor(es)
 15/11/2020 | 0.1    | Gravação da avaliação                   |[Iolane Andrade](https://github.com/IolaneAndrade)
 15/11/2020 | 0.2    | análise da avaliação                    |[Iolane Andrade](https://github.com/IolaneAndrade)
 16/11/2020 | 0.3    | Imagem do protótipo de alta fidelidade  |[Iolane Andrade](https://github.com/IolaneAndrade)
+16/11/2020 | 0.4    | Relato e avaliação do protótipo de alta fidelidade pela Persona Pedro  |[Gabriela](https://github.com/gag2502)
 
 
 
@@ -55,7 +56,7 @@ item                    | descrição
 **Resultado esperado:** | É esperado que o aluno acerte todas as questões e passe de fase.
 
 item                    | descrição
------------------------ | ----
+----------------------- | ---------------------------
 **Objetivo 2:**         | Iniciar um jogo e responder alguma questão incorretamente.
 **Ator:**               | Aluno.
 **Pré-condição:**       | O Aluno já está cadastrado no sistema.
@@ -90,6 +91,48 @@ A avaliação com a Matilde gerou bons resultados. Para uma versão inicial do p
 <p>
 <p align="justify"> 
 No geral a avaliação do protótipo, na atividade do aluno responder uma questão, atendeu as expectativas iniciais da equipe. Atividades simples, claras, coerentes e agradavel.
+<p>
+
+## Avaliação 2:
+
+### Participante:
+ 
+![persona 4](./img/personas/persona-4.png)
+
+[Figura 4: Descrição da persona 4](./img/personas/persona-4.png)
+
+
+### Objetivos da avaliação:
+
+<p align="justify">O participante, Pedro deverá seguir as instruções definidas nas duas tabelas abaixo. Tendo como objetivo adicionar novas questões na aplicação e gerenciá-las</p>
+ 
+
+item                    | descrição
+----------------------- | ----------------------- 
+**Objetivo**            | Criar uma turma e incluir questões
+**Ator:**               | Professor.
+**Pré-condição:**       | O Aluno já está cadastrado no sistema.
+**Procedimentos:**      | 1. Entrar no jogo ProtoGame selecionar a opção "Professor"; 
+                        | 2. Fazer seu cadastro como professor 
+                        | 3. Criar questão 
+                        | 4. Listar questões
+                        | 5. Alterar uma questão
+                        | 6. Excluir uma questão
+**Resultado esperado:** | É esperado que o aluno acerte todas as questões e passe de fase.
+
+
+## Coleta de dados
+
+A coleta de dados ocorreu por meio da aplicação e gravação do teste de usabilidade com a utilização do software Cool Scren Recorder, feita com o participante Pedro.
+
+
+## Consolidação e relato dos resultados
+
+<p align="justify">
+A avaliação com o Pedro gerou bons resultados, assim como a com a Matilde. O participante gostou da aplicação e não demonstrou dificuldades ao navegar afim de realizar suas tarefas. Além disso, avaliou como sendo útil para seus objetivos. Sugeriu que a aplicação permitisse o professor adicionar tempo para responder cada pergunta, porque assim poderia usar o jogo para aplicar mini testes da disciplina.
+<p>
+<p align="justify"> 
+A avaliação do protótipo do ponto de vista do professor também obteve resultados positivos.
 <p>
 
 
