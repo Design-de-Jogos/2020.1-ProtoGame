@@ -28,14 +28,14 @@ Ao realizar uma avaliação, proceda da seguinte maneira:
 - Responda as questões definidas no documento do planejamento da avaliação;
 
 
-### Avaliação 1:
+## Avaliação 1:
 
-#### Participante:
+### Participante:
  
 ![persona 1](./img/personas/persona-1.jpg)
 
 
-#### Objetivos da avaliação:
+### Objetivos da avaliação:
 
 <p align="justify">A participante, Matilde deverá seguir as instruções definidas nas duas tabelas abaixo. Tendo como objetivo 1 "Iniciar um jogo e responder questões corretamente." e objetivo 2 "Iniciar um jogo e responder alguma questão incorretamente."</p>
  
@@ -67,12 +67,14 @@ item                    | descrição
                         | 6. Responder a segunda questão como "verdadeira";
 **Resultado esperado:** | É esperado que o aluno erre a segunda questão e tenha que reiniciar o jogo.
 
-#### Vídeo da avaliação
+## Coleta de dados
 
-Acesse a gravação da avaliação 1 [aqui.](https://www.youtube.com/embed/LeNjNtP9bVY)
+A coleta de dados ocorreu por meio da aplicação e gravação da avaliação heurística, feita com a participante Matilde.
+
+Para acessar a gravação da avaliação 1 >>[clique aqui.](https://www.youtube.com/embed/LeNjNtP9bVY)<<
 
 
-#### Análise
+## Consolidação e relato dos resultados
 
 <p align="justify">
 A avaliação com a Matilde gerou bons resultados. Para uma versão inicial do protótipo, demonstrou está coerente com a ideia do produto. A participante disse: "Parece ser coerente com o estudo de prototipação e o design parece bem simples entender então eu acredito que está adequado." A organização das atividades também estão simplificadas e claras. A participante disse: "Sim para mim tava bem claro. [...] Se eu errar eu sou levada para o início do jogo, se eu acerto eu consigo prosseguir. Então estão bem claro". As atividades também foram avaliadas como intuitivas e as informações simples de compreender . A participante disse: " Sim. É bem intuitivo né, porque eles são poucas funcionalidades. É um protótipo bem simples então acaba que a gente não tem muito aonde se perder no jogo. [...] "Sim. São bem simples como eu falei, são poucas atividades no jogo então a gente não tem como se perder muito". No geral, a ideia do produto foi considerada agradável. A participante disse: "A ideia do produto é agradável sim. Eu gostei bastante da ideia. Questões simples e aí vai dificultando o nível. [...]  eu gostei da ideia do produto".
