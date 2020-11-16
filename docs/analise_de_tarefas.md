@@ -4,8 +4,8 @@
 
 | Data | Versão | Descrição | Autor(es) | 
 | :--: | :----: | :-------: | :-------: | 
-|20/09/2020| 0.1 | Criação do Manual de Identidade Visual| [Guilherme Leal](https://github.com/gleal17)|
-
+|20/09/2020| 0.1 | Criação documento Análise de tarefas| [Guilherme Leal](https://github.com/gleal17)|
+|16/11/2020| 0.2 | Correção de notação de análise de tarefas| [Guilherme Leal](https://github.com/gleal17)|
 ## Introdução 
 
 <p align="justify">Os jogos digitais possuem uma série de considerações e problemas diferente dos outros tipos de softwares. Enquanto um consumidor pode ter a necessidade de comprar ou usar um software para executar determinada tarefa, o jogador compra um jogo voluntariamente, baseado em seu valor de entretenimento.  </p>
@@ -16,7 +16,17 @@
 
 <p align="justify">Análise de tarefa é então uma ferramenta para ser utilizada para o processo de Design, o intuito é manter a motivação e a perspectiva do usuário. Trata-se de um mapeamento de sequência de atividades necessárias para alcançar um objetivo.  </p>
 
+### Análise de Tarefas V1
 ![Análise de tarefa](./img/analise%20de%20tarefas.jpg) 
+>Imagem criada por Guilherme Leal
+
+### Análise de Tarefas V2
+
+#### Notação BPMN
+
+![Análise de tarefa V2 (Notação BPMN)](./img/analise%20de%20tarefasV2.jpg) 
+
+>Imagem criada por Guilherme Leal
 
 <p align="justify">A decisão de tarefas depende de como o usuário visualiza o processo dentro do sistema, é possível consequentemente a criar cenários e definir os requisitos de usabilidade.   </p>
 

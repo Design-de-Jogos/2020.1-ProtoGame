@@ -17,8 +17,23 @@
 
 ### 2.1 Storyboard 1 
 
-![Storyboard 1 -](./img/storyboards/Storyboad1.jpg) 
+<p align="justify">Foram criados storyboards com características ativas e interativas, ou seja, correspondem a uma sequência de figuras que mostram uma
+descrição automatizada do modo como o sistema se comporta em um uso típico ou
+em um cenário, por exemplo, uma simulação de possíveis utilações do aplicativo e de forma que o usuário deva participar interagindo com o sistema.</p>
 
+![Storyboard 1 -](./img/storyboards/Storyboad1.jpg)
+
+![Storyboard 2 -](./img/storyboards/sb2.jpg)
+
+![Storyboard 3 -](./img/storyboards/sb3.jpg)
+
+![Storyboard 4 -](./img/storyboards/sb4.jpg)
+
+![Storyboard 5 -](./img/storyboards/sb5.jpg)
+
+![Storyboard 6 -](./img/storyboards/sb6.jpg)
+
+>Storyboards por GUilherme Leal.
  
 
 ## Referêcias 
