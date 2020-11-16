@@ -91,12 +91,18 @@ A avaliação com a Matilde gerou bons resultados. Para uma versão inicial do p
 <p>
 <p align="justify"> 
 No geral a avaliação do protótipo, na atividade do aluno responder uma questão, atendeu as expectativas iniciais da equipe. Atividades simples, claras, coerentes e agradavel.
-<p>
+</p>  
+
 
 ## Avaliação 2:  
 
+<<<<<<< HEAD
 ### Participante:  
  
+=======
+### Participante:
+
+>>>>>>> f779720b9549320fb29a0972d264d3193b129ce0
 ![persona 4](./img/personas/persona-4.png)
 
 [Figura 4: Descrição da persona 4](./img/personas/persona-4.png)
@@ -104,8 +110,10 @@ No geral a avaliação do protótipo, na atividade do aluno responder uma quest�
 
 ### Objetivos da avaliação:
 
-<p align="justify">O participante, Pedro deverá seguir as instruções definidas nas duas tabelas abaixo. Tendo como objetivo adicionar novas questões na aplicação e gerenciá-las</p>
- 
+<p align="justify">
+ O participante, Pedro deverá seguir as instruções definidas nas duas tabelas abaixo. Tendo como objetivo adicionar novas questões na aplicação e gerenciá-las.
+</p>
+
 
 item                    | descrição
 ----------------------- | ---------------------------
@@ -127,12 +135,16 @@ A coleta de dados ocorreu por meio da aplicação e gravação do teste de usabi
 
 Para acessar a gravação da avaliação 2 >>[clique aqui.](https://www.youtube.com/embed/N9F5ZYSmbU0)<<
 
+A coleta de dados ocorreu por meio da aplicação e gravação do teste de usabilidade com a utilização do software Cool Scren Recorder, feita com o participante Pedro.  
+
+
 
 ## Consolidação e relato dos resultados  
 
+
 <p align="justify">
 A avaliação com o Pedro gerou bons resultados, assim como a com a Matilde. O participante gostou da aplicação e não demonstrou dificuldades ao navegar afim de realizar suas tarefas. Além disso, avaliou como sendo útil para seus objetivos. Sugeriu que a aplicação permitisse o professor adicionar tempo para responder cada pergunta, porque assim poderia usar o jogo para aplicar mini testes da disciplina.
-<p>
+</p>
 <p align="justify"> 
 A avaliação do protótipo do ponto de vista do professor também obteve resultados positivos.
 <p>
