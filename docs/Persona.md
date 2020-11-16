@@ -11,24 +11,24 @@ Data | Versão | Descrição | Autor(es)
 
 ### Persona 1
 
-![persona 1](./img/persona-1.jpg)
+![persona 1](./img/personas/persona-1.jpg)
 
-[Figura 1: Descrição da persona 1](./img/persona-1.jpg)
+[Figura 1: Descrição da persona 1](./img/personas/persona-1.jpg)
 
 ### Persona 2
 
-![persona 2](./img/persona-2.jpg)
+![persona 2](./img/personas/persona-2.jpg)
 
-[Figura 2:  Descrição da persona 2](./img/persona-2.jpg)
+[Figura 2:  Descrição da persona 2](./img/personas/persona-2.jpg)
 
 ### Persona 3
 
-![persona 3](./img/persona-3.jpg)
+![persona 3](./img/personas/persona-3.jpg)
 
-[Figura 3: Descrição da persona 3](./img/persona-3.jpg)
+[Figura 3: Descrição da persona 3](./img/personas/persona-3.jpg)
 
 ### Persona 4
 
-![persona 4](./img/persona-4.png)
+![persona 4](./img/personas/persona-4.png)
 
-[Figura 4: Descrição da persona 4](./img/persona-4.png)
+[Figura 4: Descrição da persona 4](./img/personas/persona-4.png)

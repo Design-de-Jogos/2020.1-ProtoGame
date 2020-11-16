@@ -20,7 +20,7 @@ Ao realizar uma avaliação, proceda da seguinte maneira:
 
 #### Participante:
  
-![persona 1](./img/persona-1.jpg)
+![persona 1](./img/personas/persona-1.jpg)
 
 
 #### Objetivos da avaliação:

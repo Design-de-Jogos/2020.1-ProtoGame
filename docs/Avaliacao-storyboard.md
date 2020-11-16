@@ -17,47 +17,47 @@ Data | Versão | Descrição | Autor(es)
 
 #### Storyboard 1
 
-![Storyboard 1 -](./img/sb2.jpg) 
+![Storyboard 1 -](./img/storyboards/sb2.jpg) 
 
 #### Storyboard 2
 
-![Storyboard 2 -](./img/sb3.jpg)
+![Storyboard 2 -](./img/storyboards/sb3.jpg)
 
 #### Storyboard 3
 
-![Storyboard 3 -](./img/sb4.jpg)
+![Storyboard 3 -](./img/storyboards/sb4.jpg)
 
 #### Storyboard 4
 
-![Storyboard 4 -](./img/sb5.jpg)
+![Storyboard 4 -](./img/storyboards/sb5.jpg)
 
 #### Storyboard 5
 
-![Storyboard 5 -](./img/sb6.jpg)
+![Storyboard 5 -](./img/storyboards/sb6.jpg)
 
 ### Análise
 Foram feitas 7 perguntas aos participantes:
 
 - As atividades estão adequadas para faixa etária?
-![perg](./img/perg1.png)
-[Figura 1: Avaliação da faixa etária](./img/perg1.png)
+![perg](./img/storyboards/perg1.png)
+[Figura 1: Avaliação da faixa etária](./img/storyboards/perg1.png)
 - As atividades proporcionam o desenvolvimento de competências gerais pelo aluno/utilizador, sugeridas no currículo?
-![perg](./img/perg2.png)
-[Figura 2: Avaliação do desenvolvimento de competências por meio do jogo](./img/perg2.png)
+![perg](./img/storyboards/perg2.png)
+[Figura 2: Avaliação do desenvolvimento de competências por meio do jogo](./img/storyboards/perg2.png)
 - As atividades permitem um envolvimento ativo do professor?
-![perg](./img/perg3.png)
-[Figura 3: Avaliação da participação do professor](./img/perg3.png)
+![perg](./img/storyboards/perg3.png)
+[Figura 3: Avaliação da participação do professor](./img/storyboards/perg3.png)
 - A organização e apresentação da informação está simples de compreender?
-![perg](./img/perg4.png)
-[Figura 4: Avaliação da compreensão sobre o enredo por parte dos participantes](./img/perg4.png)
+![perg](./img/storyboards/perg4.png)
+[Figura 4: Avaliação da compreensão sobre o enredo por parte dos participantes](./img/storyboards/perg4.png)
 - A ideia do produto é agradável?
-![perg](./img/perg5.png)
-[Figura 5: Avaliação sobre a atratividade](./img/perg5.png)
+![perg](./img/storyboards/perg5.png)
+[Figura 5: Avaliação sobre a atratividade](./img/storyboards/perg5.png)
 - O personagem Protus (bichinho de estimação) transmite uma ideia/sentimento positivo?
-![perg](./img/perg6.png)
-[Figura 6: Avaliação sobre o Protus](./img/perg6.png)
+![perg](./img/storyboards/perg6.png)
+[Figura 6: Avaliação sobre o Protus](./img/storyboards/perg6.png)
 - Possui alguma consideração a respeito da avaliação?
-![perg](./img/perg7.png)
+![perg](./img/storyboards/perg7.png)
 
 Os participantes da avaliação enquadram-se no perfil definido pelas Personas elaboradas.
 O participante mais velho tem 25 anos e o mais jovem possue 18 anos e são alunos de graduação.

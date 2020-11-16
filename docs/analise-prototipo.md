@@ -5,7 +5,7 @@ Data | Versão | Descrição | Autor(es)
 18/09/2020 | 0.0 | Criação do Protótipo de Papel | Gabriela
 20/09/2020 | 0.1 | Criação do documento | Stéfane Souza
 20/09/2020 | 0.2 | Descrição da Análise do Resultado | Stéfane Souza
-
+16/11/2020 | 0.3 | Separação de telas protótipo de papel | Guilherme Leal
 ### Perfil dos participantes
 
 | Nome  | Idade  | Escolaridade   | Ocupação profissional |
@@ -14,8 +14,21 @@ Data | Versão | Descrição | Autor(es)
 
 ### Protótipo de Baixa Fidelidade
 
-![Storyboard 1 -](./img/prototipoPapel.jpg)
+![Protótipo 1 -](./img/prototipos/prototipoPapel.jpg)
 
+### Telas Individuais
+
+![Tela 1 -](./img/prototipos/tela1.jpg)
+
+![Tela 2 -](./img/prototipos/tela2.jpg)
+
+![Tela 3 -](./img/prototipos/tela3.jpg)
+
+![Tela 4 -](./img/prototipos/tela4.jpg)
+
+![Tela 5 -](./img/prototipos/tela5.jpg)
+
+![Tela 6 -](./img/prototipos/tela6.jpg)
 
 ### Perguntas e Respostas
 <p align="justify">Nesse tópico iremos apresentar as perguntas que foram feitas para o participante e as respostas do mesmo (a elaboração das perguntas está aba 'Planejamento da Avaliação do ProtoGame'): </p>

@@ -12,10 +12,10 @@ Data | Versão | Descrição | Autor(es)
 
  Membro |Nome | Matrícula | GitHub
 ------- | ------- | --------- | -------
-![gabriela](./img/gabriela.jpeg) |  Gabriela  | 15/0127006   | [@gag2502](https://github.com/gag2502)
-![guilherme](./img/guilherme.jpeg) |  Guilherme Leal | 15/0128312| [@gleal17](https://github.com/gleal17)
-![iolane](./img/iolane.jpeg) | Iolane Andrade | 13/0028355 | [@IolaneAndrade](https://github.com/IolaneAndrade)
-![stefane](./img/stefane.jpeg) |  Stéfane Souza | 15/0148623 | [@stefanesouza](https://github.com/stefanesouza)
+![gabriela](./img/membros/gabriela.jpeg) |  Gabriela  | 15/0127006   | [@gag2502](https://github.com/gag2502)
+![guilherme](./img/membros/guilherme.jpeg) |  Guilherme Leal | 15/0128312| [@gleal17](https://github.com/gleal17)
+![iolane](./img/membros/iolane.jpeg) | Iolane Andrade | 13/0028355 | [@IolaneAndrade](https://github.com/IolaneAndrade)
+![stefane](./img/membros/stefane.jpeg) |  Stéfane Souza | 15/0148623 | [@stefanesouza](https://github.com/stefanesouza)
 
 
 

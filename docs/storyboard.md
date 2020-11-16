@@ -17,7 +17,7 @@
 
 ### 2.1 Storyboard 1 
 
-![Storyboard 1 -](./img/Storyboad1.jpg) 
+![Storyboard 1 -](./img/storyboards/Storyboad1.jpg) 
 
  
 

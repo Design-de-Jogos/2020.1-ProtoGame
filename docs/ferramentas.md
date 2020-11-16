@@ -7,24 +7,24 @@ Foi utilizado o Google Forms para elaboração das perguntas e o Telegram e What
 
 | Google Forms   | Telegram   | WhatsApp   |
 |---|---|---|
-|  ![forms](./img/forms.png) | ![telegram](./img/telegram.jpg)  | ![whats](./img/whats.jpg)  
+|  ![forms](./img/simbolos/forms.png) | ![telegram](./img/simbolos/telegram.jpg)  | ![whats](./img/simbolos/whats.jpg)  
 
 
 ###Prototipação
 Foi utilizado o Figma
 
-![figma](./img/figma.png)
+![figma](./img/simbolos/figma.png)
 
 ###Organização da Equipe
 Foram utilizados planilhas do Google, Google Drive e Github
 
 | Planilhas Google  | Google Drive   | GitHub  |
 |---|---|---|
-|  ![sheets](./img/sheets.png) | ![drive](./img/drive.jpg)  | ![github](./img/github.jpg)  
+|  ![sheets](./img/simbolos/sheets.png) | ![drive](./img/simbolos/drive.jpg)  | ![github](./img/simbolos/github.jpg)  
 
 
 ###Diagramação
 Foi utilizado o draw.io
 
-![draw](./img/draw.png)
+![draw](./img/simbolos/draw.png)
 
