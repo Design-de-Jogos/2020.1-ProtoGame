@@ -6,6 +6,7 @@ Data | Versão | Descrição | Autor(es)
 20/09/2020 | 0.1 | Criação do documento | Stéfane Souza
 20/09/2020 | 0.2 | Descrição da Análise do Resultado | Stéfane Souza
 16/11/2020 | 0.3 | Separação de telas protótipo de papel | Guilherme Leal
+
 ### Perfil dos participantes
 
 | Nome  | Idade  | Escolaridade   | Ocupação profissional |
