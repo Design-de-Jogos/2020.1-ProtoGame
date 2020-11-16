@@ -93,9 +93,9 @@ A avaliação com a Matilde gerou bons resultados. Para uma versão inicial do p
 No geral a avaliação do protótipo, na atividade do aluno responder uma questão, atendeu as expectativas iniciais da equipe. Atividades simples, claras, coerentes e agradavel.
 <p>
 
-## Avaliação 2:
+## Avaliação 2:  
 
-### Participante:
+### Participante:  
  
 ![persona 4](./img/personas/persona-4.png)
 
@@ -123,7 +123,9 @@ item                    | descrição
 
 ## Coleta de dados  
 
-A coleta de dados ocorreu por meio da aplicação e gravação do teste de usabilidade com a utilização do software Cool Scren Recorder, feita com o participante Pedro.  
+A coleta de dados ocorreu por meio da aplicação e gravação do teste de usabilidade com a utilização do software Cool Scren Recorder, feita com o participante Pedro. 
+
+Para acessar a gravação da avaliação 2 >>[clique aqui.](https://www.youtube.com/embed/N9F5ZYSmbU0)<<
 
 
 ## Consolidação e relato dos resultados  
