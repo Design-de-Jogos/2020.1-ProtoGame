@@ -108,25 +108,25 @@ No geral a avaliação do protótipo, na atividade do aluno responder uma quest�
  
 
 item                    | descrição
------------------------ | ----------------------- 
-**Objetivo**            | Criar uma turma e incluir questões
-**Ator:**               | Professor.
-**Pré-condição:**       | O Aluno já está cadastrado no sistema.
-**Procedimentos:**      | 1. Entrar no jogo ProtoGame selecionar a opção "Professor"; 
-                        | 2. Fazer seu cadastro como professor 
-                        | 3. Criar questão 
-                        | 4. Listar questões
-                        | 5. Alterar uma questão
+----------------------- | ---------------------------
+**Objetivo 2:**         | Criar uma turma e incluir questões  
+**Ator:**               | Professor  
+**Pré-condição:**       | Nenhuma  
+**Procedimentos:**      | 1. Entrar no jogo ProtoGame selecionar a opção "Professor"  
+                        | 2. Fazer seu cadastro como professor  
+                        | 3. Criar questão  
+                        | 4. Listar questões  
+                        | 5. Alterar uma questão  
                         | 6. Excluir uma questão
-**Resultado esperado:** | É esperado que o aluno acerte todas as questões e passe de fase.
+**Resultado esperado:** | É esperado que o professor consiga gerenciar suas questões  
 
 
-## Coleta de dados
+## Coleta de dados  
 
-A coleta de dados ocorreu por meio da aplicação e gravação do teste de usabilidade com a utilização do software Cool Scren Recorder, feita com o participante Pedro.
+A coleta de dados ocorreu por meio da aplicação e gravação do teste de usabilidade com a utilização do software Cool Scren Recorder, feita com o participante Pedro.  
 
 
-## Consolidação e relato dos resultados
+## Consolidação e relato dos resultados  
 
 <p align="justify">
 A avaliação com o Pedro gerou bons resultados, assim como a com a Matilde. O participante gostou da aplicação e não demonstrou dificuldades ao navegar afim de realizar suas tarefas. Além disso, avaliou como sendo útil para seus objetivos. Sugeriu que a aplicação permitisse o professor adicionar tempo para responder cada pergunta, porque assim poderia usar o jogo para aplicar mini testes da disciplina.
