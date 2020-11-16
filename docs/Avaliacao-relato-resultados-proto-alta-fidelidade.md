@@ -91,7 +91,7 @@ A avaliação com a Matilde gerou bons resultados. Para uma versão inicial do p
 <p>
 <p align="justify"> 
 No geral a avaliação do protótipo, na atividade do aluno responder uma questão, atendeu as expectativas iniciais da equipe. Atividades simples, claras, coerentes e agradavel.
-<p>  
+</p>  
 
 ## Avaliação 2:
 
@@ -104,7 +104,9 @@ No geral a avaliação do protótipo, na atividade do aluno responder uma quest�
 
 ### Objetivos da avaliação:
 
-<p align="justify">O participante, Pedro deverá seguir as instruções definidas nas duas tabelas abaixo. Tendo como objetivo adicionar novas questões na aplicação e gerenciá-las</p>
+<p align="justify">
+ O participante, Pedro deverá seguir as instruções definidas nas duas tabelas abaixo. Tendo como objetivo adicionar novas questões na aplicação e gerenciá-las.
+</p>
  
 
 item                    | descrição
