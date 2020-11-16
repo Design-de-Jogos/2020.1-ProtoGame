@@ -1,9 +1,10 @@
-# Avaliação do Protótipo de Alta-fidelidade do ProtoGame
+# Avaliação do Protótipo de Alta Fidelidade do ProtoGame
 
 
 Data | Versão | Descrição | Autor(es)
  --- | ------ | --------- | ------
 14/11/2020 | 0.0 | Criação do documento  |[Iolane Andrade](https://github.com/IolaneAndrade)
+15/11/2020 | 0.1 | Gravação da avaliação  |[Iolane Andrade](https://github.com/IolaneAndrade)
 
 
 ## Preparação
@@ -57,7 +58,16 @@ item | descrição
 
 #### Vídeo da avaliação
 
+Acesse a gravação da avaliação 1 [aqui.](https://www.youtube.com/embed/LeNjNtP9bVY)
+
+
+#### Análise
+
+<p align="justify">
+A avaliação com a Matilde gerou bons resultados. Para uma versão inicial do protótipo, demonstrou está coerente com a ideia do produto. A participante disse: "Parece ser coerente com o estudo de prototipação e o design parece bem simples entender então eu acredito que está adequado." A organização das atividades também estão simplificadas e claras. A participante disse: "Sim para mim tava bem claro. [...] Se eu errar eu sou levada para o início do jogo, se eu acerto eu consigo prosseguir. Então estão bem claro". As atividades também foram avaliadas como intuitivas e as informações simples de compreender . A participante disse: " Sim. É bem intuitivo né, porque eles são poucas funcionalidades. É um protótipo bem simples então acaba que a gente não tem muito aonde se perder no jogo. [...] "Sim. São bem simples como eu falei, são poucas atividades no jogo então a gente não tem como se perder muito". No geral, a ideia do produto foi considerada agradável. A participante disse: "A ideia do produto é agradável sim. Eu gostei bastante da ideia. Questões simples e aí vai dificultando o nível. [...]  eu gostei da ideia do produto".
 <p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeNjNtP9bVY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+<p align="justify"> 
+No geral a avaliação do protótipo, na atividade do aluno responder uma questão, atendeu as expectativas iniciais da equipe. Atividades simples, claras, coerentes e agradavel.
+<p>
+
 
