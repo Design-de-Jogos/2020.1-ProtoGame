@@ -55,3 +55,9 @@ item | descrição
   | 6. Responder a segunda questão como "verdadeira";
 **Resultado esperado:** | É esperado que o aluno erre a segunda questão e tenha que reiniciar o jogo.
 
+#### Vídeo da avaliação
+
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeNjNtP9bVY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
