@@ -17,3 +17,8 @@
 ## Ponto de controle 19 de Outubro
  
  - [Vídeo- PARTE1](https://drive.google.com/file/d/1jmoPk-ZlHgst-McPOvtyymapBOsQ-uDk/view?usp=sharing)
+
+## Ponto de controle 16 de Novembro
+
+- [video - parte 1](https://youtu.be/7gPLS1TFq5w)
+- [video - parte 2](https://youtu.be/LuQEkZjOl7g)
