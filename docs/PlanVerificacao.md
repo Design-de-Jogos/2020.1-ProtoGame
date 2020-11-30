@@ -19,7 +19,7 @@ As atividades incluem o preenchimento do formulário elaborado em forma de check
 As perguntas avaliam sob critérios básicos para um bom texto como:
 
 * As tabelas estão enumeradas?  
-* Possue erros ortográficos?  
+* Possui erros ortográficos?  
 * Possui bibliografia?  
 
 E também incluem perguntas que verificam se foram atendidas as recomendações dadas pelo professor da disciplina. Além disso, perguntas específicas para cada artefato afim de verificar sua qualidade. O formulário está disponível logo abaixo.
