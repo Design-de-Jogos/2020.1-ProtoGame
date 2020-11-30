@@ -12,15 +12,15 @@ Na fase de planejamento da Inspeção a equipe se prepara para a execução dos 
 
 No caso do nosso projeto os papeis são definidos como:
 
-Moderadora(a): Gabriela
+Moderadora(a): Gabriela  
 Inspetores: Guilherme, Iolane e Stefane
 
 As atividades incluem o preenchimento do formulário elaborado em forma de checklist e com perguntas de avaliação sobre todos os artefatos gerados durante o desenvolvimento do preojeto.
 As perguntas avaliam sob critérios básicos para um bom texto como:
 
-* As tabelas estão enumeradas?
-* Possue erros ortográficos?
-* Possui bibliografia?
+* As tabelas estão enumeradas?  
+* Possue erros ortográficos?  
+* Possui bibliografia?  
 
 E também incluem perguntas que verificam se foram atendidas as recomendações dadas pelo professor da disciplina. Além disso, perguntas específicas para cada artefato afim de verificar sua qualidade. O formulário está disponível logo abaixo.
 
