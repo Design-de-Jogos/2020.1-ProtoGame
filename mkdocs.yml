@@ -29,5 +29,7 @@ nav:
  - Gerenciamento:
    - Riscos: Riscos.md
    - Reuniões: Reuniao.md
+ - Verificação:
+  - Planejamento: PlanVerificacao.md
  - Apresentações:
    - Apresentações: Apresentacao.md
