@@ -22,3 +22,7 @@
 
 - [video - parte 1](https://youtu.be/7gPLS1TFq5w)
 - [video - parte 2](https://youtu.be/LuQEkZjOl7g)
+
+## Ponto de controle
+
+- [Vídeo - parte 1](https://youtu.be/T2tK7f9Hu9E)
