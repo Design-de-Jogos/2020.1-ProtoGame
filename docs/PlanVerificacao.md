@@ -8,7 +8,7 @@ Data | Versão | Descrição | Autor(es)
 
 Na fase de planejamento da Inspeção a equipe se prepara para a execução dos procedimentos que devem ser aplicados. A Inspeção possuei uma lógica e papeis como ilustrados pela Figura 1
 
-[Figura 1: Processo de Inspeção Fonte: Dev Media](./img/inspecao.png)
+![Figura 1: Processo de Inspeção Fonte: Dev Media](./img/inspecao.png)
 
 No caso do nosso projeto os papeis são definidos como:
 
