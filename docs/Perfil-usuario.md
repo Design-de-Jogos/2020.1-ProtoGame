@@ -7,7 +7,7 @@ Data | Versão | Descrição | Autor(es)
 14/09/2020 | 0.2 | Descrição da metodologia | Iolane
 15/09/2020 | 0.3 | Coleta dos resultados | Iolane
 05/10/2020 | 0.4 | Adição da tabela de questões usadas no questionário | Iolane 
-01/12/2020 | 0.5 | Atualização e revisão do documento | Stéfane Souza
+01/12/2020 | 0.5 | Revisão do documento | Stéfane Souza
 
 ## Metodologia
 

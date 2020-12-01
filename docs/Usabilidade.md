@@ -1,22 +1,23 @@
-# Guia de Estilo de Usabilidade do Software ProtoGame 
+# Guia de Estilo de Usabilidade do ProtoGame 
 
 Data | Versão | Descrição | Autor(es)
 ---- | ---- | ----| -----
 19/09/2020 | 0.0 | Criação do documento | Equipe de GDD
 19/09/2020 | 0.1 | Desenvolvimento | Gabriela
-19/09/2020 | 0.1 | Atualização da wiki | Iolane
+19/09/2020 | 0.2 | Atualização da Wiki | Iolane
+01/12/2020 | 0.3 | Revisão do documento | Stéfane Souza
 
 ## 1. Introdução 
 
-### 1.1 Objetivo do documeto  
+### 1.1 Objetivo do Documeto  
 
-O Guia de Estilo de Usabilidade tem como objetivo estabelecer padrões, na forma de diretrizes para o desenho da interface com o usuário. Os padrões definidos no Guia visamgarantir a  consistência interna e externa do desenho da interface com o usuário do software Protogame 
+<p align="justify">O Guia de Estilo de Usabilidade tem como objetivo estabelecer padrões, na forma de diretrizes para o desenho da interface com o usuário. Os padrões definidos no Guia visamgarantir a  consistência interna e externa do desenho da interface com o usuário do software ProtoGame. </p>
 
-### 1.2 Audiência do documento 
+### 1.2 Audiência do Documento 
 
 Desenvolvedores autores do documento. 
 
-### 1.3 Intenção de uso do documento 
+### 1.3 Intenção de Uso do Documento 
 
 <p align="justify"> O Guia de Estilo de Usabilidade é utilizado como um padrão que guia o desenho da interface do usuário. Normalmente, o Guia é desenvolvido ou atualizado junto como projeto da interface com o usuário. Para o desenvolvedor da interação, serve como referência para o desenho da interface e como registro de novos padrões estabelecidos. Para os usuário e cliente, o Guia deve ser usado como uma meta-documentação do desenho da interface externa. </p>
 
@@ -42,16 +43,18 @@ desenvolvedores. Minimiza a reinvenção e beneficia o re-uso.
 
 <p align="justify"> Este Guia herda os padrões estabelecidos no Guia de Estilo da Equipe 4 da disciplina de  Seminários de Software. </p>
 
-### 1.6 Dados do projeto  
+### 1.6 Dados do Projetos
  
  _| Descrição
 ---- | ----- 
 Projeto | ProtoGame 
-Data inicial/ Data Atual | 19 de agosto de 2020 / 19 de setembro de 2020  
-Equipe Nome Papel | Gabriela Desenvolvedora 
+Data inicial / Data Atual | 19 de agosto de 2020 / 19 de setembro de 2020  
+Equipe | Papel | Gabriela Desenvolvedora 
 _ | Guilherme Desenvolvedor
 _ | Iolane Desenvolvedora  
 _ | Stefane Desenvolvedora 
+
+##### Tabela 1 - Dados do Projetos
 
 ### 1.7 Organização do documento 
 
@@ -59,11 +62,11 @@ Este documento está dividido nas seguintes partes:
 
 1. **Introdução:** Apresenta contexto onde o Guia será utilizado 
 
-2. **Conceitos preliminares:** Apresenta principais conceitos relacionados á usabilidade. Visa orientar o leitor quanto a esses aspectos. 
+2. **Conceitos Preliminares:** Apresenta principais conceitos relacionados á usabilidade. Visa orientar o leitor quanto a esses aspectos. 
 
-3. **Diretrizes gerais:** Apresenta princípios de desenho, diretrizes de usabilidade e diretrizes que devem ser observados no desenho da interface como usuário. 
+3. **Diretrizes Gerais:** Apresenta princípios de desenho, diretrizes de usabilidade e diretrizes que devem ser observados no desenho da interface como usuário. 
 
-4. **Padrões específicos de produtos:** Padrões e consistências específicos para os produtos no escopo do Guia. 
+4. **Padrões Específicos de Produtos:** Padrões e consistências específicos para os produtos no escopo do Guia. 
 
 5. **Glossário**
 
@@ -129,6 +132,8 @@ Rótulo | Interfaces onde está presente | Função/ Comportamento
 “Visualizar” | Toda interface de possibilite a visualização de dados. | Abre uma tela comas informações solicitadas(nãoeditáveis).
 “Jogar” | Interface onde o usuário consegue iniciar uma nova fase do jogo. |Inicia o jogo da fase selecionada.
 
+##### Tabela 2 - Função/Comportamento dos Botões
+
 #### 3.2.2 Tela de Cadastro Usuário 
 
 Nessa tela deve ser possível:
@@ -146,19 +151,19 @@ Nessa tela deve ser possível:
 
 #### 3.3.2 Padrões visuais para elementos de interação 
 
-##### 3.3.2.1 Cores 
+#### 3.3.2.1 Cores 
 
 <p align="justify"> As cores utilizadas no sistema ProtoGame constituem-se de diferentes tonalidades de verde, além de uma outra cor, o violeta, que por ser uma cor complementar ao verde, oferece contraste e uma ótima harmonia para a composição. A cor de fundo é a tonalidade com código #72F44B. Essa segunda tonalidade irá variar de acordo com os Sistemas do ProtoGame. As cores usadas estão apresentadas abaixo, junto com seus códigos. </p>
 
 ![tabela de cores](./img/tabela-cores.jpeg)
 
-[Figura 1: Tabela de cores.](./img/tabela-cores.jpeg)
+[Figura 1: Tabela de Cores](./img/tabela-cores.jpeg)
 
-##### 3.3.2.2 Fontes 
+#### 3.3.2.2 Fontes 
 
 <p align="justify"> A fonte utilizada em todos os textos é a <b>Roboto</b>. Essa fonte faz parte das Google Fonts. Existe a variação de tamanho, cor e estilo , onde cada tipo de título ou texto apresenta umpadrão diferente.</p>
 
-##### 3.3.2.3 Botões 
+#### 3.3.2.3 Botões 
 
 <p align="justify"> <b>Fundo:</b> Os botões apresentam o fundo da cor verde, cujo código é # A5EC8E. As exceções são os botões “Ajuda” e “Sair” que apresentam a cor de fundo num tomde verde diferente cujocódigo é #4CE07C. </p>
 
@@ -168,7 +173,7 @@ Nessa tela deve ser possível:
 
 <p align="justify"> <b>Mudança de cor:</b> O comando inicialmente é escrito na cor branca com bordas na coloração padrão do botão e ao se passar o mouse sobre o botão, o comando passa a ter outra coloração, a cor específica de cada produto. </p>
 
-##### 3.3.2.4 Campos 
+#### 3.3.2.4 Campos 
 
 <p align="justify"> <b>Formato:</b> Os campos serão sempre representados por caixas brancas. Os formulários receberãotratamentodiferenciado possuindo caixas apenas quando estão editáveis, quando estão apenas visualizáveis sãodispostossob a forma de texto. </p>
 
@@ -178,13 +183,13 @@ Nessa tela deve ser possível:
 
 <p align="justify"> <b>Campos obrigatórios:</b> Todos os campos obrigatórios do sistema presentes nas telas emestadode inserção ou alteração, serão identificados por um “*” . </p>
 
-##### 3.3.2.5 Menu 
+#### 3.3.2.5 Menu 
 
 <p align="justify"> A navegação no ProtoGame será realizada através do menu que pode ser acessado por meio do  sandwich menu.</p>
 
 ### 3.4 Mensagens 
 
-#### 3.4.1 Descrição de tipos de mensagens 
+#### 3.4.1 Descrição dos Tipos de Mensagens 
 
 Tipo de mensagem | Descrição 
 --------------- | --------
@@ -192,9 +197,11 @@ Mensagem de Erro | Mensagens que informam (e solicitam alteração) sobre algum 
 Mensagens de alerta | Mensagens que informam (se sugerem alteração) sobre algum erro/problema durante a execução de uma tarefa. Entretanto, o erro/problema não impede o usuário de realizar a tarefa. As mensagens de alerta podem ser simples (somente um erro) ou compostas (mais de um erro).
 Mensagens de confirmação | Mensagens que solicitam a confirmação do usuário antes da execução de alguma tarefa, normalmente porque a tarefa causa alguma alteração significativa no sistema.
 
+##### Tabela 3 - Descrição dos Tipos de Mensagens
+
 ## 5. Bibliografia 
 
-[Norman, 1988] Norman, D. A. **The Psychology of Everyday Things**. New York, Basic Books, 1988.  
+> [Norman, 1988] Norman, D. A. **The Psychology of Everyday Things**. New York, Basic Books, 1988.  
 
-BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. **Interação humano-computador**. Elsevier, 2010  
+> BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. **Interação humano-computador**. Elsevier, 2010  
 

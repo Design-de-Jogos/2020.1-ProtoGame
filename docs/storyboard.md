@@ -5,7 +5,7 @@
 | Data | Versão | Descrição | Autor(es) | 
 | :--: | :----: | :-------: | :-------: | 
 |20/09/2020| 0.1 | Criação do Manual de Identidade Visual| [Guilherme Leal](https://github.com/gleal17)|
-01/12/2020 | 0.1 | Revisão do documento | Stéfane Souza
+01/12/2020 | 0.2 | Revisão do documento | Stéfane Souza
 
 
 ## Introdução 

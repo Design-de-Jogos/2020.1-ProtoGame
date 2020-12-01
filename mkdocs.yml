@@ -11,10 +11,10 @@ nav:
   - Análise de Requisitos:
     - Visão do Produto: Visao.md
     - Perfil do Usuário: Perfil-usuario.md
-    - Persona: Persona.md
+    - Personas: Persona.md
     - Descrição do Jogo: Descricao-jogo.md
     - Recursos do Produto: recursos-produto.md
-    - Storyboard: storyboard.md
+    - Storyboards: storyboard.md
     - Análise de Tarefas: analise_de_tarefas.md
     - Princípios e Diretrizes para o Design: diretrizesDesign.md
     - Guia de Estilo: Usabilidade.md

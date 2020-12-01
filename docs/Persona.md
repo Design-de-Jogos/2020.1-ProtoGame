@@ -2,10 +2,10 @@
 
 Data | Versão | Descrição | Autor(es)
 ---- | ---- | ----| -----
-16/09/2020 | 0.0 | Criação do documento | Equipe de GDD
-19/09/2020| 0.1 | Desenvolvimento | Gabriela
-20/09/2020 | 0.1 | Atualização na wiki | Iolane
-21/09/2020 | 0.2 | Inclusão de nomes das personas | Gabriela
+16/09/2020 | 0.0 | Criação do Documento | Equipe de GDD
+19/09/2020 | 0.1 | Desenvolvimento | Gabriela
+20/09/2020 | 0.1 | Atualização na Wiki | Iolane
+21/09/2020 | 0.2 | Inclusão de Nomes das Personas | Gabriela
 
 
 ## Descrição das Personas
