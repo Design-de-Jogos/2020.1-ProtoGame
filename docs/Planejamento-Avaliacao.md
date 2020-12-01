@@ -1,10 +1,11 @@
-# Planejamento da Avaliação do ProtoGame
+# Planejamento da Avaliação do Storyboard do ProtoGame
 
 
 Data | Versão | Descrição | Autor(es)
  --- | ------ | --------- | ------
 28/09/2020 | 0.0 | Criação do documento e Introdução |[Iolane Andrade](https://github.com/IolaneAndrade)
 29/09/2020 | 0.1 | Metodologia das avaliações e avaliação do storyboard | [Iolane Andrade](https://github.com/IolaneAndrade)
+01/12/2020 | 0.2 | Revisão do documento | Stéfane Souza
 
 
 ## Introdução
@@ -21,7 +22,7 @@ Data | Versão | Descrição | Autor(es)
 
 ![metodologia da avaliação](./img/Avaliacao-storyboard.jpg)
 
-[Figura 1 - esquema de avaliação do storyboard. Fonte: autor](./img/Avaliacao-storyboard.jpg)
+[Figura 1 - Esquema de Avaliação do Storyboard](./img/Avaliacao-storyboard.jpg)
 
 <p align="justify">Com os objetivos da avaliação definidos, elaboramos uma tabela com questões relacionadas ao objetivo.</p>
 
@@ -36,6 +37,7 @@ Objetivo | Questão
   .                                  | 3. O personagem Protus(bichinho de estimação) transmite uma ideia/sentimento positivo?
   .                                  | 4. Possui alguma consideração a respeito da avaliação?
 
+##### Tabela 1 - Questões de Avaliação do Storyboard
 
 ### Perfil e número de participantes
 
@@ -46,39 +48,10 @@ Objetivo | Questão
 <p align="justify">Portanto, 5 pessoas serão selecionadas e uma persona para a avaliação, seguintes os critérios: ter entre 15 e 34 anos, ser um aluno e ter interesse em aprender sobre prototipação.
 Buscou-se utilizar uma persona do grupo de usuários secundários do sistema. As características para a persona utilizada na avaliação serão da Persona 3 definida no  <a href= https://design-de-jogos.github.io/2020.1-Prototyping/Persona/>Documento de Descrição das Persona</a>. </p>
 
-## Protótipo de Papel
-
-<p align="justify">A avaliação do protótipo de papel tem como objetivo avaliar o potencial técnico-didático do mesmo. Para a coleta dos dados utilizaremos a técnica de investigação com a aplicação de uma entrevista semi-estruturada que visam abstrair percepções positivas e negativas dos utilizadores em relação aos storyboards. Na Figura 2 está ilustrada o esquema de avaliação do protótipo de papel.</p>
-
-![metodologia da avaliação prototipo de papel](./img/Planejamento-Avaliacao-prototipo-papel.jpg)
-
-[Figura 2 - esquema de avaliação do protótipo de papel.](./img/Planejamento-Avaliacao-prototipo-papel.jpg)
-
-<p align="justify">Com os objetivos da avaliação definidos, elaboramos uma tabela com questões relacionadas ao objetivo que auxiliarão na condução da entrevista.</p>
-
-
-Objetivo | Questão
-------- | -------
-**Potencial técnico-didático** | 1. As atividades do professor estão adequadas?
-  .                            | 2. As atividades do professor estão claras?
-  .                            | 3. O fluxo das atividades do professor estão intuitivas?
-  .                            | 4. As atividades do aluno estão adequadas?
-  .                            | 5. As atividades do aluno estão claras?
-  .                            | 6. O fluxo das atividades do aluno estão intuitivas?
-**Percepções positivas e negativas** | 1. A organização e apresentação da informação está simples de compreender?
-  .                                  | 2. A ideia do produto é agradável?
-  .                                  | 3. O personagem Protus(bichinho de estimação) transmite uma ideia/sentimento positivo?
-  .                                  | 4. Você se sentiu frustrado em algum momento da avaliação?
-  .                                  | 5. Em caso afirmativo, descreva quais atividades causaram frustração.
-  .                                  | 6. De modo geral, qual a sua opnião sobre o produto?
-
-### Perfil e número de participantes
-
-<p align="justify">Devido a algumas dificuldades enfrentadas na seleção de participantes para a avaliação do protótipo de papel, iremos selecionar apenas 1 participante externo a equipe e que se encaixa no perfil das <a href= https://design-de-jogos.github.io/2020.1-Prototyping/Persona/>Personas</a>. </p>
-
 
 ## Referências
 
+> Figura 1, BARBOSA, Simone; SILVA, Bruno. **Interação humano-computador**. Elsevier Brasil, 2010.
 
 >BARBOSA, Simone; SILVA, Bruno. **Interação humano-computador**. Elsevier Brasil, 2010.
 

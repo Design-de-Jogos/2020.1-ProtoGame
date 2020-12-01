@@ -1,10 +1,11 @@
-# Planejamento da Avaliação do ProtoGame
+# Planejamento da Avaliação Protótipo de Papel do ProtoGame
 
 
 Data | Versão | Descrição | Autor(es)
  --- | ------ | --------- | ------
 28/09/2020 | 0.0 | Criação do documento e Introdução |[Iolane Andrade](https://github.com/IolaneAndrade)
 18/10/2020 | 0.1 | Metodologia das avaliações e avaliação do prototipo de papel | [Iolane Andrade](https://github.com/IolaneAndrade)
+01/12/2020 | 0.2 | Revisão do documento | Stéfane Souza
 
 ## Introdução
 
@@ -21,7 +22,7 @@ Data | Versão | Descrição | Autor(es)
 
 ![metodologia da avaliação prototipo de papel](./img/Planejamento-Avaliacao-prototipo-papel.jpg)
 
-[Figura 1 - esquema de avaliação do protótipo de papel. Fonte: autor](./img/Planejamento-Avaliacao-prototipo-papel.jpg)
+[Figura 1 - Esquema de Avaliação do Protótipo de Papel](./img/Planejamento-Avaliacao-prototipo-papel.jpg)
 
 <p align="justify">Com os objetivos da avaliação definidos, elaboramos uma tabela com questões relacionadas ao objetivo que auxiliarão na condução da entrevista.</p>
 
@@ -41,13 +42,16 @@ Objetivo | Questão
   .                                  | 5. Em caso afirmativo, descreva quais atividades causaram frustração.
   .                                  | 6. De modo geral, qual a sua opnião sobre o produto?
 
-### Perfil e número de participantes
+##### Tabela 1 - Questões de Avaliação do Protótipo de Papel
+
+### Perfil e Número de Participantes
 
 <p align="justify">Devido a algumas dificuldades enfrentadas na seleção de participantes para a avaliação do protótipo de papel, iremos selecionar apenas 1 participante externo a equipe e que se encaixa no perfil das <a href= https://design-de-jogos.github.io/2020.1-Prototyping/Persona/>Personas</a>. </p>
 
 
 ## Referências
 
+> Figura 1, BARBOSA, Simone; SILVA, Bruno. **Interação humano-computador**. Elsevier Brasil, 2010.
 
 >BARBOSA, Simone; SILVA, Bruno. **Interação humano-computador**. Elsevier Brasil, 2010.
 

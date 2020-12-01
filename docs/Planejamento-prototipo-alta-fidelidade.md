@@ -6,6 +6,7 @@ Data | Versão | Descrição | Autor(es)
 28/09/2020 | 0.0 | Criação do documento e Introdução |[Iolane Andrade](https://github.com/IolaneAndrade)
 03/11/2020 | 0.1 | imagem do fluxo da avaliação heuristica | [Iolane Andrade](https://github.com/IolaneAndrade)
 05/11/2020 | 0.2 | fluxo da avaliação heuristica | [Iolane Andrade](https://github.com/IolaneAndrade)
+01/12/2020 | 0.3 | Revisão do documento | Stéfane Souza
 
 ## Introdução
 
@@ -16,7 +17,7 @@ Data | Versão | Descrição | Autor(es)
 <p align="justify">Para a avaliação do projeto, utilizaremos avaliação empírica em conjunto ao método de investigação. A avaliação empírica envolve um conjunto de potenciais utilizadores, externos a equipe, que avaliam  potenciais técnico-didático do sistema. O método de investigação(inquiry) envolve  o uso de questionário e/ou entrevistas semi-estruturada e uma análise qualitativa dos dados coletados.</p>
 
 
-## Protótipo de alta fidelidade
+## Protótipo de Alta Fidelidade
 
 <p align="justify"> Um protótipo de alta fidelidade (às vezes chamado de high-fi ou hi-fi) é uma representação interativa do produto, baseada no computador ou em dispositivos móveis. Esse protótipo já apresenta maior semelhança com o design final em termos de detalhes e funcionalidade.</p>
 
@@ -24,7 +25,7 @@ Data | Versão | Descrição | Autor(es)
 
 ![metodologia da avaliação prototipo de alta fidelidade](./img/Planejamento-Avaliacao-alta-fidelidade.jpg)
 
-[Figura 1 - esquema de avaliação do protótipo de alta fidelidade. Fonte: autor](./img/Planejamento-Avaliacao-alta-fidelidade.jpg)
+[Figura 1 - Esquema de Avaliação do Protótipo de Alta Fidelidade](./img/Planejamento-Avaliacao-alta-fidelidade.jpg)
 
 <p align="justify">Com os objetivos da avaliação definidos, elaboramos uma tabela com questões relacionadas ao objetivo que auxiliarão na condução da entrevista.</p>
 
@@ -44,26 +45,25 @@ Objetivo | Questão
   .                                  | 5. Em caso afirmativo, descreva quais atividades causaram frustração.
   .                                  | 6. De modo geral, qual a sua opnião sobre o produto?
 
+##### Tabela 1 - Questões de Avaliação do Protótipo de Alta Fidelidade
 
-
-### Fluxo da avaliação heurística
+### Fluxo da Avaliação Heurística
 
 <p align="justify">Para o fluxo da avaliação heurística, BARBOSA e SILVA indicam alguns ṕassos importantes, são eles: Preparação, Coleta de dados e interpretação, Consolidação e relato dos resultados. Estes passos estão ilustrados na figura 2 </p>
 
-
 ![avaliação heuristica](./img/avaliacao-heuristica.jpg)
 
-[Figura 2: avaliação heuristica. Fonte: autor](./img/avaliacao-heuristica.jpg)
+[Figura 2: Avaliação Heuristica](./img/avaliacao-heuristica.jpg)
 
 <p align="justify">A fase de <b>Preparação</b> é muito importante para que o avaliador tenha ciência do contexto a ser avaliado e possa fazer boas considerações durante a avaliação. É importante que as atividades sejam definidas antes de iniciar a avaliação. Na fase de <b>Coleta de dados e interpretação</b>, é importante que o avaliador fale em voz alta a respeito dos defeitos ou considerações durante a atividade. Essas considerações devem ser anotadas e debatidas entre a equipe, classificando a relevância e gravidade. Isto é feito na ultima fase de <b>Consolidação e relato dos resultados</b>. </p>
 
-### Perfil e número de participantes
+### Perfil e Número de Participantes
 
 <p align="justify">Para esta avaliação foram selecionados quatro participantes. </p>
 
-
 ## Referências
 
+> Figura 1 e 2, BARBOSA, Simone; SILVA, Bruno. **Interação humano-computador**. Elsevier Brasil, 2010.
 
 >BARBOSA, Simone; SILVA, Bruno. **Interação humano-computador**. Elsevier Brasil, 2010.
 
