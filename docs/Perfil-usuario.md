@@ -35,7 +35,7 @@ Objetivo | Questões
   . | Quais tipos de jogos você costuma jogar?
   . | Dê sua opinião sobre jogos educacionais. Nos dê um exemplo de um jogo que você goste ou como deveria ser um jogo que te motivaria a aprender.
 
-  ##### Tabela 1 - Questionário para o Público-Alvo
+##### Tabela 1 - Questionário para o Público-Alvo
   
   <p align="justify">A aplicação dos questionários foi feita online. Os questionários foram elaborados no Google Forms e liberados nas redes sociais da Universidade de Brasilia e cursos técnicos. O questionário ficou aberto a participações do dia 10 de setembro ao dia 15 de setembro.</p>
 
