@@ -4,14 +4,13 @@
 
 | Data | Versão | Descrição | Autor(es) | 
 | :--: | :----: | :-------: | :-------: | 
-|20/09/2020| 0.1 | Criação do Manual de Identidade Visual| [Guilherme Leal](https://github.com/gleal17)| 
+|20/09/2020| 0.1 | Criação do Manual de Identidade Visual| [Guilherme Leal](https://github.com/gleal17)|
+01/12/2020 | 0.1 | Revisão do documento | Stéfane Souza
 
 
 ## Introdução 
 
 <p align="justify">Storyboard (também chamados Roteiros) são definidos por Preece et al(1) como sendo a representação de sequências de ações ou eventos pelas quais o usuário e o produto devem passar para executarem uma ação. Preece et al (1) afirmam ainda que há dois propósitos em utilizar-se de Storyboards: (i) para obter feedback de usuários, e (ii) para que a equipe de design considere o cenário e a utilização do produto em maiores detalhes. </p> 
-
- 
 
 ## 2. Storyboards 
 
@@ -23,21 +22,33 @@ em um cenário, por exemplo, uma simulação de possíveis utilações do aplica
 
 ![Storyboard 1 -](./img/storyboards/Storyboad1.jpg)
 
+##### Figura 1 - Storyboard 1
+
 ![Storyboard 2 -](./img/storyboards/sb2.jpg)
+
+##### Figura 2 - Storyboard 2
 
 ![Storyboard 3 -](./img/storyboards/sb3.jpg)
 
+##### Figura 3 - Storyboard 3
+
 ![Storyboard 4 -](./img/storyboards/sb4.jpg)
+
+##### Figura 4 - Storyboard 4
 
 ![Storyboard 5 -](./img/storyboards/sb5.jpg)
 
+##### Figura 5 - Storyboard 5
+
 ![Storyboard 6 -](./img/storyboards/sb6.jpg)
 
->Storyboards por GUilherme Leal.
+##### Figura 6 - Storyboard 6
  
 
-## Referêcias 
+## Referências 
 
 >(1) PREECE, J.; Rogers, Y.; Sharp, H. (2013). Design de Interação: além da interação humano-computador. Tradução: Isabela Gasparini; revisão técnica: Marcelo Soares Pimenta - 3. Ed – Porto alegre: Bookman, 2013 
 
 >Storyboard 1 por Guilherme Leal (edição adaptada) em https://www.storyboardthat.com/
+
+> Storyboards 1, 2, 3, 4, 5 e 6 por GUilherme Leal

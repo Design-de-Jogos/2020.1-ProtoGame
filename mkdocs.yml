@@ -9,11 +9,11 @@ nav:
     - Cronograma: Cronograma.md
     - Ferramentas: ferramentas.md
   - Análise de Requisitos:
-    - Visão do produto: Visao.md
+    - Visão do Produto: Visao.md
     - Perfil do Usuário: Perfil-usuario.md
     - Persona: Persona.md
     - Descrição do Jogo: Descricao-jogo.md
-    - Recursos do produto: recursos-produto.md
+    - Recursos do Produto: recursos-produto.md
     - Storyboard: storyboard.md
     - Análise de Tarefas: analise_de_tarefas.md
     - Princípios e Diretrizes para o Design: diretrizesDesign.md
@@ -21,12 +21,12 @@ nav:
   - Design, Avaliação:
     - Planejamento das Avaliações: 
       - Storyboard: Planejamento-Avaliacao.md
-      - Protótipo de papel : Planejamento-avaliacao-prototipo-papel.md
-      - Prototipo de alta fidelidade: Planejamento-prototipo-alta-fidelidade.md
+      - Protótipo de Papel : Planejamento-avaliacao-prototipo-papel.md
+      - Prototipo de Alta Fidelidade: Planejamento-prototipo-alta-fidelidade.md
     - Análise dos Resultados da Avaliação: 
       - Storyboards: Avaliacao-storyboard.md
       - Protótipo de Papel: analise-prototipo.md
-      - Protótipo de Alta-fidelidade: Avaliacao-relato-resultados-proto-alta-fidelidade
+      - Protótipo de Alta Fidelidade: Avaliacao-relato-resultados-proto-alta-fidelidade
   - Gerenciamento:
     - Riscos: Riscos.md
     - Reuniões: Reuniao.md 
