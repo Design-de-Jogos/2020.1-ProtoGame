@@ -5,11 +5,8 @@ Data | Versão | Descrição | Autor(es)
 15/09/2020 | 0.0 | Saída do membro do time Júlio devido trancamento da disciplina| Equipe de GDD
 01/12/2020 | 0.1 | Organização da aba Equipe | Stéfane Souza
 
-# Grupo 4 - Tema: Prototipação
-## Disciplina: Seminários em Engenharia de Software
-
-
-## Equipe
+## Grupo 4 - Tema: Prototipação
+### Disciplina: Seminários em Engenharia de Software
 
  Membro |Nome | Matrícula | GitHub
 ------- | ------- | --------- | -------
