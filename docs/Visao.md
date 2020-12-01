@@ -1,7 +1,6 @@
 
 # Visão do Produto 
 
-## Versionamento
 Data | Versão | Descrição | Autor(es)
 ---- | ---- | ----| -----
 26/08/2020 | 0.0 | Criação do cronograma | Equipe de GDD
@@ -14,18 +13,18 @@ Data | Versão | Descrição | Autor(es)
 06/09/2020 | 0.7 | Ciclo de Vida, alterações nas Ferramentas do Projeto e Revisão do documento | Stéfane
 16/09/2020 | 0.8 | Tranferencia do cronograma para uma nova página | Iolane
 05/10/2020 | 0.9 | Adição de novas ferramentas | Iolane
+01/12/2020 | 1.0 | Atualização e revisão do documento | Stéfane Souza
 
 
 ## Introdução
 
 ### Propósito
 
-Esse projeto visa apoiar o aprendizado sobre a interação humana com a tecnologia no âmbito das prototipações.
+<p align="justify">Esse projeto visa apoiar o aprendizado sobre a interação humana com a tecnologia no âmbito das prototipações.</p>
 
 ### Escopo
 
-O projeto limita-se às prototipações de baixo e alto nível. 
-
+<p align="justify">O projeto limita-se às prototipações de baixo e alto nível.</p>
 
 ### Tema do Jogo
 
@@ -78,7 +77,7 @@ Como o foco do trabalho dentro da disciplina é apenas o planejamento, funcionam
 <p align="justify">Nosso projeto visa solucionar o problema da falta de jogos educacionais que ensinem a respeito da teoria de prototipação.</p>
 
 
-### Instrução do problema
+### Instrução do Problema
 
 <table>
 <tr> <td> <b>O problema da</b> </td> <td>falta de uma forma interativa de estudos do tema de Prototipação da disciplina de Interação Humano Computador (IHC) </td> </tr>
@@ -86,6 +85,7 @@ Como o foco do trabalho dentro da disciplina é apenas o planejamento, funcionam
 <tr> <td><b>Cujo impacto é</b></td> <td> a dificuldade de fixar o conteúdo ministrado em sala </td> </tr>
 <tr> <td> <b>Uma boa solução seria</b></td> <td> um jogo interativo de perguntas e respostas.</td> </tr>
 </table>
+##### Tabela 1 - Instrução do Problema
 
 ### Descrições das Partes Interessadas e Usuários
 #### Equipe
@@ -96,36 +96,40 @@ Gabriela | 15/0127006   |Planejar e executar o Projeto de Interface do software.
 Guilherme |15/0128312| Planejar e executar o Projeto de Interface do software. | [@gleal17](https://github.com/gleal17)
 Iolane Andrade | 13/0028355 | Planejar e executar o Projeto de Interface do software. | [@IolaneAndrade](https://github.com/IolaneAndrade)
 Stéfane Souza | 15/0148623 | Planejar e executar o Projeto de Interface do software. | [@stefanesouza](https://github.com/stefanesouza)
+##### Tabela 2 - Equipe
 
 
-#### Equipe de avaliação e suporte
+#### Equipe de Avaliação e Suporte
 
 Nome | Descrição | Responsabilidade
 ----- | ------ | -------
 André Barros | Professor da disciplina. | Orientar a equipe durante o desenvolvimento do projeto.
+##### Tabela 3 - Equipe de Avaliação e Suporte
 
 ### Perfil do usuário
 
 #### Estudante
 
- . | .
+  Perfil 1 |  
 -- | --
 **Representantes** | Estudantes
 **Descrição** | Estudantes que tem interesse em um auxilio para aprender prototipação
 **Responsabilidade** | Estudar para responder questões, manter as vidas no jogo e a saúde do personagem .
 **Critérios de Sucesso** | Responder questões diáriamente para ganhar icones para manter a saúde do personagem, manter as vidas e avançar de fases para concluir o estudo.
 **Envolvimento** | Alto
+##### Tabela 4 - Perfil 1: Estudante
 
 
 #### Professor
 
- . | .
+ Perfil 2 | 
 -- | --
 **Representantes** | Professores
 **Descrição** | Professores que lecionam sobre prototipação
 **Responsabilidade** | Criar uma turma, selecionar questões do banco de questões e monitorar o ranking da turma.
 **Critérios de Sucesso** | Monitorar o progresso dos estudantes.
 **Envolvimento** | Baixo
+##### Tabela 5 - Perfil 2: Professor
 
 
 ## Ferramentas do Projeto
@@ -140,7 +144,7 @@ Ferramenta | Descrição
 **Storyboard That** | Ferramenta utilizada para a elaboração dos storyboads do projeto
 **Google Forms** | Ferramenta utilizada na elaboração e aplicação de questionários
 **Draw.io** | Ferramenta utilizada na elaboração de esquemáticos
-
+##### Tabela 6 - Ferramentas do Projeto
 
 
 ## Referências
