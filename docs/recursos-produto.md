@@ -7,13 +7,13 @@ Data | Versão | Descrição | Autor(es)
 
 O jogo possui as seguintes funcionalidades:
 
-* Criar uma turma
-* Criar ambiente de questões
-* Entrar em uma turma
-* Iniciar o jogo
-* Mudar de nível
-* Interação com o Protus
-* Recompensas
+1. Criar uma turma
+2. Criar ambiente de questões
+3. Entrar em uma turma
+4. Iniciar o jogo
+5. Mudar de nível
+6. Interação com o Protus
+7. Recompensas
 
 <p align="justify"> Cada uma dessas funcionalidades são descritas por histórias de usuário contemplando o necessário para o desenvolvimento da funcionalidade como um todo. A seguir, temos casos de uso para cada funcionalidade a ser desenvolvida: </p>
 
