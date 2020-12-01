@@ -2,7 +2,7 @@
 
 # Grupo 4: Protótipo 
 
-(./img/logo.png)
+![logo](./img/logo.png)
 
 
 Data | Versão | Descrição | Autor(es)
