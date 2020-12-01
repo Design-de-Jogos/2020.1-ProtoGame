@@ -14,22 +14,22 @@ Data | Versão | Descrição | Autor(es)
 
 ![persona 1](./img/personas/persona-1.jpg)
 
-[Figura 1: Descrição da persona 1](./img/personas/persona-1.jpg)
+[Figura 1: Descrição da Persona 1](./img/personas/persona-1.jpg)
 
 ### João
 
 ![persona 2](./img/personas/persona-2.jpg)
 
-[Figura 2:  Descrição da persona 2](./img/personas/persona-2.jpg)
+[Figura 2:  Descrição da Persona 2](./img/personas/persona-2.jpg)
 
 ### Carolina
 
 ![persona 3](./img/personas/persona-3.jpg)
 
-[Figura 3: Descrição da persona 3](./img/personas/persona-3.jpg)
+[Figura 3: Descrição da Persona 3](./img/personas/persona-3.jpg)
 
 ### Pedro
 
 ![persona 4](./img/personas/persona-4.png)
 
-[Figura 4: Descrição da persona 4](./img/personas/persona-4.png)
+[Figura 4: Descrição da Persona 4](./img/personas/persona-4.png)

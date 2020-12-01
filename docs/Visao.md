@@ -93,10 +93,10 @@ Como o foco do trabalho dentro da disciplina é apenas o planejamento, funcionam
 
  Nome | Matrícula | Responsabilidade | GitHub
 ------- | ---------|----------------- | -------
-Gabriela | 15/0127006   |Planejar e executar o Projeto de Interface do software. | [@gag2502](https://github.com/gag2502)
-Guilherme |15/0128312| Planejar e executar o Projeto de Interface do software. | [@gleal17](https://github.com/gleal17)
-Iolane Andrade | 13/0028355 | Planejar e executar o Projeto de Interface do software. | [@IolaneAndrade](https://github.com/IolaneAndrade)
-Stéfane Souza | 15/0148623 | Planejar e executar o Projeto de Interface do software. | [@stefanesouza](https://github.com/stefanesouza)
+Gabriela | 15/0127006   |Planejar e executar o Projeto de Interface do software | [@gag2502](https://github.com/gag2502)
+Guilherme |15/0128312| Planejar e executar o Projeto de Interface do software | [@gleal17](https://github.com/gleal17)
+Iolane Andrade | 13/0028355 | Planejar e executar o Projeto de Interface do software | [@IolaneAndrade](https://github.com/IolaneAndrade)
+Stéfane Souza | 15/0148623 | Planejar e executar o Projeto de Interface do software | [@stefanesouza](https://github.com/stefanesouza)
 
 ##### Tabela 2 - Equipe
 
@@ -105,7 +105,7 @@ Stéfane Souza | 15/0148623 | Planejar e executar o Projeto de Interface do soft
 
 Nome | Descrição | Responsabilidade
 ----- | ------ | -------
-André Barros | Professor da disciplina. | Orientar a equipe durante o desenvolvimento do projeto.
+André Barros | Professor da disciplina | Orientar a equipe durante o desenvolvimento do projeto
 
 ##### Tabela 3 - Equipe de Avaliação e Suporte
 
@@ -117,8 +117,8 @@ André Barros | Professor da disciplina. | Orientar a equipe durante o desenvolv
 -- | --
 **Representantes** | Estudantes
 **Descrição** | Estudantes que tem interesse em um auxilio para aprender prototipação
-**Responsabilidade** | Estudar para responder questões, manter as vidas no jogo e a saúde do personagem .
-**Critérios de Sucesso** | Responder questões diáriamente para ganhar icones para manter a saúde do personagem, manter as vidas e avançar de fases para concluir o estudo.
+**Responsabilidade** | Estudar para responder questões, manter as vidas no jogo e a saúde do personagem
+**Critérios de Sucesso** | Responder questões diáriamente para ganhar icones para manter a saúde do personagem, manter as vidas e avançar de fases para concluir o estudo
 **Envolvimento** | Alto
 
 ##### Tabela 4 - Perfil 1: Estudante
@@ -130,8 +130,8 @@ André Barros | Professor da disciplina. | Orientar a equipe durante o desenvolv
 -- | --
 **Representantes** | Professores
 **Descrição** | Professores que lecionam sobre prototipação
-**Responsabilidade** | Criar uma turma, selecionar questões do banco de questões e monitorar o ranking da turma.
-**Critérios de Sucesso** | Monitorar o progresso dos estudantes.
+**Responsabilidade** | Criar uma turma, selecionar questões do banco de questões e monitorar o ranking da turma
+**Critérios de Sucesso** | Monitorar o progresso dos estudantes
 **Envolvimento** | Baixo
 
 ##### Tabela 5 - Perfil 2: Professor

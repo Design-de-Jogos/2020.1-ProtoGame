@@ -7,6 +7,7 @@ Data | Versão | Descrição | Autor(es)
 14/09/2020 | 0.2 | Descrição da metodologia | Iolane
 15/09/2020 | 0.3 | Coleta dos resultados | Iolane
 05/10/2020 | 0.4 | Adição da tabela de questões usadas no questionário | Iolane 
+01/12/2020 | 0.5 | Atualização e revisão do documento | Stéfane Souza
 
 ## Metodologia
 
@@ -33,8 +34,10 @@ Objetivo | Questões
   . | Você acha que os jogos educacionais são desafiadores para o aprendizado?
   . | Quais tipos de jogos você costuma jogar?
   . | Dê sua opinião sobre jogos educacionais. Nos dê um exemplo de um jogo que você goste ou como deveria ser um jogo que te motivaria a aprender.
+
+  ##### Tabela 1 - Questionário para o Público-Alvo
   
-  A aplicação dos questionários foi feita online. Os questionários foram elaborados no Google Forms e liberados nas redes sociais da Universidade de Brasilia e cursos técnicos. O questionário ficou aberto a participações do dia 10 de setembro ao dia 15 de setembro.
+  <p align="justify">A aplicação dos questionários foi feita online. Os questionários foram elaborados no Google Forms e liberados nas redes sociais da Universidade de Brasilia e cursos técnicos. O questionário ficou aberto a participações do dia 10 de setembro ao dia 15 de setembro.</p>
 
 ## Resultados
 
@@ -68,7 +71,7 @@ De acordo com a pesquisa, o nosso publico alvo é bem equilibrado em relação a
 
 [Figura 3: Resultado da pesquisa sobre gênero dos usuários](./img/genero.jpeg)
 
-### Práticas de estudo
+### Práticas de Estudo
 
 #### Conhecimento
 
@@ -86,7 +89,7 @@ De acordo com a pesquisa, 81,1% dos participante demonstrou interesse em aprende
 
 [Figura 5: Resultado da pesquisa sobre interesse no tema prototipação](./img/aprender-prototipacao.jpeg).
 
-#### Dificuldade em assimilação de conteúdo
+#### Dificuldade em Assimilação de Conteúdo
 
 De acordo com a pesquisa, 56,8% dos participantes afirmam sentir maior dificuldade em assimilar a teoria do conteúdo [Figura 6.](./img/teoria-pratica.jpeg).
 
@@ -94,7 +97,7 @@ De acordo com a pesquisa, 56,8% dos participantes afirmam sentir maior dificulda
 
 [Figura 6: Resultado da pesquisa sobre dificuldade em assimilação de conteúdo](./img/teoria-pratica.jpeg).
 
-#### Ferramentas de estudo
+#### Ferramentas de Estudo
 
 De acordo com a pesquisa, 100% dos participantes afirmam utilizar o computador para estudar. Seguido de celular, com 62,2% [Figura 7](./img/equipamentos-estudos.jpeg).
 
@@ -102,7 +105,7 @@ De acordo com a pesquisa, 100% dos participantes afirmam utilizar o computador p
 
 [Figura 7: Resultado da pesquisa sobre ferramentas utilizadas nos estudos](./img/equipamentos-estudos.jpeg)
 
-#### Recursos auxiliares
+#### Recursos Auxiliares
 
 De acordo com a pesquisa, Video aulas, com 83,8% e resolução de exercícios, com 75,7%, estão entre os recursos de estudo mais utilizados entre os participantes [Figura 8](./img/recursos.jpeg).
 
@@ -112,7 +115,7 @@ De acordo com a pesquisa, Video aulas, com 83,8% e resolução de exercícios, c
 
 ### Jodos Educacionais
 
-#### Relação com jogos educacionais
+#### Relação com Jogos Educacionais
 
 De acordo com a pesquisa, 78,4% dos participantes não utiliza jogos educacionais como recurso para auxiliar os estudos [Figura 9](./img/utiliza-jogos.jpeg).
 
@@ -120,21 +123,21 @@ De acordo com a pesquisa, 78,4% dos participantes não utiliza jogos educacionai
 
 [Figura 9: Resultado da pesquisa sobre a relação com os jogos educacionais](./img/utiliza-jogos.jpeg)
 
-#### Preferencias de interação
+#### Preferencias de Interação
 De acordo com a pesquisa, 91,9% dos participantes gostariam que houvessem alguma interação com outros jogadores em jogos educacionais [Figura 10](./img/interacao-jogos.jpeg).
 
 ![jogos-2](./img/interacao-jogos.jpeg)
 
 [Figura 10: Resultado da pesquisa sobre preferencias de interação](./img/interacao-jogos.jpeg).
 
-#### Opnião
+#### Opinião
 De acordo com a pesquisa, 73% acredita que os jogos educaionais são desafiadores para o aprendizado [Figura 11](./img/desafiadores.jpeg).
 
 ![jogos-3](./img/desafiadores.jpeg)
 
 [Figura 11: Resultado da pesquisa de opnião](./img/desafiadores.jpeg)
 
-#### Preferências de tipos de jogos
+#### Preferências de Tipos de Jogos
 
 De acordo com a pesquisa, Jogos de perguntas e respostas e jogos de estratégias são os mais jogados dentre os participantes[Figura 12](./img/tipo-jogo.jpeg).
 
@@ -142,7 +145,7 @@ De acordo com a pesquisa, Jogos de perguntas e respostas e jogos de estratégias
 
 [Figura 12: Resultado da pesquisa sobre a preferência de tipos de jogos](./img/tipo-jogo.jpeg)
 
-#### Questão aberta
+#### Questão Aberta
 
 Foi elaborada uma questão aberta para que os participantes da pesquisa desse sua opiniões relacionadas ao tema.
 Elaboramos um gráfico com as palavras mais recorrentes dentre as respostas ([Figura 13](./img/grafico-palavras.jpeg))
