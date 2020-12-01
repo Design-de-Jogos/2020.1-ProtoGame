@@ -1,4 +1,4 @@
-# Avaliação do Protótipo de Papel
+# Avaliação do Protótipo de Papel do ProtoGame
 
 Data | Versão | Descrição | Autor(es)
 ---- | ---- | ----| -----
@@ -6,30 +6,23 @@ Data | Versão | Descrição | Autor(es)
 20/09/2020 | 0.1 | Criação do documento | Stéfane Souza
 20/09/2020 | 0.2 | Descrição da Análise do Resultado | Stéfane Souza
 16/11/2020 | 0.3 | Separação de telas protótipo de papel | Guilherme Leal
+01/12/2020 | 0.4 | Atualização e revisão do documento | Stéfane Souza
 
-### Perfil dos participantes
+### Perfil dos Participantes
 
 | Nome  | Idade  | Escolaridade   | Ocupação profissional |
 |---|---|---|---|
 | Lucas | 25 | Ensino Superior Incompleto  | Estudante |
 
+##### Tabela 1 - Perfil dos Participantes
+
 ### Protótipo de Baixa Fidelidade
 
 ![Protótipo 1 -](./img/prototipos/prototipoPapel.jpg)
 
-### Telas Individuais
+##### Figura 1 - Protótipo de Baixa Fidelidade
 
-![Tela 1 -](./img/prototipos/tela1.jpg)
-
-![Tela 2 -](./img/prototipos/tela2.jpg)
-
-![Tela 3 -](./img/prototipos/tela3.jpg)
-
-![Tela 4 -](./img/prototipos/tela4.jpg)
-
-![Tela 5 -](./img/prototipos/tela5.jpg)
-
-![Tela 6 -](./img/prototipos/tela6.jpg)
+#### Obs: O teste abaixo foi utilizado como um Teste Piloto.
 
 ### Perguntas e Respostas
 <p align="justify">Nesse tópico iremos apresentar as perguntas que foram feitas para o participante e as respostas do mesmo (a elaboração das perguntas está aba 'Planejamento da Avaliação do ProtoGame'): </p>
@@ -82,6 +75,32 @@ Data | Versão | Descrição | Autor(es)
 
 - [Perguntas e Respostas](https://drive.google.com/file/d/15jJGiMmnHCzwWHNLceM6D7lRSFhdLerh/view?usp=sharing)
 
+### Telas Individuais
+
+![Tela 1 -](./img/prototipos/tela1.jpg)
+
+##### Figura 2 - Tela 1 do Protótipo de Baixa Fidelidade
+
+![Tela 2 -](./img/prototipos/tela2.jpg)
+
+##### Figura 3 - Tela 2 do Protótipo de Baixa Fidelidade
+
+![Tela 3 -](./img/prototipos/tela3.jpg)
+
+##### Figura 4 - Tela 3 do Protótipo de Baixa Fidelidade
+
+![Tela 4 -](./img/prototipos/tela4.jpg)
+
+##### Figura 5 - Tela 4 do Protótipo de Baixa Fidelidade
+
+![Tela 5 -](./img/prototipos/tela5.jpg)
+
+##### Figura 6 - Tela 5 do Protótipo de Baixa Fidelidade
+
+![Tela 6 -](./img/prototipos/tela6.jpg)
+
+##### Figura 7 - Tela 6 do Protótipo de Baixa Fidelidade
+
 ## Referências
 
->Protótipo de Baixa Fidelidade por Gabriela
+> Protótipo de Baixa Fidelidade por Gabriela

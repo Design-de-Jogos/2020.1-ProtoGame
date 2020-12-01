@@ -6,7 +6,7 @@
 | :--: | :----: | :-------: | :-------: | 
 |20/09/2020| 0.1 | Criação documento Análise de tarefas| [Guilherme Leal](https://github.com/gleal17)|
 |16/11/2020| 0.2 | Correção de notação de análise de tarefas| [Guilherme Leal](https://github.com/gleal17)|
-01/12/2020 | 0.3 | Revisão do documento | Stéfane Souz
+01/12/2020 | 0.3 | Revisão do documento | Stéfane Souza
 
 ## Introdução 
 

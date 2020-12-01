@@ -2,31 +2,31 @@
 
 Data | Versão | Descrição | Autor(es)
 ----- | ------ | -------- | --------
-14/09/2020 | 0.0 | Checklist e planejamento  | Gabriela
+14/09/2020 | 0.0 | Checklist e Planejamento  | Gabriela
 
 ### Planejamento
 
-Na fase de planejamento da Inspeção a equipe se prepara para a execução dos procedimentos que devem ser aplicados. A Inspeção possuei uma lógica e papeis como ilustrados pela Figura 1
+<p align="justify">Na fase de planejamento da Inspeção a equipe se prepara para a execução dos procedimentos que devem ser aplicados. A Inspeção possuei uma lógica e papeis como ilustrados pela Figura 1. </p>
 
 ![Figura 1: Processo de Inspeção Fonte: Dev Media](./img/inspecao.png)
 
 No caso do nosso projeto os papeis são definidos como:
 
 Moderadora(a): Gabriela  
-Inspetores: Guilherme, Iolane e Stefane
+Inspetores: Guilherme, Iolane e Stéfane
 
-As atividades incluem o preenchimento do formulário elaborado em forma de checklist e com perguntas de avaliação sobre todos os artefatos gerados durante o desenvolvimento do preojeto.
-As perguntas avaliam sob critérios básicos para um bom texto como:
+<p align="justify">As atividades incluem o preenchimento do formulário elaborado em forma de checklist e com perguntas de avaliação sobre todos os artefatos gerados durante o desenvolvimento do preojeto.
+As perguntas avaliam sob critérios básicos para um bom texto como: </p>
 
 * As tabelas estão enumeradas?  
 * Possui erros ortográficos?  
 * Possui bibliografia?  
 
-E também incluem perguntas que verificam se foram atendidas as recomendações dadas pelo professor da disciplina. Além disso, perguntas específicas para cada artefato afim de verificar sua qualidade. O formulário está disponível logo abaixo.
+<p align="justify">E também incluem perguntas que verificam se foram atendidas as recomendações dadas pelo professor da disciplina. Além disso, perguntas específicas para cada artefato afim de verificar sua qualidade. O formulário está disponível logo abaixo.</p>
 
 ### Checklist
 
-[Checklist de inspeção do projeto ProtoGame](https://docs.google.com/forms/d/e/1FAIpQLSeYJQ9n3wla_-lL0tBXR0LTkZCaO5Qc6UeN7cjsJjvkvIcU2Q/viewform?usp=sf_link)
+* [Checklist de inspeção do projeto ProtoGame](https://docs.google.com/forms/d/e/1FAIpQLSeYJQ9n3wla_-lL0tBXR0LTkZCaO5Qc6UeN7cjsJjvkvIcU2Q/viewform?usp=sf_link)
 
 ## Referências
 

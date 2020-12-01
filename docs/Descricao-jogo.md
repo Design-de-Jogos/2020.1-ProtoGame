@@ -28,18 +28,18 @@ Data | Versão | Descrição | Autor(es)
 
 ![Fluxo](./img/fluxo-jogo.jpeg)
 
-[Figura 1: Fluxo do jogo. Fonte: Guilherme Leal](./img/fluxo-jogo.jpeg)
+[Figura 1: Fluxo do Jogo](./img/fluxo-jogo.jpeg)
 
 ## Fluxo do Jogo (Versão 2)
 ![Fluxo](./img/fluxo_protogame.jpg)
 
-[Figura 2: Fluxo do jogo. Fonte: Guilherme Leal](./img/fluxo_protogame.jp/g)
+[Figura 2: Fluxo do Jogo (Versão 2)](./img/fluxo_protogame.jp/g)
 
 
 ## Fluxo do Jogo (Notação BPMN)
 ![Fluxo](./img/fluxo_protogame_bpmn.jpg)
 
-[Figura 3: Fluxo do jogo. Fonte: Guilherme Leal](./img/fluxo_protogame_bpmn.jpg)
+[Figura 3: Fluxo do Jogo (Notação BPMN)](./img/fluxo_protogame_bpmn.jpg)
 
 
 ## Mapa do Jogo
@@ -50,7 +50,7 @@ Data | Versão | Descrição | Autor(es)
 <img src="https://design-de-jogos.github.io/2020.1-ProtoGame/img/MAPA-PROTOGAME-mapa.jpg" alt="Figura 4: Versão 1 do mapa do ProtoGame" width=400 height=600>
 </p>
 
-[Figura 4: Versão 1 do mapa do ProtoGame](./img/MAPA-PROTOGAME-mapa.jpg)
+[Figura 4: Versão 1 do Mapa do ProtoGame](./img/MAPA-PROTOGAME-mapa.jpg)
 
 ### Módulos
 
@@ -61,7 +61,7 @@ Data | Versão | Descrição | Autor(es)
 </p>
 
 
-[Figura 5: Descrição dos módulos e fases do jogo ProtoGame](./img/MAPA-PROTOGAME-modulos-fases.jpg)
+[Figura 5: Descrição dos Módulos e Fases do ProtoGame](./img/MAPA-PROTOGAME-modulos-fases.jpg)
 
 ## Personagem
 

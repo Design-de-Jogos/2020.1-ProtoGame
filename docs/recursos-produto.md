@@ -6,13 +6,13 @@ Data | Versão | Descrição | Autor(es)
 01/12/2020 | 0.1 | Revisão do documento | Stéfane Souza
 
 O jogo possui as seguintes funcionalidades:
-- Criar uma turma; 
-- Criar ambiente de questões; 
-- Entrar em uma turma; 
-- Iniciar o jogo;
-- Mudar de nível; 
-- Interação com o Protus e 
-- Recompensas
+* Criar uma turma; 
+* Criar ambiente de questões; 
+* Entrar em uma turma; 
+* Iniciar o jogo;
+* Mudar de nível; 
+* Interação com o Protus e 
+* Recompensas
 
 <p align="justify"> Cada uma dessas funcionalidades são descritas por histórias de usuário contemplando o necessário para o desenvolvimento da funcionalidade como um todo. A seguir, temos casos de uso para cada funcionalidade a ser desenvolvida: </p>
 
@@ -72,6 +72,9 @@ Essa funcionalidade será desenvolvida para um usuário com perfil de estudante 
 
 ##### Figura 7 - Funcionalidade: Recompensa
 
-## Referências 
+## Referências
+> Figuras 1, 2, 3, 4, 5, 6 e 7 por Gabriela
+
 > https://app.diagrams.net/
+
 > http://csis.pace.edu/~marchese/CS389/L9/Use%20Case%20Diagrams.pdf

@@ -51,4 +51,4 @@ em um cenário, por exemplo, uma simulação de possíveis utilações do aplica
 
 >Storyboard 1 por Guilherme Leal (edição adaptada) em https://www.storyboardthat.com/
 
-> Storyboards 1, 2, 3, 4, 5 e 6 por GUilherme Leal
+> Storyboards 1, 2, 3, 4, 5 e 6 por Guilherme Leal

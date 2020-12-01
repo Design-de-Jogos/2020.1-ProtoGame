@@ -8,16 +8,15 @@ Data       | Versão | Descrição                               | Autor(es)
 15/11/2020 | 0.2    | análise da avaliação                    |[Iolane Andrade](https://github.com/IolaneAndrade)
 16/11/2020 | 0.3    | Imagem do protótipo de alta fidelidade  |[Iolane Andrade](https://github.com/IolaneAndrade)
 16/11/2020 | 0.4    | Relato e avaliação do protótipo de alta fidelidade pela Persona Pedro  |[Gabriela](https://github.com/gag2502)
+01/12/2020 | 0.5 | Revisão do documento | Stéfane Souza
 
+## Protótipo de Alta Fidelidade
 
-
-## Protótipo de alta fidelidade
-
-A figura 1 ilustra a primeira parte do prototipo de alta fidelidade do projeto ProtoGame. Contendo fluxo do aluno ao responder uma questão e o fluxo do professor ao criar turma e adicionar questões.
+<p align="justify">A figura 1 ilustra a primeira parte do prototipo de alta fidelidade do projeto ProtoGame. Contendo fluxo do aluno ao responder uma questão e o fluxo do professor ao criar turma e adicionar questões. </p>
 
 ![prototipo de alta fidelidade parte 1](./img/ProtoGame-parte1.png)
 
-[Figura 1: prototipo de alta fidelidade parte 1](./img/Avaliacao-relato-resultados-proto-alta-fidelidade/ProtoGame-parte1.png)
+[Figura 1: Prototipo de Alta Fidelidade - Parte 1](./img/Avaliacao-relato-resultados-proto-alta-fidelidade/ProtoGame-parte1.png)
 
 ## Preparação
 
@@ -29,19 +28,20 @@ Ao realizar uma avaliação, proceda da seguinte maneira:
 - Responda as questões definidas no documento do planejamento da avaliação;
 
 
-## Avaliação 1:
+# Avaliação 1
 
 ### Participante:
  
 ![persona 1](./img/personas/persona-1.jpg)
 
+#### Figura 2 - Persona 1
 
-### Objetivos da avaliação:
+### Objetivos da Avaliação:
 
 <p align="justify">A participante, Matilde deverá seguir as instruções definidas nas duas tabelas abaixo. Tendo como objetivo 1 "Iniciar um jogo e responder questões corretamente." e objetivo 2 "Iniciar um jogo e responder alguma questão incorretamente."</p>
  
 
-item                    | descrição
+Item                    | Descrição
 ----------------------- | ---------------------------
 **Objetivo 1:**         | Iniciar um jogo e responder questões corretamente.
 **Ator:**               | Aluno.
@@ -55,7 +55,9 @@ item                    | descrição
                         | 7. Responda a terceira questão selecionando a primeira opção;
 **Resultado esperado:** | É esperado que o aluno acerte todas as questões e passe de fase.
 
-item                    | descrição
+#### Tabela 1 - Avaliação da Persona 1: Objetivo 1
+
+Item                    | Descrição
 ----------------------- | ---------------------------
 **Objetivo 2:**         | Iniciar um jogo e responder alguma questão incorretamente.
 **Ator:**               | Aluno.
@@ -68,7 +70,9 @@ item                    | descrição
                         | 6. Responder a segunda questão como "verdadeira";
 **Resultado esperado:** | É esperado que o aluno erre a segunda questão e tenha que reiniciar o jogo.
 
-### Protótipo utilizado na avaliação
+#### Tabela 1 - Avaliação da Persona 1: Objetivo 2
+
+### Protótipo Utilizado na Avaliação
 
 Para esta avaliação foi utilizada esta primeira parte do protótipo de alta fidelidade. Nesta fase, o protótipo engloba apenas o fluxo do aluno descrito nos casos de teste.
 
@@ -94,8 +98,7 @@ No geral a avaliação do protótipo, na atividade do aluno responder uma quest�
 </p>
 
 
-## Avaliação 2:  
-
+# Avaliação 2  
 
 ### Participante:
 
@@ -103,19 +106,19 @@ No geral a avaliação do protótipo, na atividade do aluno responder uma quest�
 ![persona 4](./img/personas/persona-4.png)
 
 
-[Figura 4: Descrição da persona 4](./img/personas/persona-4.png)
+[Figura 3: Descrição da Persona 4](./img/personas/persona-4.png)
 
 
-### Objetivos da avaliação:
+### Objetivos da Avaliação:
 
 <p align="justify">
  O participante, Pedro deverá seguir as instruções definidas nas duas tabelas abaixo. Tendo como objetivo adicionar novas questões na aplicação e gerenciá-las.
 </p>
 
 
-item                    | descrição
+Item                    | Descrição
 ----------------------- | ---------------------------
-**Objetivo 2:**         | Criar uma turma e incluir questões
+**Objetivo 1:**         | Criar uma turma e incluir questões
 **Ator:**               | Professor
 **Pré-condição:**       | Nenhuma
 **Procedimentos:**      | 1. Entrar no jogo ProtoGame selecionar a opção "Professor"
@@ -126,6 +129,7 @@ item                    | descrição
                         | 6. Excluir uma questão
 **Resultado esperado:** | É esperado que o professor consiga gerenciar suas questões
 
+#### Tabela 3 - Avaliação da Persona 4: Objetivo 1
 
 ## Coleta de dados  
 

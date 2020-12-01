@@ -4,8 +4,9 @@ Data | Versão | Descrição | Autor(es)
 ---- | ---- | ----| -----
 04/09/2020 | 0.0 | Criação do documento | Gabriela
 05/09/2020 | 0.1 | Adição Storyboads | Guilherme
+01/12/2020 | 0.2 | Atualização e revisão do documento | Stéfane Souza
 
-### Perfil dos participantes
+### Perfil dos Participantes
 
 | Nome  | Idade  | Escolaridade   | Ocupação profissional |
 |---|---|---|---|
@@ -13,53 +14,72 @@ Data | Versão | Descrição | Autor(es)
 | Alice | 18 | Ensino Superior Incompleto  | Estudante |
 | Victor Hugo | 25 | Ensino Superior Incompleto  | Estudante |
 
+##### Tabela 1 - Perfil dos Participantes
+
 ### Storyboards 
 
 #### Storyboard 1
 
 ![Storyboard 1 -](./img/storyboards/sb2.jpg) 
 
+##### Figura 1 - Storyboard 1
+
 #### Storyboard 2
 
 ![Storyboard 2 -](./img/storyboards/sb3.jpg)
+
+##### Figura 2 - Storyboard 2
 
 #### Storyboard 3
 
 ![Storyboard 3 -](./img/storyboards/sb4.jpg)
 
+##### Figura 3 - Storyboard 3
+
 #### Storyboard 4
 
 ![Storyboard 4 -](./img/storyboards/sb5.jpg)
+
+##### Figura 4 - Storyboard 4
 
 #### Storyboard 5
 
 ![Storyboard 5 -](./img/storyboards/sb6.jpg)
 
+##### Figura 5 - Storyboard 5
+
 ### Análise
 Foram feitas 7 perguntas aos participantes:
 
 - As atividades estão adequadas para faixa etária?
-![perg](./img/storyboards/perg1.png)
-[Figura 1: Avaliação da faixa etária](./img/storyboards/perg1.png)
-- As atividades proporcionam o desenvolvimento de competências gerais pelo aluno/utilizador, sugeridas no currículo?
-![perg](./img/storyboards/perg2.png)
-[Figura 2: Avaliação do desenvolvimento de competências por meio do jogo](./img/storyboards/perg2.png)
-- As atividades permitem um envolvimento ativo do professor?
-![perg](./img/storyboards/perg3.png)
-[Figura 3: Avaliação da participação do professor](./img/storyboards/perg3.png)
-- A organização e apresentação da informação está simples de compreender?
-![perg](./img/storyboards/perg4.png)
-[Figura 4: Avaliação da compreensão sobre o enredo por parte dos participantes](./img/storyboards/perg4.png)
-- A ideia do produto é agradável?
-![perg](./img/storyboards/perg5.png)
-[Figura 5: Avaliação sobre a atratividade](./img/storyboards/perg5.png)
-- O personagem Protus (bichinho de estimação) transmite uma ideia/sentimento positivo?
-![perg](./img/storyboards/perg6.png)
-[Figura 6: Avaliação sobre o Protus](./img/storyboards/perg6.png)
-- Possui alguma consideração a respeito da avaliação?
-![perg](./img/storyboards/perg7.png)
+![perg](./img/perg1.png)
+[Figura 1: Avaliação da faixa etária](./img/perg1.png)
 
-Os participantes da avaliação enquadram-se no perfil definido pelas Personas elaboradas.
+- As atividades proporcionam o desenvolvimento de competências gerais pelo aluno/utilizador, sugeridas no currículo?
+![perg](./img/perg2.png)
+[Figura 2: Avaliação do desenvolvimento de competências por meio do jogo](./img/perg2.png)
+
+- As atividades permitem um envolvimento ativo do professor?
+![perg](./img/perg3.png)
+[Figura 3: Avaliação da participação do professor](./img/perg3.png)
+
+- A organização e apresentação da informação está simples de compreender?
+![perg](./img/perg4.png)
+[Figura 4: Avaliação da compreensão sobre o enredo por parte dos participantes](./img/perg4.png)
+
+- A ideia do produto é agradável?
+![perg](./img/perg5.png)
+[Figura 5: Avaliação sobre a atratividade](./img/perg5.png)
+
+- O personagem Protus (bichinho de estimação) transmite uma ideia/sentimento positivo?
+![perg](./img/perg6.png)
+[Figura 6: Avaliação sobre o Protus](./img/perg6.png)
+
+- Possui alguma consideração a respeito da avaliação?
+![perg](./img/perg7.png)
+[Figura 7: Considerações Finais](./img/perg6.png)
+
+<p align="justify">Os participantes da avaliação enquadram-se no perfil definido pelas Personas elaboradas.
 O participante mais velho tem 25 anos e o mais jovem possue 18 anos e são alunos de graduação.
 As atividades forma consideradas adequadas para a faixa etária, a ideia foi considerada agradável
 e de fácil compreensão. Os participantes acreditam que o professor possui uma participação satisfatória no enredo do jogo.
@@ -70,9 +90,8 @@ Um dos comentários foi:
 
 "Achei criativo e de fácil compreensão de qualquer pessoa que esteja interessada no assunto :-), amei o Protus"
 
-Com isso podemos avaliar a aceitação da ideia dentre o nosso público alvo como tendo uma resposta positiva.
-
+Com isso podemos avaliar a aceitação da ideia dentre o nosso público alvo como tendo uma resposta positiva. </p>
 
 ## Referências
 
->Storyboard 1,2,3,4,5 por Guilherme Leal (edição adaptada) em https://www.storyboardthat.com/
+> Storyboard 1,2,3,4,5 por Guilherme Leal (edição adaptada) em https://www.storyboardthat.com/

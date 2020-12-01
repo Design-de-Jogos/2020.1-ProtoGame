@@ -201,6 +201,8 @@ Mensagens de confirmação | Mensagens que solicitam a confirmação do usuário
 
 ## 5. Bibliografia 
 
+> Figura 1 por Gabriela
+
 > [Norman, 1988] Norman, D. A. **The Psychology of Everyday Things**. New York, Basic Books, 1988.  
 
 > BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. **Interação humano-computador**. Elsevier, 2010  
