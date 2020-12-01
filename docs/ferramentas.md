@@ -1,9 +1,15 @@
 # Ferramentas
-As ferramentas listadas abaixo foram utilizadas em todo processo de planejamento do jogo ProtoGame.
+
+Data | Versão | Descrição | Autor(es)
+---- | ---- | ----| -----
+04/10/2020 | 0.0 | Criação do Documento | Gabriela
+01/12/2020 | 0.1 | Atualização e revisão do documento | Stéfane Souza
+
+<p align="justify">As ferramentas listadas abaixo foram utilizadas em todo processo de planejamento do jogo ProtoGame.</p>
 
 
 ###Questionários
-Foi utilizado o Google Forms para elaboração das perguntas e o Telegram e WhatsApp para sua divulgação
+Foi utilizado o Google Forms para elaboração das perguntas e o Telegram e WhatsApp para sua divulgação.
 
 | Google Forms   | Telegram   | WhatsApp   |
 |---|---|---|
@@ -11,12 +17,12 @@ Foi utilizado o Google Forms para elaboração das perguntas e o Telegram e What
 
 
 ###Prototipação
-Foi utilizado o Figma
+Foi utilizado o Figma para elaboração do Protótipo de Alta Fidelidade.
 
 ![figma](./img/simbolos/figma.png)
 
 ###Organização da Equipe
-Foram utilizados planilhas do Google, Google Drive e Github
+Foram utilizados planilhas do Google, Google Drive e Github.
 
 | Planilhas Google  | Google Drive   | GitHub  |
 |---|---|---|
@@ -24,7 +30,7 @@ Foram utilizados planilhas do Google, Google Drive e Github
 
 
 ###Diagramação
-Foi utilizado o draw.io
+Foi utilizado o draw.io para elaboração de fluxos, diagramas, etc.
 
 ![draw](./img/simbolos/draw.png)
 
