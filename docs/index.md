@@ -1,24 +1,7 @@
-# Seminários em Engenharia de Software
-
-# Grupo 4: Protótipo 
+# ProtoGame
 
 ![logo](./img/logo.png)
 
+<p align="justify">O ProtoGame que tem como objetivo ajudar pessoas interessadas em Prototipação e alunos da matéria de Interação Humano-Computador, fazemos isso por meio de um site onde o jogo foi planejado para ser desenvolvido, podendo ser jogado em dispositivos móveis ou computador. É um jogo educacional onde o usuário pode aprender ou treinar seus conhecimentos em Prototipação enquanto ajuda o Protus, nosso mascote. A idealização do jogo foi feita para a disciplina de Seminários em Engenharia de Software da Universidade de Brasília Campus Gama (FGA).</p>
 
-Data | Versão | Descrição | Autor(es)
----- | ---- | ----| -----
-15/09/2020 | 0.0 | Saída do membro do time Júlio devido trancamento da disciplina| Equipe de GDD
-
-
-## Equipe
-
- Membro |Nome | Matrícula | GitHub
-------- | ------- | --------- | -------
-![gabriela](./img/membros/gabriela.jpeg) |  Gabriela  | 15/0127006   | [@gag2502](https://github.com/gag2502)
-![guilherme](./img/membros/guilherme.jpeg) |  Guilherme Leal | 15/0128312| [@gleal17](https://github.com/gleal17)
-![iolane](./img/membros/iolane.jpeg) | Iolane Andrade | 13/0028355 | [@IolaneAndrade](https://github.com/IolaneAndrade)
-![stefane](./img/membros/stefane.jpeg) |  Stéfane Souza | 15/0148623 | [@stefanesouza](https://github.com/stefanesouza)
-
-
-
-
+# Conheça mais sobre o nosso jogo e seu planejamento navegando pelo menu lateral.

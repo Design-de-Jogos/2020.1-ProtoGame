@@ -5,6 +5,7 @@ theme:
 nav:
   - Home: index.md
   - Sobre o projeto:
+    - Equipe: equipe.md
     - Cronograma: Cronograma.md
     - Ferramentas: ferramentas.md
   - Análise de Requisitos:
