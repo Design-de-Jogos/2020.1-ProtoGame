@@ -85,6 +85,7 @@ Como o foco do trabalho dentro da disciplina é apenas o planejamento, funcionam
 <tr> <td><b>Cujo impacto é</b></td> <td> a dificuldade de fixar o conteúdo ministrado em sala </td> </tr>
 <tr> <td> <b>Uma boa solução seria</b></td> <td> um jogo interativo de perguntas e respostas.</td> </tr>
 </table>
+
 ##### Tabela 1 - Instrução do Problema
 
 ### Descrições das Partes Interessadas e Usuários
@@ -96,6 +97,7 @@ Gabriela | 15/0127006   |Planejar e executar o Projeto de Interface do software.
 Guilherme |15/0128312| Planejar e executar o Projeto de Interface do software. | [@gleal17](https://github.com/gleal17)
 Iolane Andrade | 13/0028355 | Planejar e executar o Projeto de Interface do software. | [@IolaneAndrade](https://github.com/IolaneAndrade)
 Stéfane Souza | 15/0148623 | Planejar e executar o Projeto de Interface do software. | [@stefanesouza](https://github.com/stefanesouza)
+
 ##### Tabela 2 - Equipe
 
 
@@ -104,31 +106,34 @@ Stéfane Souza | 15/0148623 | Planejar e executar o Projeto de Interface do soft
 Nome | Descrição | Responsabilidade
 ----- | ------ | -------
 André Barros | Professor da disciplina. | Orientar a equipe durante o desenvolvimento do projeto.
+
 ##### Tabela 3 - Equipe de Avaliação e Suporte
 
 ### Perfil do usuário
 
 #### Estudante
 
-  Perfil 1 |  
+  Perfil 1 |  .
 -- | --
 **Representantes** | Estudantes
 **Descrição** | Estudantes que tem interesse em um auxilio para aprender prototipação
 **Responsabilidade** | Estudar para responder questões, manter as vidas no jogo e a saúde do personagem .
 **Critérios de Sucesso** | Responder questões diáriamente para ganhar icones para manter a saúde do personagem, manter as vidas e avançar de fases para concluir o estudo.
 **Envolvimento** | Alto
+
 ##### Tabela 4 - Perfil 1: Estudante
 
 
 #### Professor
 
- Perfil 2 | 
+ Perfil 2 | .
 -- | --
 **Representantes** | Professores
 **Descrição** | Professores que lecionam sobre prototipação
 **Responsabilidade** | Criar uma turma, selecionar questões do banco de questões e monitorar o ranking da turma.
 **Critérios de Sucesso** | Monitorar o progresso dos estudantes.
 **Envolvimento** | Baixo
+
 ##### Tabela 5 - Perfil 2: Professor
 
 
@@ -144,6 +149,7 @@ Ferramenta | Descrição
 **Storyboard That** | Ferramenta utilizada para a elaboração dos storyboads do projeto
 **Google Forms** | Ferramenta utilizada na elaboração e aplicação de questionários
 **Draw.io** | Ferramenta utilizada na elaboração de esquemáticos
+
 ##### Tabela 6 - Ferramentas do Projeto
 
 
