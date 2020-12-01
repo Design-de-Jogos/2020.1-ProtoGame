@@ -6,6 +6,7 @@ Data | Versão | Descrição | Autor(es)
 01/12/2020 | 0.1 | Revisão do documento | Stéfane Souza
 
 O jogo possui as seguintes funcionalidades:
+
 * Criar uma turma; 
 * Criar ambiente de questões; 
 * Entrar em uma turma; 
