@@ -1,4 +1,4 @@
-# Planejamento da Avaliação do Protótipo de Alta-fidelidade do ProtoGame
+# Planejamento da Avaliação do Protótipo de Alta Fidelidade
 
 
 Data | Versão | Descrição | Autor(es)
@@ -23,12 +23,15 @@ Data | Versão | Descrição | Autor(es)
 
 <p align="justify">A avaliação do protótipo de alta fidelidade seguirá o mesmo modelo da avaliação do protótipo de papel e tem como objetivo avaliar o potencial técnico-didático do mesmo. Para a coleta dos dados utilizaremos a técnica de investigação com a aplicação de uma entrevista semi-estruturada que visam abstrair percepções positivas e negativas dos utilizadores em relação ao protótipo. Na Figura 1 está ilustrada o esquema de avaliação do protótipo de papel.</p>
 
+[Figura 1 - Esquema de Avaliação do Protótipo de Alta Fidelidade](./img/Planejamento-Avaliacao-alta-fidelidade.jpg)
+
 ![metodologia da avaliação prototipo de alta fidelidade](./img/Planejamento-Avaliacao-alta-fidelidade.jpg)
 
-[Figura 1 - Esquema de Avaliação do Protótipo de Alta Fidelidade](./img/Planejamento-Avaliacao-alta-fidelidade.jpg)
+##### Fonte: Autor (2020)
 
 <p align="justify">Com os objetivos da avaliação definidos, elaboramos uma tabela com questões relacionadas ao objetivo que auxiliarão na condução da entrevista.</p>
 
+##### Tabela 1 - Questões de Avaliação do Protótipo de Alta Fidelidade
 
 Objetivo | Questão
 ------- | -------
@@ -45,15 +48,17 @@ Objetivo | Questão
   .                                  | 5. Em caso afirmativo, descreva quais atividades causaram frustração.
   .                                  | 6. De modo geral, qual a sua opnião sobre o produto?
 
-##### Tabela 1 - Questões de Avaliação do Protótipo de Alta Fidelidade
+##### Fonte: Autor (2020)
 
 ### Fluxo da Avaliação Heurística
 
 <p align="justify">Para o fluxo da avaliação heurística, BARBOSA e SILVA indicam alguns ṕassos importantes, são eles: Preparação, Coleta de dados e interpretação, Consolidação e relato dos resultados. Estes passos estão ilustrados na figura 2 </p>
 
+[Figura 2: Avaliação Heuristica](./img/avaliacao-heuristica.jpg)
+
 ![avaliação heuristica](./img/avaliacao-heuristica.jpg)
 
-[Figura 2: Avaliação Heuristica](./img/avaliacao-heuristica.jpg)
+##### Fonte: Autor (2020)
 
 <p align="justify">A fase de <b>Preparação</b> é muito importante para que o avaliador tenha ciência do contexto a ser avaliado e possa fazer boas considerações durante a avaliação. É importante que as atividades sejam definidas antes de iniciar a avaliação. Na fase de <b>Coleta de dados e interpretação</b>, é importante que o avaliador fale em voz alta a respeito dos defeitos ou considerações durante a atividade. Essas considerações devem ser anotadas e debatidas entre a equipe, classificando a relevância e gravidade. Isto é feito na ultima fase de <b>Consolidação e relato dos resultados</b>. </p>
 
@@ -62,8 +67,6 @@ Objetivo | Questão
 <p align="justify">Para esta avaliação foram selecionados quatro participantes. </p>
 
 ## Referências
-
-> Figura 1 e 2, BARBOSA, Simone; SILVA, Bruno. **Interação humano-computador**. Elsevier Brasil, 2010.
 
 >BARBOSA, Simone; SILVA, Bruno. **Interação humano-computador**. Elsevier Brasil, 2010.
 

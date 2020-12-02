@@ -1,4 +1,4 @@
-# Avaliação do Protótipo de Papel do ProtoGame
+# Análise dos Resultados do Protótipo de Papel
 
 Data | Versão | Descrição | Autor(es)
 ---- | ---- | ----| -----
@@ -10,17 +10,21 @@ Data | Versão | Descrição | Autor(es)
 
 ### Perfil dos Participantes
 
+##### Tabela 1 - Perfil dos Participantes
+
 | Nome  | Idade  | Escolaridade   | Ocupação profissional |
 |---|---|---|---|
 | Lucas | 25 | Ensino Superior Incompleto  | Estudante |
 
-##### Tabela 1 - Perfil dos Participantes
+##### Fonte: Autor (2020)
 
 ### Protótipo de Baixa Fidelidade
 
+##### Figura 1 - Protótipo de Baixa Fidelidade
+
 ![Protótipo 1 -](./img/prototipos/prototipoPapel.jpg)
 
-##### Figura 1 - Protótipo de Baixa Fidelidade
+##### Fonte: Autor (2020)
 
 #### Obs: O teste abaixo foi utilizado como um Teste Piloto.
 
@@ -69,7 +73,7 @@ Data | Versão | Descrição | Autor(es)
 
 <p align="justify">Esse teste foi de muita importância para o projeto. O participante está fazendo o TCC na área de jogos educacionais e mesmo com um projeto de papel um pouco simples do nosso projeto nóscolhemos informações que vão deixar nosso jogo bem melhor. Ficou claro a importância de contextualizar o usuário através de um tutorial para que ele entenda o objetivo do jogo, assim como elementos para jogo ser mais atrativo, intuitivo e estimular a curiosidade do usuário ao jogar por meio de gamificação e telas visualmente agradáveis. O projeto foi elogiado pela sua ideia. </p>
 
-### Vídeo da Entrevista
+### Vídeo da Entrevista (Teste Piloto)
 
 - [Teste do Protótipo de Papel](https://drive.google.com/file/d/14mh8qNwRrwmbN4OJMRXY1uAPODFYbmPw/view?usp=sharing)
 
@@ -77,29 +81,46 @@ Data | Versão | Descrição | Autor(es)
 
 ### Telas Individuais
 
-![Tela 1 -](./img/prototipos/tela1.jpg)
-
 ##### Figura 2 - Tela 1 do Protótipo de Baixa Fidelidade
 
-![Tela 2 -](./img/prototipos/tela2.jpg)
+![Tela 1 -](./img/prototipos/tela1.jpg)
+
+##### Fonte: Autor (2020)
+
 
 ##### Figura 3 - Tela 2 do Protótipo de Baixa Fidelidade
 
-![Tela 3 -](./img/prototipos/tela3.jpg)
+![Tela 2 -](./img/prototipos/tela2.jpg)
+
+##### Fonte: Autor (2020)
+
 
 ##### Figura 4 - Tela 3 do Protótipo de Baixa Fidelidade
 
-![Tela 4 -](./img/prototipos/tela4.jpg)
+![Tela 3 -](./img/prototipos/tela3.jpg)
+
+##### Fonte: Autor (2020)
+
 
 ##### Figura 5 - Tela 4 do Protótipo de Baixa Fidelidade
 
-![Tela 5 -](./img/prototipos/tela5.jpg)
+![Tela 4 -](./img/prototipos/tela4.jpg)
+
+##### Fonte: Autor (2020)
+
 
 ##### Figura 6 - Tela 5 do Protótipo de Baixa Fidelidade
 
-![Tela 6 -](./img/prototipos/tela6.jpg)
+![Tela 5 -](./img/prototipos/tela5.jpg)
+
+##### Fonte: Autor (2020)
+
 
 ##### Figura 7 - Tela 6 do Protótipo de Baixa Fidelidade
+
+![Tela 6 -](./img/prototipos/tela6.jpg)
+
+##### Fonte: Autor (2020)
 
 ## Referências
 

@@ -14,9 +14,20 @@ Data       | Versão | Descrição                               | Autor(es)
 
 <p align="justify">A figura 1 ilustra a primeira parte do prototipo de alta fidelidade do projeto ProtoGame. Contendo fluxo do aluno ao responder uma questão e o fluxo do professor ao criar turma e adicionar questões. </p>
 
+##### Figura 1: Prototipo de Alta Fidelidade - Parte 1
+
 ![prototipo de alta fidelidade parte 1](./img/ProtoGame-parte1.png)
 
-[Figura 1: Prototipo de Alta Fidelidade - Parte 1](./img/Avaliacao-relato-resultados-proto-alta-fidelidade/ProtoGame-parte1.png)
+##### Fonte: Autor (2020)
+
+### Protótipo Utilizado nas Avaliações
+
+Para as avaliações foi utilizado esta primeira parte do protótipo de alta fidelidade. Nesta fase, o protótipo engloba apenas o fluxo do aluno descrito nos casos de teste.
+
+<p>
+ <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FviUeY0Pov7Thoh0ZC19Eh1%2FProtoGame-FluxoAluno-IniciarJogo-responderquest%25C3%25A3o%3Fscaling%3Dscale-down%26node-id%3D61%253A85" allowfullscreen></iframe>
+
+</p>
 
 ## Preparação
 
@@ -31,15 +42,19 @@ Ao realizar uma avaliação, proceda da seguinte maneira:
 # Avaliação 1
 
 ### Participante:
+
+#### Figura 2 - Persona 1
  
 ![persona 1](./img/personas/persona-1.jpg)
 
-#### Figura 2 - Persona 1
+##### Fonte: Autor (2020)
+
 
 ### Objetivos da Avaliação:
 
 <p align="justify">A participante, Matilde deverá seguir as instruções definidas nas duas tabelas abaixo. Tendo como objetivo 1 "Iniciar um jogo e responder questões corretamente." e objetivo 2 "Iniciar um jogo e responder alguma questão incorretamente."</p>
  
+#### Tabela 1 - Avaliação da Persona 1: Objetivo 1
 
 Item                    | Descrição
 ----------------------- | ---------------------------
@@ -55,7 +70,9 @@ Item                    | Descrição
                         | 7. Responda a terceira questão selecionando a primeira opção;
 **Resultado esperado:** | É esperado que o aluno acerte todas as questões e passe de fase.
 
-#### Tabela 1 - Avaliação da Persona 1: Objetivo 1
+##### Fonte: Autor (2020)
+
+##### Tabela 2 - Avaliação da Persona 1: Objetivo 2
 
 Item                    | Descrição
 ----------------------- | ---------------------------
@@ -70,16 +87,7 @@ Item                    | Descrição
                         | 6. Responder a segunda questão como "verdadeira";
 **Resultado esperado:** | É esperado que o aluno erre a segunda questão e tenha que reiniciar o jogo.
 
-#### Tabela 1 - Avaliação da Persona 1: Objetivo 2
-
-### Protótipo Utilizado na Avaliação
-
-Para esta avaliação foi utilizada esta primeira parte do protótipo de alta fidelidade. Nesta fase, o protótipo engloba apenas o fluxo do aluno descrito nos casos de teste.
-
-<p>
- <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FviUeY0Pov7Thoh0ZC19Eh1%2FProtoGame-FluxoAluno-IniciarJogo-responderquest%25C3%25A3o%3Fscaling%3Dscale-down%26node-id%3D61%253A85" allowfullscreen></iframe>
-
-</p>
+##### Fonte: Autor (2020)
 
 ## Coleta de dados
 
@@ -102,12 +110,11 @@ No geral a avaliação do protótipo, na atividade do aluno responder uma quest�
 
 ### Participante:
 
+[Figura 3: Descrição da Persona 4](./img/personas/persona-4.png)
 
 ![persona 4](./img/personas/persona-4.png)
 
-
-[Figura 3: Descrição da Persona 4](./img/personas/persona-4.png)
-
+##### Fonte: Autor (2020)
 
 ### Objetivos da Avaliação:
 
@@ -115,6 +122,7 @@ No geral a avaliação do protótipo, na atividade do aluno responder uma quest�
  O participante, Pedro deverá seguir as instruções definidas nas duas tabelas abaixo. Tendo como objetivo adicionar novas questões na aplicação e gerenciá-las.
 </p>
 
+##### Tabela 3 - Avaliação da Persona 4: Objetivo 1
 
 Item                    | Descrição
 ----------------------- | ---------------------------
@@ -129,7 +137,7 @@ Item                    | Descrição
                         | 6. Excluir uma questão
 **Resultado esperado:** | É esperado que o professor consiga gerenciar suas questões
 
-#### Tabela 3 - Avaliação da Persona 4: Objetivo 1
+##### Fonte: Autor (2020)
 
 ## Coleta de dados  
 
@@ -148,4 +156,66 @@ A avaliação com o Pedro gerou bons resultados, assim como a com a Matilde. O p
 A avaliação do protótipo do ponto de vista do professor também obteve resultados positivos.
 </p>
 
+# Avaliação 3
+
+### Participante:
+
+#### Figura 4 - Persona 3
+ 
+![persona 1](./img/personas/persona-3.jpg)
+
+##### Fonte: Autor (2020)
+
+
+### Objetivos da Avaliação:
+
+<p align="justify">A participante, Carolina deverá seguir as instruções definidas nas duas tabelas abaixo. Tendo como objetivo 1 "Iniciar um jogo e responder questões corretamente." e objetivo 2 "Iniciar um jogo e responder alguma questão incorretamente."</p>
+ 
+#### Tabela 4 - Avaliação da Persona 3: Objetivo 1
+
+Item                    | Descrição
+----------------------- | ---------------------------
+**Objetivo 1:**         | Iniciar um jogo e responder questões corretamente.
+**Ator:**               | Aluno.
+**Pré-condição:**       | O Aluno já está cadastrado no sistema.
+**Procedimentos:**      | 1. Entrar no jogo ProtoGame e selecionar a opção "Aluno";
+                        | 2. Selecionar a opção "Próximo";
+                        | 3. Selecionar a opção "Jogar";
+                        | 4. Selecionar a opção "Iniciar";
+                        | 5. Responder a primeira questão como "verdadeira";
+                        | 6. Responder a segunda questão como "falsa";
+                        | 7. Responda a terceira questão selecionando a primeira opção;
+**Resultado esperado:** | É esperado que o aluno acerte todas as questões e passe de fase.
+
+##### Fonte: Autor (2020)
+
+##### Tabela 5 - Avaliação da Persona 3: Objetivo 2
+
+Item                    | Descrição
+----------------------- | ---------------------------
+**Objetivo 2:**         | Iniciar um jogo e responder alguma questão incorretamente.
+**Ator:**               | Aluno.
+**Pré-condição:**       | O Aluno já está cadastrado no sistema.
+**Procedimentos:**      | 1. Entrar no jogo ProtoGame e selecionar a opção "Aluno";
+                        | 2. Selecionar a opção "Próximo";
+                        | 3. Selecionar a opção "Jogar";
+                        | 4. Selecionar a opção "Iniciar";
+                        | 5. Responder a primeira questão como "verdadeira";
+                        | 6. Responder a segunda questão como "verdadeira";
+**Resultado esperado:** | É esperado que o aluno erre a segunda questão e tenha que reiniciar o jogo.
+
+##### Fonte: Autor (2020)
+
+## Coleta de dados
+
+A coleta de dados ocorreu por meio da aplicação e gravação da avaliação heurística, feita com a participante Carolina.
+
+Para acessar a gravação da avaliação 3 >>[clique aqui.](https://youtu.be/KiTVuwHflpA)<<
+
+
+## Consolidação e relato dos resultados
+
+<p align="justify">
+A avaliação com a Carolina foi considerada um sucesso, assim como as duas anteriores. A participante conseguiu utilizar o protótipo normalmente sem muitas explicações, considerou a ideia do jogo como um todo bem agradável e interessante para ela já que possui uma certa dificuldade em aprender conteúdo de forma mais tradicional. A participante gostou bastante do mascote, Protus, e achou as telas do jogo bem agradáveis visualmente assim como a disposição dos botões também bem legais. Conseguiu realizar os dois objetivos da avaliação que foram completar as questões de forma correta e outra errada. O resultado dessa avaliação foi ótima para o histótico de testes do projeto.
+</p>
 

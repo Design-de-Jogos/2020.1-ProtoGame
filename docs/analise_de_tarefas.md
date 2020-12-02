@@ -18,18 +18,18 @@
 
 <p align="justify">Análise de tarefa é então uma ferramenta para ser utilizada para o processo de Design, o intuito é manter a motivação e a perspectiva do usuário. Trata-se de um mapeamento de sequência de atividades necessárias para alcançar um objetivo.  </p>
 
-### Análise de Tarefas (Versão 1)
-![Análise de tarefa](./img/analise%20de%20tarefas.jpg) 
-
 ##### Figura 1 - Análise de Tarefas (Versão 1)
 
-### Análise de Tarefas (Versão 2)
+![Análise de tarefa](./img/analise%20de%20tarefas.jpg) 
 
-#### Notação BPMN
+##### Fonte: Autor (2020)
+
+
+##### Figura 2 - Análise de Tarefas: Notação BPMN
 
 ![Análise de tarefa V2 (Notação BPMN)](./img/analise%20de%20tarefasV2.jpg) 
 
-##### Figura 1 - Análise de Tarefas(Versão 2)
+##### Fonte: Autor (2020)
 
 <p align="justify">A decisão de tarefas depende de como o usuário visualiza o processo dentro do sistema, é possível consequentemente a criar cenários e definir os requisitos de usabilidade.   </p>
 
@@ -38,8 +38,8 @@
 
 > Figura 1 e 2 por Guilherme Leal
 
->JULL, J., 2005. Half-Real: Video Games Between real rules and fictional worlds – Cambridge MIT Press.  
+> JULL, J., 2005. Half-Real: Video Games Between real rules and fictional worlds – Cambridge MIT Press.  
 
->PREECE, J., 2005. Design de Interação – além da interação homem-computador – Porto Alegre, Bookman  
+> PREECE, J., 2005. Design de Interação – além da interação homem-computador – Porto Alegre, Bookman  
 
 >NIELSEN, J., 1994. Usability Engineering. Londres: Academic Press.   

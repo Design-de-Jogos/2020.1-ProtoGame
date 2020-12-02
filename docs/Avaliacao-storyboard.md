@@ -1,4 +1,4 @@
-# Avaliação do Storyboard
+# Análise dos Resultados do Storyboard
 
 Data | Versão | Descrição | Autor(es)
 ---- | ---- | ----| -----
@@ -8,76 +8,90 @@ Data | Versão | Descrição | Autor(es)
 
 ### Perfil dos Participantes
 
+##### Tabela 1 - Perfil dos Participantes
+
 | Nome  | Idade  | Escolaridade   | Ocupação profissional |
 |---|---|---|---|
 | João | 22 | Ensino Superior Incompleto  | Estudante |
 | Alice | 18 | Ensino Superior Incompleto  | Estudante |
 | Victor Hugo | 25 | Ensino Superior Incompleto  | Estudante |
 
-##### Tabela 1 - Perfil dos Participantes
+##### Fonte: Autor (2020)
 
 ### Storyboards 
 
-#### Storyboard 1
+##### Figura 1 - Storyboard 1
 
 ![Storyboard 1 -](./img/storyboards/sb2.jpg) 
 
-##### Figura 1 - Storyboard 1
-
-#### Storyboard 2
-
-![Storyboard 2 -](./img/storyboards/sb3.jpg)
+##### Fonte: Autor (2020)
 
 ##### Figura 2 - Storyboard 2
 
-#### Storyboard 3
+![Storyboard 2 -](./img/storyboards/sb3.jpg)
 
-![Storyboard 3 -](./img/storyboards/sb4.jpg)
+##### Fonte: Autor (2020)
 
 ##### Figura 3 - Storyboard 3
 
-#### Storyboard 4
+![Storyboard 3 -](./img/storyboards/sb4.jpg)
 
-![Storyboard 4 -](./img/storyboards/sb5.jpg)
+##### Fonte: Autor (2020)
 
 ##### Figura 4 - Storyboard 4
 
-#### Storyboard 5
+![Storyboard 4 -](./img/storyboards/sb5.jpg)
+
+##### Fonte: Autor (2020)
+
+##### Figura 5 - Storyboard 5
 
 ![Storyboard 5 -](./img/storyboards/sb6.jpg)
 
-##### Figura 5 - Storyboard 5
+##### Fonte: Autor (2020)
 
 ### Análise
 Foram feitas 7 perguntas aos participantes:
 
 - As atividades estão adequadas para faixa etária?
-![perg](./img/perg1.png)
 [Figura 1: Avaliação da faixa etária](./img/perg1.png)
+![perg](./img/perg1.png)
+
+##### Fonte: Autor (2020)
 
 - As atividades proporcionam o desenvolvimento de competências gerais pelo aluno/utilizador, sugeridas no currículo?
-![perg](./img/perg2.png)
 [Figura 2: Avaliação do desenvolvimento de competências por meio do jogo](./img/perg2.png)
+![perg](./img/perg2.png)
+
+##### Fonte: Autor (2020)
 
 - As atividades permitem um envolvimento ativo do professor?
-![perg](./img/perg3.png)
 [Figura 3: Avaliação da participação do professor](./img/perg3.png)
+![perg](./img/perg3.png)
+
+##### Fonte: Autor (2020)
 
 - A organização e apresentação da informação está simples de compreender?
 ![perg](./img/perg4.png)
 [Figura 4: Avaliação da compreensão sobre o enredo por parte dos participantes](./img/perg4.png)
 
 - A ideia do produto é agradável?
-![perg](./img/perg5.png)
 [Figura 5: Avaliação sobre a atratividade](./img/perg5.png)
+![perg](./img/perg5.png)
+
+##### Fonte: Autor (2020)
 
 - O personagem Protus (bichinho de estimação) transmite uma ideia/sentimento positivo?
-![perg](./img/perg6.png)
 [Figura 6: Avaliação sobre o Protus](./img/perg6.png)
+![perg](./img/perg6.png)
+
+##### Fonte: Autor (2020)
 
 - Possui alguma consideração a respeito da avaliação?
-![perg](./img/perg7.png)
 [Figura 7: Considerações Finais](./img/perg6.png)
+![perg](./img/perg7.png)
+
+##### Fonte: Autor (2020)
 
 <p align="justify">Os participantes da avaliação enquadram-se no perfil definido pelas Personas elaboradas.
 O participante mais velho tem 25 anos e o mais jovem possue 18 anos e são alunos de graduação.

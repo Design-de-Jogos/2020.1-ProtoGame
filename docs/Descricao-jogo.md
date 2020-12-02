@@ -26,42 +26,49 @@ Data | Versão | Descrição | Autor(es)
 
 ## Fluxo do Jogo
 
-![Fluxo](./img/fluxo-jogo.jpeg)
-
 [Figura 1: Fluxo do Jogo](./img/fluxo-jogo.jpeg)
 
-## Fluxo do Jogo (Versão 2)
-![Fluxo](./img/fluxo_protogame.jpg)
+![Fluxo](./img/fluxo-jogo.jpeg)
 
+##### Fonte: Autor (2020)
+
+## Fluxo do Jogo (Versão 2)
 [Figura 2: Fluxo do Jogo (Versão 2)](./img/fluxo_protogame.jp/g)
 
+![Fluxo](./img/fluxo_protogame.jpg)
+
+##### Fonte: Autor (2020)
 
 ## Fluxo do Jogo (Notação BPMN)
-![Fluxo](./img/fluxo_protogame_bpmn.jpg)
-
 [Figura 3: Fluxo do Jogo (Notação BPMN)](./img/fluxo_protogame_bpmn.jpg)
 
+![Fluxo](./img/fluxo_protogame_bpmn.jpg)
+
+##### Fonte: Autor (2020)
 
 ## Mapa do Jogo
 
 <p align="justify">Na Figura 4 está uma representação inicial simples do mapa do jogo protogame, com 6 módulos. </p>
 
+[Figura 4: Versão 1 do Mapa do ProtoGame](./img/MAPA-PROTOGAME-mapa.jpg)
+
 <p align="center">
 <img src="https://design-de-jogos.github.io/2020.1-ProtoGame/img/MAPA-PROTOGAME-mapa.jpg" alt="Figura 4: Versão 1 do mapa do ProtoGame" width=400 height=600>
 </p>
 
-[Figura 4: Versão 1 do Mapa do ProtoGame](./img/MAPA-PROTOGAME-mapa.jpg)
+##### Fonte: Autor (2020)
 
 ### Módulos
 
 <p align="justify"> O jogo é constituído de 6 módulos, como mostra a figura 4 abaixo. São módulos de conceitos básicos, ideias e concepções, planejamento, checagem e validação, e análise e relato dos resultados. Todos sobre o tema de prototipação.  </p>
 
+[Figura 5: Descrição dos Módulos e Fases do ProtoGame](./img/MAPA-PROTOGAME-modulos-fases.jpg)
+
 <p align="center">
 <img src="https://design-de-jogos.github.io/2020.1-ProtoGame/img/MAPA-PROTOGAME-modulos-fases.jpg" alt="Figura 5: Versão 1 do mapa do ProtoGame. Fonte: Guilherme Leal" width=300 height=600>
 </p>
 
-
-[Figura 5: Descrição dos Módulos e Fases do ProtoGame](./img/MAPA-PROTOGAME-modulos-fases.jpg)
+##### Fonte: Autor (2020)
 
 ## Personagem
 

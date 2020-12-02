@@ -36,20 +36,22 @@ O jogo será educacional voltado ao aprendizado de prototipação.
 * GDD - Game Design Document
 * IHC - Interação Humano Computador
 
-### Visão geral
+### Visão Geral
 
 <p align="justify"> Seguindo o ciclo de engenharia de usabilidade da Mayhew. O projeto será desenvolvido segundo o cronograma presente nesse documento no tópico 5. As características do jogo, como história, personagens, jogabilidade e interface serão pensadas a partir do problema identificado no tópico 2.2 e dos dados que serão coletados a partir do público alvo.</p>
 
 ### Ciclo de Vida
 
+[Figura 1 - Ciclo da Engenharia de Usabilidade](./img/ciclo-de-vida.jpeg)
+
 ![Ciclo de Vida](./img/ciclo-de-vida.jpeg)
 
-[Figura 1 - Ciclo da Engenharia de Usabilidade, Mayhew (1999)](./img/ciclo-de-vida.jpeg)
+#### Fonte:  Mayhew (1999)
 
 
-<p align="justify"> O Ciclo da Engenharia de Usabilidade é dividido em três fases: Análise de requisitos; Design, avaliação e desenvolvimento, e Instalação. </p>
+<p align="justify"> O Ciclo da Engenharia de Usabilidade é dividido em três fases: Análise de Requisitos; Design, avaliação e desenvolvimento, e Instalação. </p>
 
-<p align="justify">Análise de requisitos: Nesta fase, são definidas as metas de usabilidade com base no perfil dos usuários, análise de tarefas, possibilidades e limitações da plataforma, e princípios gerais de design em IHC. Todas essas informações são registradas no artefato Guia de Estilo. Nessa fase o grupo pretende criar um questionário e recolher dados sobre o que os usuários esperam de um jogo educacional, os interesses do público, etc. </p>
+<p align="justify">Análise de Requisitos: Nesta fase, são definidas as metas de usabilidade com base no perfil dos usuários, análise de tarefas, possibilidades e limitações da plataforma, e princípios gerais de design em IHC. Todas essas informações são registradas no artefato Guia de Estilo. Nessa fase o grupo pretende criar um questionário e recolher dados sobre o que os usuários esperam de um jogo educacional, os interesses do público, etc. </p>
 
 <p align="justify">Design, avaliação e desenvolvimento: O objetivo desta fase é conceber uma solução que atenda às metas de usabilidade definidas na fase anterior. Isso é feito em 3 níveis.</p>
 
@@ -79,6 +81,8 @@ Como o foco do trabalho dentro da disciplina é apenas o planejamento, funcionam
 
 ### Instrução do Problema
 
+##### Tabela 1 - Instrução do Problema
+
 <table>
 <tr> <td> <b>O problema da</b> </td> <td>falta de uma forma interativa de estudos do tema de Prototipação da disciplina de Interação Humano Computador (IHC) </td> </tr>
 <tr> <td><b>Afeta </b></td> <td> os estudantes da disciplina</td> </tr>
@@ -86,10 +90,12 @@ Como o foco do trabalho dentro da disciplina é apenas o planejamento, funcionam
 <tr> <td> <b>Uma boa solução seria</b></td> <td> um jogo interativo de perguntas e respostas.</td> </tr>
 </table>
 
-##### Tabela 1 - Instrução do Problema
+#### Fonte: Autor (2020)
 
 ### Descrições das Partes Interessadas e Usuários
 #### Equipe
+
+##### Tabela 2 - Equipe
 
  Nome | Matrícula | Responsabilidade | GitHub
 ------- | ---------|----------------- | -------
@@ -98,22 +104,24 @@ Guilherme |15/0128312| Planejar e executar o Projeto de Interface do software | 
 Iolane Andrade | 13/0028355 | Planejar e executar o Projeto de Interface do software | [@IolaneAndrade](https://github.com/IolaneAndrade)
 Stéfane Souza | 15/0148623 | Planejar e executar o Projeto de Interface do software | [@stefanesouza](https://github.com/stefanesouza)
 
-##### Tabela 2 - Equipe
+#### Fonte: Autor (2020)
 
 
 #### Equipe de Avaliação e Suporte
+
+##### Tabela 3 - Equipe de Avaliação e Suporte
 
 Nome | Descrição | Responsabilidade
 ----- | ------ | -------
 André Barros | Professor da disciplina | Orientar a equipe durante o desenvolvimento do projeto
 
-##### Tabela 3 - Equipe de Avaliação e Suporte
+#### Fonte: Autor (2020)
 
-### Perfil do usuário
+### Perfil do Usuário
 
-#### Estudante
+##### Tabela 4 - Perfil 1: Estudante
 
-  Perfil 1 |  .
+  Estudante |  .
 -- | --
 **Representantes** | Estudantes
 **Descrição** | Estudantes que tem interesse em um auxilio para aprender prototipação
@@ -121,12 +129,12 @@ André Barros | Professor da disciplina | Orientar a equipe durante o desenvolvi
 **Critérios de Sucesso** | Responder questões diáriamente para ganhar icones para manter a saúde do personagem, manter as vidas e avançar de fases para concluir o estudo
 **Envolvimento** | Alto
 
-##### Tabela 4 - Perfil 1: Estudante
+#### Fonte: Autor (2020)
 
 
-#### Professor
+##### Tabela 5 - Perfil 2: Professor
 
- Perfil 2 | .
+ Professor | .
 -- | --
 **Representantes** | Professores
 **Descrição** | Professores que lecionam sobre prototipação
@@ -134,10 +142,12 @@ André Barros | Professor da disciplina | Orientar a equipe durante o desenvolvi
 **Critérios de Sucesso** | Monitorar o progresso dos estudantes
 **Envolvimento** | Baixo
 
-##### Tabela 5 - Perfil 2: Professor
+#### Fonte: Autor (2020)
 
 
 ## Ferramentas do Projeto
+
+##### Tabela 6 - Ferramentas do Projeto
 
 Ferramenta | Descrição
  ------ | -------
@@ -150,7 +160,7 @@ Ferramenta | Descrição
 **Google Forms** | Ferramenta utilizada na elaboração e aplicação de questionários
 **Draw.io** | Ferramenta utilizada na elaboração de esquemáticos
 
-##### Tabela 6 - Ferramentas do Projeto
+#### Fonte: Autor (2020)
 
 
 ## Referências

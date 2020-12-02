@@ -1,4 +1,4 @@
-# Planejamento da Avaliação do Storyboard do ProtoGame
+# Planejamento da Avaliação do Storyboard
 
 
 Data | Versão | Descrição | Autor(es)
@@ -20,12 +20,15 @@ Data | Versão | Descrição | Autor(es)
 
 <p align="justify">A avaliação do storyboard tem como objetivo avaliar o potencial técnico-didático do mesmo. Para a coleta dos dados utilizaremos a técnica de investigação com a aplicação de questionários que visam abstrair percepções positivas e negativas dos utilizadores em relação aos storyboards. Na Figura 1 está ilustrada o esquema de avaliação do storyboard.</p>
 
+[Figura 1 - Esquema de Avaliação do Storyboard](./img/Avaliacao-storyboard.jpg)
+
 ![metodologia da avaliação](./img/Avaliacao-storyboard.jpg)
 
-[Figura 1 - Esquema de Avaliação do Storyboard](./img/Avaliacao-storyboard.jpg)
+##### Fonte: Autor (2020)
 
 <p align="justify">Com os objetivos da avaliação definidos, elaboramos uma tabela com questões relacionadas ao objetivo.</p>
 
+##### Tabela 1 - Questões de Avaliação do Storyboard
 
 Objetivo | Questão
 ------- | -------
@@ -37,7 +40,7 @@ Objetivo | Questão
   .                                  | 3. O personagem Protus(bichinho de estimação) transmite uma ideia/sentimento positivo?
   .                                  | 4. Possui alguma consideração a respeito da avaliação?
 
-##### Tabela 1 - Questões de Avaliação do Storyboard
+##### Fonte: Autor (2020)
 
 ### Perfil e número de participantes
 
@@ -51,8 +54,6 @@ Buscou-se utilizar uma persona do grupo de usuários secundários do sistema. As
 
 ## Referências
 
-> Figura 1, BARBOSA, Simone; SILVA, Bruno. **Interação humano-computador**. Elsevier Brasil, 2010.
+> BARBOSA, Simone; SILVA, Bruno. **Interação humano-computador**. Elsevier Brasil, 2010.
 
->BARBOSA, Simone; SILVA, Bruno. **Interação humano-computador**. Elsevier Brasil, 2010.
-
->NIELSEN, Jakob. **Usability engineering**. Morgan Kaufmann, 1994.
+> NIELSEN, Jakob. **Usability engineering**. Morgan Kaufmann, 1994.

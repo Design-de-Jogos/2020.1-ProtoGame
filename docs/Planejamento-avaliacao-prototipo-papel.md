@@ -1,4 +1,4 @@
-# Planejamento da Avaliação Protótipo de Papel do ProtoGame
+# Planejamento da Avaliação do Protótipo de Papel
 
 
 Data | Versão | Descrição | Autor(es)
@@ -20,12 +20,15 @@ Data | Versão | Descrição | Autor(es)
 
 <p align="justify">A avaliação do protótipo de papel tem como objetivo avaliar o potencial técnico-didático do mesmo. Para a coleta dos dados utilizaremos a técnica de investigação com a aplicação de uma entrevista semi-estruturada que visam abstrair percepções positivas e negativas dos utilizadores em relação ao protótipo. Na Figura 1 está ilustrada o esquema de avaliação do protótipo de papel.</p>
 
+[Figura 1 - Esquema de Avaliação do Protótipo de Papel](./img/Planejamento-Avaliacao-prototipo-papel.jpg)
+
 ![metodologia da avaliação prototipo de papel](./img/Planejamento-Avaliacao-prototipo-papel.jpg)
 
-[Figura 1 - Esquema de Avaliação do Protótipo de Papel](./img/Planejamento-Avaliacao-prototipo-papel.jpg)
+##### Fonte: Autor (2020)
 
 <p align="justify">Com os objetivos da avaliação definidos, elaboramos uma tabela com questões relacionadas ao objetivo que auxiliarão na condução da entrevista.</p>
 
+##### Tabela 1 - Questões de Avaliação do Protótipo de Papel
 
 Objetivo | Questão
 ------- | -------
@@ -42,7 +45,7 @@ Objetivo | Questão
   .                                  | 5. Em caso afirmativo, descreva quais atividades causaram frustração.
   .                                  | 6. De modo geral, qual a sua opnião sobre o produto?
 
-##### Tabela 1 - Questões de Avaliação do Protótipo de Papel
+##### Fonte: Autor (2020)
 
 ### Perfil e Número de Participantes
 
@@ -50,8 +53,6 @@ Objetivo | Questão
 
 
 ## Referências
-
-> Figura 1, BARBOSA, Simone; SILVA, Bruno. **Interação humano-computador**. Elsevier Brasil, 2010.
 
 >BARBOSA, Simone; SILVA, Bruno. **Interação humano-computador**. Elsevier Brasil, 2010.
 

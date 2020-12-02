@@ -45,6 +45,8 @@ desenvolvedores. Minimiza a reinvenção e beneficia o re-uso.
 
 ### 1.6 Dados do Projetos
  
+##### Tabela 1 - Dados do Projetos
+
  _| Descrição
 ---- | ----- 
 Projeto | ProtoGame 
@@ -54,7 +56,7 @@ _ | Guilherme Desenvolvedor
 _ | Iolane Desenvolvedora  
 _ | Stefane Desenvolvedora 
 
-##### Tabela 1 - Dados do Projetos
+##### Fonte: Autor (2020)
 
 ### 1.7 Organização do documento 
 
@@ -125,6 +127,8 @@ janelas; Ícones;
 
 #### 3.2.1 Função/Comportamento dos Botões 
 
+##### Tabela 2 - Função/Comportamento dos Botões
+
 Rótulo | Interfaces onde está presente | Função/ Comportamento
 ------- | --------- | -------
 “Cancelar” | Toda interface que contenha dados editáveis ou ações  reversíveis. | Toda interface que contenhadados editáveisouações reversíveis. 
@@ -132,7 +136,7 @@ Rótulo | Interfaces onde está presente | Função/ Comportamento
 “Visualizar” | Toda interface de possibilite a visualização de dados. | Abre uma tela comas informações solicitadas(nãoeditáveis).
 “Jogar” | Interface onde o usuário consegue iniciar uma nova fase do jogo. |Inicia o jogo da fase selecionada.
 
-##### Tabela 2 - Função/Comportamento dos Botões
+##### Fonte: Autor (2020)
 
 #### 3.2.2 Tela de Cadastro Usuário 
 
@@ -155,9 +159,12 @@ Nessa tela deve ser possível:
 
 <p align="justify"> As cores utilizadas no sistema ProtoGame constituem-se de diferentes tonalidades de verde, além de uma outra cor, o violeta, que por ser uma cor complementar ao verde, oferece contraste e uma ótima harmonia para a composição. A cor de fundo é a tonalidade com código #72F44B. Essa segunda tonalidade irá variar de acordo com os Sistemas do ProtoGame. As cores usadas estão apresentadas abaixo, junto com seus códigos. </p>
 
+[Figura 1: Tabela de Cores](./img/tabela-cores.jpeg)
+
 ![tabela de cores](./img/tabela-cores.jpeg)
 
-[Figura 1: Tabela de Cores](./img/tabela-cores.jpeg)
+##### Fonte: Autor (2020)
+
 
 #### 3.3.2.2 Fontes 
 
@@ -191,13 +198,15 @@ Nessa tela deve ser possível:
 
 #### 3.4.1 Descrição dos Tipos de Mensagens 
 
+##### Tabela 3 - Descrição dos Tipos de Mensagens
+
 Tipo de mensagem | Descrição 
 --------------- | --------
 Mensagem de Erro | Mensagens que informam (e solicitam alteração) sobre algum erro/problema durante a execução de uma tarefa. O erro/problema impede que o usuário realize a tarefa e deve ser alterado para a execução da tarefa. As mensagens de erro podem ser simples (somente um erro) ou compostas (mais de um erro).
 Mensagens de alerta | Mensagens que informam (se sugerem alteração) sobre algum erro/problema durante a execução de uma tarefa. Entretanto, o erro/problema não impede o usuário de realizar a tarefa. As mensagens de alerta podem ser simples (somente um erro) ou compostas (mais de um erro).
 Mensagens de confirmação | Mensagens que solicitam a confirmação do usuário antes da execução de alguma tarefa, normalmente porque a tarefa causa alguma alteração significativa no sistema.
 
-##### Tabela 3 - Descrição dos Tipos de Mensagens
+##### Fonte: Autor (2020)
 
 ## 5. Bibliografia 
 

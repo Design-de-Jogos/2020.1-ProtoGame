@@ -3,11 +3,13 @@ repo_url: 'https://github.com/Design-de-Jogos/2020.1-Prototyping'
 theme:
   name: 'material'
 nav:
-  - Home: index.md
-  - Sobre o projeto:
+  - Início: index.md
+  - Sobre o Projeto:
     - Equipe: equipe.md
     - Cronograma: Cronograma.md
     - Ferramentas: ferramentas.md
+    - Riscos: Riscos.md
+    - Reuniões: Reuniao.md 
   - Análise de Requisitos:
     - Visão do Produto: Visao.md
     - Perfil do Usuário: Perfil-usuario.md
@@ -26,11 +28,8 @@ nav:
     - Análise dos Resultados da Avaliação: 
       - Storyboards: Avaliacao-storyboard.md
       - Protótipo de Papel: analise-prototipo.md
-      - Protótipo de Alta Fidelidade: Avaliacao-relato-resultados-proto-alta-fidelidade
-  - Gerenciamento:
-    - Riscos: Riscos.md
-    - Reuniões: Reuniao.md 
+      - Protótipo de Alta Fidelidade: Avaliacao-relato-resultados-proto-alta-fidelidade.md
   - Verificação:
     - Planejamento: PlanVerificacao.md
-  - Apresentações:
-    - Apresentações: Apresentacao.md
+    - Execução: 
+  - Apresentações: Apresentacao.md

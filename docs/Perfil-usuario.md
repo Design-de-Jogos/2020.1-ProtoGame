@@ -19,6 +19,8 @@ Data | Versão | Descrição | Autor(es)
 
 <p align="justify">Ao elaborarmos o questionário, o dividimos em três seções. Na primeira seção pedimos a autorização do uso dos dados na nossa pesquisa, e coletamos dados pessoas como: idade; faixa etária; escolaridade e gênero. Com o objetivo de conhecermos nosso público alvo. Na segunda seção coletamos dados relacionados a práticas de estudo e interesse em prototipação. Na terceira seção coletados dados relacionados a jogos educacionais, para entendermos a relação do nosso público com jogos. A tabela abaixo mostra as questões relacionadas aos seus objetivos.</p>
 
+##### Tabela 1 - Questionário para o Público-Alvo
+
 Objetivo | Questões
 -------- | -------
 **Conhecer nosso público** | Qual a sua faixa etária?
@@ -35,7 +37,7 @@ Objetivo | Questões
   . | Quais tipos de jogos você costuma jogar?
   . | Dê sua opinião sobre jogos educacionais. Nos dê um exemplo de um jogo que você goste ou como deveria ser um jogo que te motivaria a aprender.
 
-##### Tabela 1 - Questionário para o Público-Alvo
+##### Fonte: Autor (2020)
   
   <p align="justify">A aplicação dos questionários foi feita online. Os questionários foram elaborados no Google Forms e liberados nas redes sociais da Universidade de Brasilia e cursos técnicos. O questionário ficou aberto a participações do dia 10 de setembro ao dia 15 de setembro.</p>
 
@@ -47,112 +49,148 @@ Para a análise dos resultados obtivemos 37 participações.
 
 #### Idade
 
-Conforme pesquisa realizada, o nosso público alvo se encontra na faixa de 15 à 34 anos ([Figura 1](./img/faixa-etaria.jpeg)).
+<p align="justify">Conforme pesquisa realizada, o nosso público alvo se encontra na faixa de 15 à 34 anos ([Figura 1](./img/faixa-etaria.jpeg)).</p>
 
+[Figura 1: Resultado da Pesquisa sobre Idade dos Usuários](/img/faixa-etaria.jpeg)
 
 ![Faixa etária](./img/faixa-etaria.jpeg)
 
-[Figura 1: Resultado da pesquisa sobre idade dos usuários.](/img/faixa-etaria.jpeg)
+##### Fonte: Autor (2020)
+
 
 #### Escolaridade
 
-De acordo com a pesquisa, 56,8% dos partitipantes possuem Ensino Superior Incompleto. 24,3% possuem ensino superior completo. 10,8% Ensino Médio Completo. E 8,1% possui Pós-Graduação [Figura 2](./img/escolaridade.jpeg).
+<p align="justify">De acordo com a pesquisa, 56,8% dos partitipantes possuem Ensino Superior Incompleto. 24,3% possuem ensino superior completo. 10,8% Ensino Médio Completo. E 8,1% possui Pós-Graduação [Figura 2](./img/escolaridade.jpeg). </p>
+
+[Figura 2: Resultado da Pesquisa sobre Escolaridade dos Usuários](./img/escolaridade.jpeg)
 
 ![escolaridade](./img/escolaridade.jpeg)
 
-[Figura 2: Resultado da pesquisa sobre escolaridade dos usuários](./img/escolaridade.jpeg)
+##### Fonte: Autor (2020)
+
 
 
 #### Gênero
 
-De acordo com a pesquisa, o nosso publico alvo é bem equilibrado em relação a gênero. 51,4% dos participantes eram do sexo masculino e 48,6% eram do sexo feminino [Figura 3](./img/genero.jpeg).
+<p align="justify">De acordo com a pesquisa, o nosso publico alvo é bem equilibrado em relação a gênero. 51,4% dos participantes eram do sexo masculino e 48,6% eram do sexo feminino [Figura 3](./img/genero.jpeg).</p>
 
-![gereno](./img/genero.jpeg)
+[Figura 3: Resultado da Pesquisa sobre Gênero dos Usuários](./img/genero.jpeg)
 
-[Figura 3: Resultado da pesquisa sobre gênero dos usuários](./img/genero.jpeg)
+![genero](./img/genero.jpeg)
+
+##### Fonte: Autor (2020)
+
 
 ### Práticas de Estudo
 
 #### Conhecimento
 
-De acordo com a pesquisa, 62,2% dos participantes nunca tiveram contato com temas relacionados a prototipação [Figura 4](./img/contato-prototipacao.jpeg).
+<p align="justify">De acordo com a pesquisa, 62,2% dos participantes nunca tiveram contato com temas relacionados a prototipação [Figura 4](./img/contato-prototipacao.jpeg).</p>
+
+[Figura 4: Resultado da Pesquisa sobre Conhecimentos sobre Protitipação](./img/contato-prototipacao.jpeg)
 
 ![interesse-tema](./img/contato-prototipacao.jpeg)
 
-[Figura 4: Resultado da pesquisa sobre conhecimentos sobre protitipação](./img/contato-prototipacao.jpeg)
+##### Fonte: Autor (2020)
+
 
 #### Interesse
 
-De acordo com a pesquisa, 81,1% dos participante demonstrou interesse em aprender sobre prototipação [Figura 5](./img/aprender-prototipacao.jpeg).
+<p align="justify">De acordo com a pesquisa, 81,1% dos participante demonstrou interesse em aprender sobre prototipação [Figura 5](./img/aprender-prototipacao.jpeg).</p>
+
+[Figura 5: Resultado da Pesquisa sobre Interesse em Prototipação](./img/aprender-prototipacao.jpeg).
 
 ![interesse-tema-2](./img/aprender-prototipacao.jpeg)
 
-[Figura 5: Resultado da pesquisa sobre interesse no tema prototipação](./img/aprender-prototipacao.jpeg).
+##### Fonte: Autor (2020)
+
 
 #### Dificuldade em Assimilação de Conteúdo
 
-De acordo com a pesquisa, 56,8% dos participantes afirmam sentir maior dificuldade em assimilar a teoria do conteúdo [Figura 6.](./img/teoria-pratica.jpeg).
+<p align="justify">De acordo com a pesquisa, 56,8% dos participantes afirmam sentir maior dificuldade em assimilar a teoria do conteúdo [Figura 6.](./img/teoria-pratica.jpeg).</p>
+
+[Figura 6: Resultado da Pesquisa sobre Dificuldade em Assimilação de Conteúdo](./img/teoria-pratica.jpeg).
 
 ![interesse-tema-3](./img/teoria-pratica.jpeg)
 
-[Figura 6: Resultado da pesquisa sobre dificuldade em assimilação de conteúdo](./img/teoria-pratica.jpeg).
+##### Fonte: Autor (2020)
+
 
 #### Ferramentas de Estudo
 
-De acordo com a pesquisa, 100% dos participantes afirmam utilizar o computador para estudar. Seguido de celular, com 62,2% [Figura 7](./img/equipamentos-estudos.jpeg).
+<p align="justify">De acordo com a pesquisa, 100% dos participantes afirmam utilizar o computador para estudar. Seguido de celular, com 62,2% [Figura 7](./img/equipamentos-estudos.jpeg).</p>
+
+[Figura 7: Resultado da Pesquisa sobre Ferramentas Utilizadas nos Estudos](./img/equipamentos-estudos.jpeg)
 
 ![interesse-tema-4](./img/equipamentos-estudos.jpeg)
 
-[Figura 7: Resultado da pesquisa sobre ferramentas utilizadas nos estudos](./img/equipamentos-estudos.jpeg)
+##### Fonte: Autor (2020)
+
 
 #### Recursos Auxiliares
 
-De acordo com a pesquisa, Video aulas, com 83,8% e resolução de exercícios, com 75,7%, estão entre os recursos de estudo mais utilizados entre os participantes [Figura 8](./img/recursos.jpeg).
+<p align="justify">De acordo com a pesquisa, Video aulas, com 83,8% e resolução de exercícios, com 75,7%, estão entre os recursos de estudo mais utilizados entre os participantes [Figura 8](./img/recursos.jpeg). </p>
+
+[Figura 8: Resultado da Pesquisa sobre Recursos Auxiliares](./img/recursos.jpeg)
 
 ![interesse-tema-5](./img/recursos.jpeg)
 
-[Figura 8: Resultado da pesquisa sobre recursos auxiliares](./img/recursos.jpeg)
+##### Fonte: Autor (2020)
+
 
 ### Jodos Educacionais
 
 #### Relação com Jogos Educacionais
 
-De acordo com a pesquisa, 78,4% dos participantes não utiliza jogos educacionais como recurso para auxiliar os estudos [Figura 9](./img/utiliza-jogos.jpeg).
+<p align="justify">De acordo com a pesquisa, 78,4% dos participantes não utiliza jogos educacionais como recurso para auxiliar os estudos [Figura 9](./img/utiliza-jogos.jpeg). </p>
+
+[Figura 9: Resultado da Pesquisa sobre a Relação com os Jogos Educacionais](./img/utiliza-jogos.jpeg)
 
 ![jogos-1](./img/utiliza-jogos.jpeg)
 
-[Figura 9: Resultado da pesquisa sobre a relação com os jogos educacionais](./img/utiliza-jogos.jpeg)
+##### Fonte: Autor (2020)
+
 
 #### Preferencias de Interação
-De acordo com a pesquisa, 91,9% dos participantes gostariam que houvessem alguma interação com outros jogadores em jogos educacionais [Figura 10](./img/interacao-jogos.jpeg).
+<p align="justify">De acordo com a pesquisa, 91,9% dos participantes gostariam que houvessem alguma interação com outros jogadores em jogos educacionais [Figura 10](./img/interacao-jogos.jpeg).</p>
+
+[Figura 10: Resultado da Pesquisa sobre Preferências de Interação](./img/interacao-jogos.jpeg).
 
 ![jogos-2](./img/interacao-jogos.jpeg)
 
-[Figura 10: Resultado da pesquisa sobre preferencias de interação](./img/interacao-jogos.jpeg).
+##### Fonte: Autor (2020)
+
 
 #### Opinião
-De acordo com a pesquisa, 73% acredita que os jogos educaionais são desafiadores para o aprendizado [Figura 11](./img/desafiadores.jpeg).
+<p align="justify">De acordo com a pesquisa, 73% acredita que os jogos educaionais são desafiadores para o aprendizado [Figura 11](./img/desafiadores.jpeg).</p>
+
+[Figura 11: Resultado da Pesquisa de Opinião](./img/desafiadores.jpeg)
 
 ![jogos-3](./img/desafiadores.jpeg)
 
-[Figura 11: Resultado da pesquisa de opnião](./img/desafiadores.jpeg)
+##### Fonte: Autor (2020)
+
 
 #### Preferências de Tipos de Jogos
 
-De acordo com a pesquisa, Jogos de perguntas e respostas e jogos de estratégias são os mais jogados dentre os participantes[Figura 12](./img/tipo-jogo.jpeg).
+<p align="justify">De acordo com a pesquisa, Jogos de perguntas e respostas e jogos de estratégias são os mais jogados dentre os participantes[Figura 12](./img/tipo-jogo.jpeg).</p>
+
+[Figura 12: Resultado da Pesquisa sobre a Preferência de Tipos de Jogos](./img/tipo-jogo.jpeg)
 
 ![jogos-4](./img/tipo-jogo.jpeg)
 
-[Figura 12: Resultado da pesquisa sobre a preferência de tipos de jogos](./img/tipo-jogo.jpeg)
+##### Fonte: Autor (2020)
+
 
 #### Questão Aberta
 
-Foi elaborada uma questão aberta para que os participantes da pesquisa desse sua opiniões relacionadas ao tema.
-Elaboramos um gráfico com as palavras mais recorrentes dentre as respostas ([Figura 13](./img/grafico-palavras.jpeg))
+<p align="justify">Foi elaborada uma questão aberta para que os participantes da pesquisa desse sua opiniões relacionadas ao tema. Elaboramos um gráfico com as palavras mais recorrentes dentre as respostas. ([Figura 13](./img/grafico-palavras.jpeg)) </p>
+
+[Figura 13: Gráfico de Palavras](./img/grafico-palavras.jpeg)
 
 ![jogos-5](./img/grafico-palavras.jpeg)
 
-[Figura 13: gráfico de palavras](./img/grafico-palavras.jpeg)
+##### Fonte: Autor (2020)
 
 
 ## Referências
