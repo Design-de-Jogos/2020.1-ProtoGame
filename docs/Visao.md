@@ -46,7 +46,7 @@ O jogo será educacional voltado ao aprendizado de prototipação.
 
 ![Ciclo de Vida](./img/ciclo-de-vida.jpeg)
 
-#### Fonte:  Mayhew (1999)
+##### Fonte:  Mayhew (1999)
 
 
 <p align="justify"> O Ciclo da Engenharia de Usabilidade é dividido em três fases: Análise de Requisitos; Design, avaliação e desenvolvimento, e Instalação. </p>
@@ -90,7 +90,7 @@ Como o foco do trabalho dentro da disciplina é apenas o planejamento, funcionam
 <tr> <td> <b>Uma boa solução seria</b></td> <td> um jogo interativo de perguntas e respostas.</td> </tr>
 </table>
 
-#### Fonte: Autor (2020)
+##### Fonte: Autor (2020)
 
 ### Descrições das Partes Interessadas e Usuários
 #### Equipe
@@ -104,7 +104,7 @@ Guilherme |15/0128312| Planejar e executar o Projeto de Interface do software | 
 Iolane Andrade | 13/0028355 | Planejar e executar o Projeto de Interface do software | [@IolaneAndrade](https://github.com/IolaneAndrade)
 Stéfane Souza | 15/0148623 | Planejar e executar o Projeto de Interface do software | [@stefanesouza](https://github.com/stefanesouza)
 
-#### Fonte: Autor (2020)
+##### Fonte: Autor (2020)
 
 
 #### Equipe de Avaliação e Suporte
@@ -115,7 +115,7 @@ Nome | Descrição | Responsabilidade
 ----- | ------ | -------
 André Barros | Professor da disciplina | Orientar a equipe durante o desenvolvimento do projeto
 
-#### Fonte: Autor (2020)
+##### Fonte: Autor (2020)
 
 ### Perfil do Usuário
 
@@ -129,7 +129,7 @@ André Barros | Professor da disciplina | Orientar a equipe durante o desenvolvi
 **Critérios de Sucesso** | Responder questões diáriamente para ganhar icones para manter a saúde do personagem, manter as vidas e avançar de fases para concluir o estudo
 **Envolvimento** | Alto
 
-#### Fonte: Autor (2020)
+##### Fonte: Autor (2020)
 
 
 ##### Tabela 5 - Perfil 2: Professor
@@ -142,7 +142,7 @@ André Barros | Professor da disciplina | Orientar a equipe durante o desenvolvi
 **Critérios de Sucesso** | Monitorar o progresso dos estudantes
 **Envolvimento** | Baixo
 
-#### Fonte: Autor (2020)
+##### Fonte: Autor (2020)
 
 
 ## Ferramentas do Projeto
@@ -160,7 +160,7 @@ Ferramenta | Descrição
 **Google Forms** | Ferramenta utilizada na elaboração e aplicação de questionários
 **Draw.io** | Ferramenta utilizada na elaboração de esquemáticos
 
-#### Fonte: Autor (2020)
+##### Fonte: Autor (2020)
 
 
 ## Referências

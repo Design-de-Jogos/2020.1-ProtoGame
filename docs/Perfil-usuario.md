@@ -129,7 +129,7 @@ Para a análise dos resultados obtivemos 37 participações.
 
 #### Recursos Auxiliares
 
-<p align="justify">De acordo com a pesquisa, Video aulas, com 83,8% e resolução de exercícios, com 75,7%, estão entre os recursos de estudo mais utilizados entre os participantes [Figura 8](./img/recursos.jpeg). </p>
+<p align="justify">De acordo com a pesquisa, Video aulas, com 83,8% e resolução de exercícios, com 75,7%, estão entre os recursos de estudo mais utilizados entre os participantes </p>[Figura 8](./img/recursos.jpeg). 
 
 [Figura 8: Resultado da Pesquisa sobre Recursos Auxiliares](./img/recursos.jpeg)
 
@@ -142,7 +142,7 @@ Para a análise dos resultados obtivemos 37 participações.
 
 #### Relação com Jogos Educacionais
 
-<p align="justify">De acordo com a pesquisa, 78,4% dos participantes não utiliza jogos educacionais como recurso para auxiliar os estudos [Figura 9](./img/utiliza-jogos.jpeg). </p>
+<p align="justify">De acordo com a pesquisa, 78,4% dos participantes não utiliza jogos educacionais como recurso para auxiliar os estudos </p>[Figura 9](./img/utiliza-jogos.jpeg).
 
 [Figura 9: Resultado da Pesquisa sobre a Relação com os Jogos Educacionais](./img/utiliza-jogos.jpeg)
 
@@ -152,7 +152,7 @@ Para a análise dos resultados obtivemos 37 participações.
 
 
 #### Preferencias de Interação
-<p align="justify">De acordo com a pesquisa, 91,9% dos participantes gostariam que houvessem alguma interação com outros jogadores em jogos educacionais [Figura 10](./img/interacao-jogos.jpeg).</p>
+<p align="justify">De acordo com a pesquisa, 91,9% dos participantes gostariam que houvessem alguma interação com outros jogadores em jogos educacionais </p>[Figura 10](./img/interacao-jogos.jpeg).
 
 [Figura 10: Resultado da Pesquisa sobre Preferências de Interação](./img/interacao-jogos.jpeg).
 
@@ -162,7 +162,7 @@ Para a análise dos resultados obtivemos 37 participações.
 
 
 #### Opinião
-<p align="justify">De acordo com a pesquisa, 73% acredita que os jogos educaionais são desafiadores para o aprendizado [Figura 11](./img/desafiadores.jpeg).</p>
+<p align="justify">De acordo com a pesquisa, 73% acredita que os jogos educaionais são desafiadores para o aprendizado </p> [Figura 11](./img/desafiadores.jpeg).
 
 [Figura 11: Resultado da Pesquisa de Opinião](./img/desafiadores.jpeg)
 
@@ -173,7 +173,7 @@ Para a análise dos resultados obtivemos 37 participações.
 
 #### Preferências de Tipos de Jogos
 
-<p align="justify">De acordo com a pesquisa, Jogos de perguntas e respostas e jogos de estratégias são os mais jogados dentre os participantes[Figura 12](./img/tipo-jogo.jpeg).</p>
+<p align="justify">De acordo com a pesquisa, Jogos de perguntas e respostas e jogos de estratégias são os mais jogados dentre os participantes </p>[Figura 12](./img/tipo-jogo.jpeg).
 
 [Figura 12: Resultado da Pesquisa sobre a Preferência de Tipos de Jogos](./img/tipo-jogo.jpeg)
 
@@ -184,7 +184,7 @@ Para a análise dos resultados obtivemos 37 participações.
 
 #### Questão Aberta
 
-<p align="justify">Foi elaborada uma questão aberta para que os participantes da pesquisa desse sua opiniões relacionadas ao tema. Elaboramos um gráfico com as palavras mais recorrentes dentre as respostas. ([Figura 13](./img/grafico-palavras.jpeg)) </p>
+<p align="justify">Foi elaborada uma questão aberta para que os participantes da pesquisa desse sua opiniões relacionadas ao tema. Elaboramos um gráfico com as palavras mais recorrentes dentre as respostas. </p>([Figura 13](./img/grafico-palavras.jpeg))
 
 [Figura 13: Gráfico de Palavras](./img/grafico-palavras.jpeg)
 

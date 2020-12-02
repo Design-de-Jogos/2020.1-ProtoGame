@@ -17,7 +17,7 @@ Foi utilizado o Google Forms para elaboração das perguntas e o Telegram e What
 |---|---|---|
 |  ![forms](./img/simbolos/forms.png) | ![telegram](./img/simbolos/telegram.jpg)  | ![whats](./img/simbolos/whats.jpg)  
 
-#### Fonte: Autor (2020)
+##### Fonte: Autor (2020)
 
 ### Prototipação
 Foi utilizado o Figma para elaboração do Protótipo de Alta Fidelidade.
@@ -28,7 +28,7 @@ Foi utilizado o Figma para elaboração do Protótipo de Alta Fidelidade.
 |---|
 |  ![figma](./img/simbolos/figma.png) |
 
-#### Fonte: Autor (2020)
+##### Fonte: Autor (2020)
 
 ### Organização da Equipe
 Foram utilizados planilhas do Google, Google Drive, GitHub e GitPages.
@@ -39,7 +39,7 @@ Foram utilizados planilhas do Google, Google Drive, GitHub e GitPages.
 |---|---|---|---|
 |  ![sheets](./img/simbolos/sheets.png) | ![drive](./img/simbolos/drive.jpg)  | ![github](./img/simbolos/github.jpg) | ![gitpages](./img/simbolos/gitpages.png)
 
-#### Fonte: Autor (2020)
+##### Fonte: Autor (2020)
 
 
 ### Diagramação
@@ -51,4 +51,4 @@ Foi utilizado o draw.io e Storyboard That para elaboração de fluxos, diagramas
 |---|---|
 |  ![draw](./img/simbolos/draw.png) | ![storyboard](./img/simbolos/storyboard-that.png)
 
-#### Fonte: Autor (2020)
+##### Fonte: Autor (2020)

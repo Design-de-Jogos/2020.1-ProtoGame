@@ -24,6 +24,7 @@
 
 ##### Fonte: Autor (2020)
 
+______
 
 ##### Figura 2 - Análise de Tarefas: Notação BPMN
 

@@ -13,13 +13,10 @@ Um exemplo abaixo:
 
 ### Reunião: 16.09.2020
 #### Assunto: Feedback do Projeto
+#### Participantes
 
-### Participantes
+- Professor André Barros, Stéfane Souza e Iolane Andrade;
 
-- Professor André Barros;
-- Stéfane Souza;
-- Iolane Andrade;
+#### Descrição
 
-### Descrição
-
-A reunião ocorreu pelo teams e foi  gravada. Para acessá-la [clique aqui.](https://drive.google.com/file/d/11MroQ1AmAs-hh2wgvX5IGmYt4MUIHS6c/view?usp=sharing)
+- A reunião ocorreu pelo teams e foi  gravada. Para acessá-la [clique aqui.](https://drive.google.com/file/d/11MroQ1AmAs-hh2wgvX5IGmYt4MUIHS6c/view?usp=sharing)

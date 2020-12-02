@@ -171,7 +171,7 @@ A avaliação do protótipo do ponto de vista do professor também obteve result
 
 <p align="justify">A participante, Carolina deverá seguir as instruções definidas nas duas tabelas abaixo. Tendo como objetivo 1 "Iniciar um jogo e responder questões corretamente." e objetivo 2 "Iniciar um jogo e responder alguma questão incorretamente."</p>
  
-#### Tabela 4 - Avaliação da Persona 3: Objetivo 1
+##### Tabela 4 - Avaliação da Persona 3: Objetivo 1
 
 Item                    | Descrição
 ----------------------- | ---------------------------

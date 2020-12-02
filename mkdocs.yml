@@ -22,7 +22,7 @@ nav:
     - Guia de Estilo: Usabilidade.md
   - Design e Avaliação:
     - Planejamento das Avaliações: 
-      - Storyboard: Planejamento-Avaliacao.md
+      - Storyboards: Planejamento-Avaliacao.md
       - Protótipo de Papel : Planejamento-avaliacao-prototipo-papel.md
       - Prototipo de Alta Fidelidade: Planejamento-prototipo-alta-fidelidade.md
     - Análise dos Resultados da Avaliação: 
@@ -30,5 +30,5 @@ nav:
       - Protótipo de Papel: analise-prototipo.md
       - Protótipo de Alta Fidelidade: Avaliacao-relato-resultados-proto-alta-fidelidade.md
   - Verificação:
-    - Planejamento: PlanVerificacao.md
+    - Planejamento e Execução: PlanVerificacao.md
   - Apresentações: Apresentacao.md

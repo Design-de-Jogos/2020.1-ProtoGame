@@ -86,35 +86,35 @@ Data | Versão | Descrição | Autor(es)
 ![Tela 1 -](./img/prototipos/tela1.jpg)
 
 ##### Fonte: Autor (2020)
-
+_____
 
 ##### Figura 3 - Tela 2 do Protótipo de Baixa Fidelidade
 
 ![Tela 2 -](./img/prototipos/tela2.jpg)
 
 ##### Fonte: Autor (2020)
-
+______
 
 ##### Figura 4 - Tela 3 do Protótipo de Baixa Fidelidade
 
 ![Tela 3 -](./img/prototipos/tela3.jpg)
 
 ##### Fonte: Autor (2020)
-
+______
 
 ##### Figura 5 - Tela 4 do Protótipo de Baixa Fidelidade
 
 ![Tela 4 -](./img/prototipos/tela4.jpg)
 
 ##### Fonte: Autor (2020)
-
+______
 
 ##### Figura 6 - Tela 5 do Protótipo de Baixa Fidelidade
 
 ![Tela 5 -](./img/prototipos/tela5.jpg)
 
 ##### Fonte: Autor (2020)
-
+______
 
 ##### Figura 7 - Tela 6 do Protótipo de Baixa Fidelidade
 

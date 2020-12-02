@@ -26,11 +26,15 @@ Data | Versão | Descrição | Autor(es)
 
 ##### Fonte: Autor (2020)
 
+______
+
 ##### Figura 2 - Storyboard 2
 
 ![Storyboard 2 -](./img/storyboards/sb3.jpg)
 
 ##### Fonte: Autor (2020)
+
+______
 
 ##### Figura 3 - Storyboard 3
 
@@ -38,11 +42,15 @@ Data | Versão | Descrição | Autor(es)
 
 ##### Fonte: Autor (2020)
 
+______
+
 ##### Figura 4 - Storyboard 4
 
 ![Storyboard 4 -](./img/storyboards/sb5.jpg)
 
 ##### Fonte: Autor (2020)
+
+______
 
 ##### Figura 5 - Storyboard 5
 
