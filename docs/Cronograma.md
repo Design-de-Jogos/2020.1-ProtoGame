@@ -57,7 +57,7 @@ Iteração | Atividades |Datas
 
 ### Entrega 21/09/2020
 
-TAREFA	|	RESPONSÁVEL | Entregue?
+Tarefa	|	Responsável | Entregue?
 ------  | ----------- | ---------
 Ferramentas	| 	Stéfane | Sim
 Cronograma | Todos | Sim
@@ -74,7 +74,7 @@ Metas de usabilidade | Gabriela | Sim
 
 ### Entrega: 05/10/2020
 
-TAREFA |	RESPONSÁVEL | Entregue?
+Tarefa | Responsável | Entregue?
 ------ | ------- | -------
 Elaborar mais storyboards |	Guilherme | Sim
 Planejamento da Avaliação do storyboard | Iolane | Sim
@@ -92,7 +92,7 @@ Ferramentas do projeto (atualizar) | Gabriela | Sim
 	
 ### Entrega: 22/10/2020
 
-TAREFA |	RESPONSÁVEL | Entregue?
+Tarefa |	Responsável | Entregue?
 ------ | ------- | -------
 Planejamento da Avaliação prototipo de papel | Iolane | Sim
 Prototipo de papel | Gabriela | Sim
@@ -100,22 +100,21 @@ Teste piloto e Relato dos resultados da avaliação do protótipo de papel | St�
 
 ### Entrega: 16/11/2020 até Apresentação Final
 
-TAREFA |	RESPONSÁVEL | Entregue?
+Tarefa |	Responsável | Entregue? |
 ------ | ------- | -------
-| Testes de usabilidade - persona 1  |  Iolane  |  Sim  |
-| Testes de usabilidade - persona 2  |  Gabriela  |  Sim  |
-| Testes de usabilidade - persona 3  |  Stéfane   |  Sim  |
-| Testes de usabilidade - persona 4  |  Guilherme  |  Não |
-| Análise dos resultados | Todos   |  Sim  |
-| Ferramentas do Projeto (atualizar) | Stéfane   |  Sim  |
-| Prototipação Alta fidelidade  |  Iolane e Gabriela  |  Sim  |
-| Planejamento da avaliação  |  Todos  | Sim   |
-| GAMEPLAY/Historia do jogo  | Guilherme   | Sim   |
-| Atualizar cronograma |  Iolane e Stéfane  | Sim   |
-| Cortar as imagens do prototipo de papel e 
-apresentá-las separadas na wiki  | Guilherme   |  Sim  |
-| Realizar Verificação  |   Gabriela | Sim   |
-| Executar Verificação e Correção de Todos os documentos  | Stéfane   | Sim   |
-| Apresentação Final  |  Todos  |  Sim  |
+Testes de usabilidade - persona 1  |  Iolane  |  Sim  |
+Testes de usabilidade - persona 2  |  Gabriela  |  Sim  |
+Testes de usabilidade - persona 3  |  Stéfane   |  Sim  |
+Testes de usabilidade - persona 4  |  Guilherme  |  Não |
+Análise dos resultados | Todos   |  Sim  |
+Ferramentas do Projeto (atualizar) | Stéfane   |  Sim  |
+Prototipação Alta fidelidade  |  Iolane e Gabriela  |  Sim  |
+Planejamento da avaliação  |  Todos  | Sim   |
+GAMEPLAY/Historia do jogo  | Guilherme   | Sim   |
+Atualizar cronograma |  Iolane e Stéfane  | Sim  |
+Cortar as imagens do prototipo de papel e apresentá-las separadas na wiki  | Guilherme   |  Sim  |
+Realizar Verificação  |   Gabriela | Sim   |
+Executar Verificação e Correção de Todos os documentos  | Stéfane   | Sim   |
+Apresentação Final  |  Todos  |  Sim  |
 
 
