@@ -1,15 +1,15 @@
-# Gerenciamento de Tempo
+# Cronograma
 
 Data | Versão | Descrição | Autor(es)
 ---------- | --- | -------------------------------------------------| -----
 16/09/2020 | 0.0 | Transferencia do cronograma para uma nova página | Iolane
 28/10/2020 | 0.1 | atualização do cronograma por entrega| Iolane
 
-## Metodologia 
+## Metodologia
 
 <p align="justify">O gerenciamento de tempo  do nosso projeto será realizado através da elaboração de um cronograma, com a definição de macro atividades envolvidas em cada iteração. </p>
 
-## Cronograma
+## Cronograma (Resumido)
 
 Iteração | Atividades |Datas
 ------ | ------- | ------
@@ -52,50 +52,69 @@ Iteração | Atividades |Datas
 | Verificação de Artefatos |
 |Considerações finais |
 
+## Cronograma de Atividades
 
-## Entrega 21/09/2020
+### Entrega 21/09/2020
 
 TAREFA	|	RESPONSÁVEL | Entregue?
 ------  | ----------- | ---------
-Ferramentas	| 	Stefane | sim
-Cronograma | todos | sim
-Ciclo de vida |	Stefane | não
-Título do Jogo | todos | sim
-História do Jogo |	Iolane | sim
-Fluxo do jogo | Guilherme | sim
+Ferramentas	| 	Stéfane | Sim
+Cronograma | Todos | Sim
+Ciclo de vida |	Stéfane | Não
+Título do Jogo | Todos | Sim
+História do Jogo |	Iolane | Sim
+Fluxo do jogo | Guilherme | Sim
 Storyboard | Guilherme | incompleto
-Perfil do Usuário |	Iolane | sim
-Personas |	Gabriela | sim
-Análise de tarefas | Guilherme | sim
-Princípios e diretrizes de design |	Stefane | sim
-Metas de usabilidade | Gabriela | sim
+Perfil do Usuário |	Iolane | Sim
+Personas |	Gabriela | Sim
+Análise de tarefas | Guilherme | Sim
+Princípios e diretrizes de design |	Stéfane | Sim
+Metas de usabilidade | Gabriela | Sim
 
-## Entrega 05/10/2020
+### Entrega: 05/10/2020
 
 TAREFA |	RESPONSÁVEL | Entregue?
 ------ | ------- | -------
-Elaborar mais storyboards |	GUILHERME | sim
-Planejamento da Avaliação do storyboard | IOLANE | sim
-aplicação da avaliação	é um item a ser conversado |	todos | sim
-Relato dos resultados da avaliação do storyboard |	Gabriela | sim
-Análise de tarefas.	|	Stéfane | não
-atualizar partes interessadas no doc de visão |IOLANE | sim
-Criar um tópico de recursos do produto |	Gabriela | sim
-Atualizar cronograma |	Stéfane | não
-Ciclo de vida | | não
-Atualizar Perfil do usuário | IOLANE | sim
-Análise de tarefas - notação utilizada | - | não	
-explicar Saída do Julio | GABRIELA | sim
-Ferramentas do projeto (atualizar) | GABRIELA | sim
+Elaborar mais storyboards |	Guilherme | Sim
+Planejamento da Avaliação do storyboard | Iolane | Sim
+aplicação da avaliação	é um item a ser conversado |	Todos | Sim
+Relato dos resultados da avaliação do storyboard |	Gabriela | Sim
+Análise de tarefas.	|	Stéfane | Não
+atualizar partes interessadas no doc de visão |Iolane | Sim
+Criar um tópico de recursos do produto |	Gabriela | Sim
+Atualizar cronograma |	Stéfane | Não
+Ciclo de vida | | Não
+Atualizar Perfil do usuário | Iolane | Sim
+Análise de tarefas - notação utilizada | - | Não	
+explicar Saída do Julio | Gabriela | Sim
+Ferramentas do projeto (atualizar) | Gabriela | Sim
 	
-## Entrega 22/10/2020
+### Entrega: 22/10/2020
 
 TAREFA |	RESPONSÁVEL | Entregue?
 ------ | ------- | -------
-Planejamento da Avaliação prototipo de papel | Iolane | sim
-Prototipo de papel | Gabriela | sim
-Teste piloto e Relato dos resultados da avaliação do protótipo de papel | Stefane | sim
+Planejamento da Avaliação prototipo de papel | Iolane | Sim
+Prototipo de papel | Gabriela | Sim
+Teste piloto e Relato dos resultados da avaliação do protótipo de papel | Stéfane | Sim
 
-## Entrega 16/11/2020
+### Entrega: 16/11/2020 até Apresentação Final
+
+TAREFA |	RESPONSÁVEL | Entregue?
+------ | ------- | -------
+| Testes de usabilidade - persona 1  |  Iolane  |  Sim  |
+| Testes de usabilidade - persona 2  |  Gabriela  |  Sim  |
+| Testes de usabilidade - persona 3  |  Stéfane   |  Sim  |
+| Testes de usabilidade - persona 4  |  Guilherme  |  Não |
+| Análise dos resultados | Todos   |  Sim  |
+| Ferramentas do Projeto (atualizar) | Stéfane   |  Sim  |
+| Prototipação Alta fidelidade  |  Iolane e Gabriela  |  Sim  |
+| Planejamento da avaliação  |  Todos  | Sim   |
+| GAMEPLAY/Historia do jogo  | Guilherme   | Sim   |
+| Atualizar cronograma |  Iolane e Stéfane  | Sim   |
+| Cortar as imagens do prototipo de papel e 
+apresentá-las separadas na wiki  | Guilherme   |  Sim  |
+| Realizar Verificação  |   Gabriela | Sim   |
+| Executar Verificação e Correção de Todos os documentos  | Stéfane   | Sim   |
+| Apresentação Final  |  Todos  |  Sim  |
 
 

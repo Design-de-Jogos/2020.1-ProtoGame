@@ -20,12 +20,8 @@
 ## Ponto de Controle 5: 16 de Novembro
 
 - [PC5 - Parte 1](https://youtu.be/7gPLS1TFq5w)
-- [PC6 - Parte 2](https://youtu.be/LuQEkZjOl7g)
-
-## Ponto de Controle 6: 23 de Novembro
-
-- [PC6](https://youtu.be/T2tK7f9Hu9E)
-
+- [PC5 - Parte 2](https://youtu.be/LuQEkZjOl7g)
+- [PC5 - Parte 3](https://youtu.be/T2tK7f9Hu9E)
 ___________
 
 ## Apresentação Final

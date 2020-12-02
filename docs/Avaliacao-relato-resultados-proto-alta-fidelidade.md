@@ -8,7 +8,7 @@ Data       | Versão | Descrição                               | Autor(es)
 15/11/2020 | 0.2    | análise da avaliação                    |[Iolane Andrade](https://github.com/IolaneAndrade)
 16/11/2020 | 0.3    | Imagem do protótipo de alta fidelidade  |[Iolane Andrade](https://github.com/IolaneAndrade)
 16/11/2020 | 0.4    | Relato e avaliação do protótipo de alta fidelidade pela Persona Pedro  |[Gabriela](https://github.com/gag2502)
-01/12/2020 | 0.5 | Revisão do documento | Stéfane Souza
+01/12/2020 | 0.5 | Relato e avaliação da Persona Carolina e Revisão do documento | Stéfane Souza
 
 ## Protótipo de Alta Fidelidade
 
