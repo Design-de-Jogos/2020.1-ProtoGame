@@ -138,7 +138,7 @@ Para a análise dos resultados obtivemos 37 participações.
 ##### Fonte: Autor (2020)
 
 
-### Jodos Educacionais
+### Jogos Educacionais
 
 #### Relação com Jogos Educacionais
 

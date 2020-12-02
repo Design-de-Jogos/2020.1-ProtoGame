@@ -1,14 +1,19 @@
-# Planejamento de Inspeção
+# Planejamento e Execução de Inspeção
 
 Data | Versão | Descrição | Autor(es)
 ----- | ------ | -------- | --------
 14/09/2020 | 0.0 | Checklist e Planejamento  | Gabriela
+01/12/2020 | 0.1 | Execução da Inspeção e Atualização dos Documentos  | Stéfane Souza
 
 ### Planejamento
 
-<p align="justify">Na fase de planejamento da Inspeção a equipe se prepara para a execução dos procedimentos que devem ser aplicados. A Inspeção possuei uma lógica e papeis como ilustrados pela Figura 1. </p>
+##### Figura 1 - Processo de Inspeção
 
-![Figura 1: Processo de Inspeção Fonte: Dev Media](./img/inspecao.png)
+![Figura 1: Processo de Inspeção](./img/inspecao.png)
+
+<p align="justify">Na fase de planejamento da Inspeção, a equipe se prepara para a execução dos procedimentos que devem ser aplicados. A Inspeção possuei uma lógica e papeis como ilustrados pela Figura 1. </p>
+
+##### Fonte: Dev Media (2008)
 
 No caso do nosso projeto os papeis são definidos como:
 
@@ -27,6 +32,18 @@ As perguntas avaliam sob critérios básicos para um bom texto como: </p>
 ### Checklist
 
 * [Checklist de inspeção do projeto ProtoGame](https://docs.google.com/forms/d/e/1FAIpQLSeYJQ9n3wla_-lL0tBXR0LTkZCaO5Qc6UeN7cjsJjvkvIcU2Q/viewform?usp=sf_link)
+
+# Execução da Inspeção 
+
+<p align="justify"> A execução da Inspeção foi realizada da seguinte maneira: A checklist disponibilidade por meio de um Formulário Google foi respondida pela inspetora Stéfane Souza depois da finalização de todos os documentos. Logo após responder o formulário foram identificados erros em diversos documentos. Assim a inspetora iniciou a correção e revisão de cada um deles, por fim a checklist foi respondida novamente para verificar se os erros encontrados foram corrigidos. Tudo foi rastreado por meio dos resultados em gráfico que o próprio formulário disponibiliza.</p>
+
+<p align="justify"> A figura abaixo mostra um exemplo dos resultados do gráfico antes e depois da execução da verificação dos documentos.</p>
+
+##### Figura 2 - Exemplo de Execução da Inspeção
+
+![Figura 2: Execução](./img/execucao-inspecao.png)
+
+##### Fonte: Autor (2020)
 
 ## Referências
 

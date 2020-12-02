@@ -3,6 +3,7 @@
 Data | Versão | Descrição | Autor(es)
 ---- | ---- | ----| -----
 26/08/2020 | 0.0 | Criação do cronograma | Equipe de GDD
+01/12/2020 | 0.1 | Revisão do documento | Stéfane Souza
 
 
 ## Descrição dos Riscos
