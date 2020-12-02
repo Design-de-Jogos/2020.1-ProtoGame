@@ -1,0 +1,1241 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      <link rel="shortcut icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-6.1.6">
+    
+    
+      
+        <title>Protótipo de Alta Fidelidade - ProtoGame</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.6910b76c.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.196e0c26.min.css">
+        
+      
+    
+    
+    
+      
+        
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
+        <style>body,input{font-family:"Roboto",-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono",SFMono-Regular,Consolas,Menlo,monospace}</style>
+      
+    
+    
+    
+    
+      
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="none" data-md-color-accent="none">
+      
+  
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#avaliacao-do-prototipo-de-alta-fidelidade-do-protogame" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid" aria-label="Header">
+    <a href=".." title="ProtoGame" class="md-header-nav__button md-logo" aria-label="ProtoGame">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 003-3 3 3 0 00-3-3 3 3 0 00-3 3 3 3 0 003 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>
+    <label class="md-header-nav__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header-nav__title" data-md-component="header-title">
+      
+        <div class="md-header-nav__ellipsis">
+          <span class="md-header-nav__topic md-ellipsis">
+            ProtoGame
+          </span>
+          <span class="md-header-nav__topic md-ellipsis">
+            
+              Protótipo de Alta Fidelidade
+            
+          </span>
+        </div>
+      
+    </div>
+    
+      <label class="md-header-nav__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0116 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 019.5 16 6.5 6.5 0 013 9.5 6.5 6.5 0 019.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" data-md-state="active" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0116 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 019.5 16 6.5 6.5 0 013 9.5 6.5 6.5 0 019.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <button type="reset" class="md-search__icon md-icon" aria-label="Clear" data-md-component="search-reset" tabindex="-1">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header-nav__source">
+        
+<a href="https://github.com/Design-de-Jogos/2020.1-Prototyping/" title="Go to repository" class="md-source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05L244 40.45a28.87 28.87 0 00-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 01-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 000 40.81l195.61 195.6a28.86 28.86 0 0040.8 0l194.69-194.69a28.86 28.86 0 000-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="ProtoGame" class="md-nav__button md-logo" aria-label="ProtoGame">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 003-3 3 3 0 00-3-3 3 3 0 00-3 3 3 3 0 003 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>
+    ProtoGame
+  </label>
+  
+    <div class="md-nav__source">
+      
+<a href="https://github.com/Design-de-Jogos/2020.1-Prototyping/" title="Go to repository" class="md-source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05L244 40.45a28.87 28.87 0 00-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 01-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 000 40.81l195.61 195.6a28.86 28.86 0 0040.8 0l194.69-194.69a28.86 28.86 0 000-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href=".." class="md-nav__link">
+      Início
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2" >
+    <label class="md-nav__link" for="nav-2">
+      Sobre o Projeto
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Sobre o Projeto" data-md-level="1">
+      <label class="md-nav__title" for="nav-2">
+        <span class="md-nav__icon md-icon"></span>
+        Sobre o Projeto
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../equipe/" class="md-nav__link">
+      Equipe
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Cronograma/" class="md-nav__link">
+      Cronograma
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../ferramentas/" class="md-nav__link">
+      Ferramentas
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Riscos/" class="md-nav__link">
+      Riscos
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Reuniao/" class="md-nav__link">
+      Reuniões
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-3" type="checkbox" id="nav-3" >
+    <label class="md-nav__link" for="nav-3">
+      Análise de Requisitos
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Análise de Requisitos" data-md-level="1">
+      <label class="md-nav__title" for="nav-3">
+        <span class="md-nav__icon md-icon"></span>
+        Análise de Requisitos
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Visao/" class="md-nav__link">
+      Visão do Produto
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Perfil-usuario/" class="md-nav__link">
+      Perfil do Usuário
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Persona/" class="md-nav__link">
+      Personas
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Descricao-jogo/" class="md-nav__link">
+      Descrição do Jogo
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../recursos-produto/" class="md-nav__link">
+      Recursos do Produto
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../storyboard/" class="md-nav__link">
+      Storyboards
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../analise_de_tarefas/" class="md-nav__link">
+      Análise de Tarefas
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../diretrizesDesign/" class="md-nav__link">
+      Princípios e Diretrizes para o Design
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Usabilidade/" class="md-nav__link">
+      Guia de Estilo
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-4" type="checkbox" id="nav-4" checked>
+    <label class="md-nav__link" for="nav-4">
+      Design e Avaliação
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Design e Avaliação" data-md-level="1">
+      <label class="md-nav__title" for="nav-4">
+        <span class="md-nav__icon md-icon"></span>
+        Design e Avaliação
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-4-1" type="checkbox" id="nav-4-1" >
+    <label class="md-nav__link" for="nav-4-1">
+      Planejamento das Avaliações
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Planejamento das Avaliações" data-md-level="2">
+      <label class="md-nav__title" for="nav-4-1">
+        <span class="md-nav__icon md-icon"></span>
+        Planejamento das Avaliações
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Planejamento-Avaliacao/" class="md-nav__link">
+      Storyboards
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Planejamento-avaliacao-prototipo-papel/" class="md-nav__link">
+      Protótipo de Papel
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Planejamento-prototipo-alta-fidelidade/" class="md-nav__link">
+      Prototipo de Alta Fidelidade
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-4-2" type="checkbox" id="nav-4-2" checked>
+    <label class="md-nav__link" for="nav-4-2">
+      Análise dos Resultados da Avaliação
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Análise dos Resultados da Avaliação" data-md-level="2">
+      <label class="md-nav__title" for="nav-4-2">
+        <span class="md-nav__icon md-icon"></span>
+        Análise dos Resultados da Avaliação
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Avaliacao-storyboard/" class="md-nav__link">
+      Storyboards
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../analise-prototipo/" class="md-nav__link">
+      Protótipo de Papel
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        Protótipo de Alta Fidelidade
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+    
+    <a href="./" class="md-nav__link md-nav__link--active">
+      Protótipo de Alta Fidelidade
+    </a>
+    
+      
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#prototipo-de-alta-fidelidade" class="md-nav__link">
+    Protótipo de Alta Fidelidade
+  </a>
+  
+    <nav class="md-nav" aria-label="Protótipo de Alta Fidelidade">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#figura-1-prototipo-de-alta-fidelidade-parte-1" class="md-nav__link">
+    Figura 1: Prototipo de Alta Fidelidade - Parte 1
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#fonte-autor-2020" class="md-nav__link">
+    Fonte: Autor (2020)
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#prototipo-utilizado-nas-avaliacoes" class="md-nav__link">
+    Protótipo Utilizado nas Avaliações
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#preparacao" class="md-nav__link">
+    Preparação
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+    
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-5" type="checkbox" id="nav-5" >
+    <label class="md-nav__link" for="nav-5">
+      Verificação
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Verificação" data-md-level="1">
+      <label class="md-nav__title" for="nav-5">
+        <span class="md-nav__icon md-icon"></span>
+        Verificação
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../PlanVerificacao/" class="md-nav__link">
+      Planejamento e Execução
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Apresentacao/" class="md-nav__link">
+      Apresentações
+    </a>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#prototipo-de-alta-fidelidade" class="md-nav__link">
+    Protótipo de Alta Fidelidade
+  </a>
+  
+    <nav class="md-nav" aria-label="Protótipo de Alta Fidelidade">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#figura-1-prototipo-de-alta-fidelidade-parte-1" class="md-nav__link">
+    Figura 1: Prototipo de Alta Fidelidade - Parte 1
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#fonte-autor-2020" class="md-nav__link">
+    Fonte: Autor (2020)
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#prototipo-utilizado-nas-avaliacoes" class="md-nav__link">
+    Protótipo Utilizado nas Avaliações
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#preparacao" class="md-nav__link">
+    Preparação
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                  <a href="https://github.com/Design-de-Jogos/2020.1-Prototyping/edit/master/docs/Avaliacao-relato-resultados-proto-alta-fidelidade.md" title="Edit this page" class="md-content__button md-icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"/></svg>
+                  </a>
+                
+                
+                <h1 id="avaliacao-do-prototipo-de-alta-fidelidade-do-protogame">Avaliação do Protótipo de Alta Fidelidade do ProtoGame</h1>
+<table>
+<thead>
+<tr>
+<th>Data</th>
+<th>Versão</th>
+<th>Descrição</th>
+<th>Autor(es)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>14/11/2020</td>
+<td>0.0</td>
+<td>Criação do documento</td>
+<td><a href="https://github.com/IolaneAndrade">Iolane Andrade</a></td>
+</tr>
+<tr>
+<td>15/11/2020</td>
+<td>0.1</td>
+<td>Gravação da avaliação</td>
+<td><a href="https://github.com/IolaneAndrade">Iolane Andrade</a></td>
+</tr>
+<tr>
+<td>15/11/2020</td>
+<td>0.2</td>
+<td>análise da avaliação</td>
+<td><a href="https://github.com/IolaneAndrade">Iolane Andrade</a></td>
+</tr>
+<tr>
+<td>16/11/2020</td>
+<td>0.3</td>
+<td>Imagem do protótipo de alta fidelidade</td>
+<td><a href="https://github.com/IolaneAndrade">Iolane Andrade</a></td>
+</tr>
+<tr>
+<td>16/11/2020</td>
+<td>0.4</td>
+<td>Relato e avaliação do protótipo de alta fidelidade pela Persona Pedro</td>
+<td><a href="https://github.com/gag2502">Gabriela</a></td>
+</tr>
+<tr>
+<td>01/12/2020</td>
+<td>0.5</td>
+<td>Relato e avaliação da Persona Carolina e Revisão do documento</td>
+<td>Stéfane Souza</td>
+</tr>
+</tbody>
+</table>
+<h2 id="prototipo-de-alta-fidelidade">Protótipo de Alta Fidelidade</h2>
+<p align="justify">A figura 1 ilustra a primeira parte do prototipo de alta fidelidade do projeto ProtoGame. Contendo fluxo do aluno ao responder uma questão e o fluxo do professor ao criar turma e adicionar questões. </p>
+
+<h5 id="figura-1-prototipo-de-alta-fidelidade-parte-1">Figura 1: Prototipo de Alta Fidelidade - Parte 1</h5>
+<p><img alt="prototipo de alta fidelidade parte 1" src="../img/ProtoGame-parte1.png" /></p>
+<h5 id="fonte-autor-2020">Fonte: Autor (2020)</h5>
+<h3 id="prototipo-utilizado-nas-avaliacoes">Protótipo Utilizado nas Avaliações</h3>
+<p>Para as avaliações foi utilizado esta primeira parte do protótipo de alta fidelidade. Nesta fase, o protótipo engloba apenas o fluxo do aluno descrito nos casos de teste.</p>
+<p>
+ <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FviUeY0Pov7Thoh0ZC19Eh1%2FProtoGame-FluxoAluno-IniciarJogo-responderquest%25C3%25A3o%3Fscaling%3Dscale-down%26node-id%3D61%253A85" allowfullscreen></iframe>
+
+</p>
+
+<h2 id="preparacao">Preparação</h2>
+<p>Ao realizar uma avaliação, proceda da seguinte maneira:</p>
+<ul>
+<li>Siga as instruções definidas na avaliação;</li>
+<li>Comece a avaliação com uma apresentação; </li>
+<li>Busque falar em voz alta todos os passos que você está seguindo durante a gravação da avaliação;</li>
+<li>Responda as questões definidas no documento do planejamento da avaliação;</li>
+</ul>
+<h1 id="avaliacao-1">Avaliação 1</h1>
+<h3 id="participante">Participante:</h3>
+<h4 id="figura-2-persona-1">Figura 2 - Persona 1</h4>
+<p><img alt="persona 1" src="../img/personas/persona-1.jpg" /></p>
+<h5 id="fonte-autor-2020_1">Fonte: Autor (2020)</h5>
+<h3 id="objetivos-da-avaliacao">Objetivos da Avaliação:</h3>
+<p align="justify">A participante, Matilde deverá seguir as instruções definidas nas duas tabelas abaixo. Tendo como objetivo 1 "Iniciar um jogo e responder questões corretamente." e objetivo 2 "Iniciar um jogo e responder alguma questão incorretamente."</p>
+
+<h4 id="tabela-1-avaliacao-da-persona-1-objetivo-1">Tabela 1 - Avaliação da Persona 1: Objetivo 1</h4>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Objetivo 1:</strong></td>
+<td>Iniciar um jogo e responder questões corretamente.</td>
+</tr>
+<tr>
+<td><strong>Ator:</strong></td>
+<td>Aluno.</td>
+</tr>
+<tr>
+<td><strong>Pré-condição:</strong></td>
+<td>O Aluno já está cadastrado no sistema.</td>
+</tr>
+<tr>
+<td><strong>Procedimentos:</strong></td>
+<td>1. Entrar no jogo ProtoGame e selecionar a opção "Aluno";</td>
+</tr>
+<tr>
+<td></td>
+<td>2. Selecionar a opção "Próximo";</td>
+</tr>
+<tr>
+<td></td>
+<td>3. Selecionar a opção "Jogar";</td>
+</tr>
+<tr>
+<td></td>
+<td>4. Selecionar a opção "Iniciar";</td>
+</tr>
+<tr>
+<td></td>
+<td>5. Responder a primeira questão como "verdadeira";</td>
+</tr>
+<tr>
+<td></td>
+<td>6. Responder a segunda questão como "falsa";</td>
+</tr>
+<tr>
+<td></td>
+<td>7. Responda a terceira questão selecionando a primeira opção;</td>
+</tr>
+<tr>
+<td><strong>Resultado esperado:</strong></td>
+<td>É esperado que o aluno acerte todas as questões e passe de fase.</td>
+</tr>
+</tbody>
+</table>
+<h5 id="fonte-autor-2020_2">Fonte: Autor (2020)</h5>
+<h5 id="tabela-2-avaliacao-da-persona-1-objetivo-2">Tabela 2 - Avaliação da Persona 1: Objetivo 2</h5>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Objetivo 2:</strong></td>
+<td>Iniciar um jogo e responder alguma questão incorretamente.</td>
+</tr>
+<tr>
+<td><strong>Ator:</strong></td>
+<td>Aluno.</td>
+</tr>
+<tr>
+<td><strong>Pré-condição:</strong></td>
+<td>O Aluno já está cadastrado no sistema.</td>
+</tr>
+<tr>
+<td><strong>Procedimentos:</strong></td>
+<td>1. Entrar no jogo ProtoGame e selecionar a opção "Aluno";</td>
+</tr>
+<tr>
+<td></td>
+<td>2. Selecionar a opção "Próximo";</td>
+</tr>
+<tr>
+<td></td>
+<td>3. Selecionar a opção "Jogar";</td>
+</tr>
+<tr>
+<td></td>
+<td>4. Selecionar a opção "Iniciar";</td>
+</tr>
+<tr>
+<td></td>
+<td>5. Responder a primeira questão como "verdadeira";</td>
+</tr>
+<tr>
+<td></td>
+<td>6. Responder a segunda questão como "verdadeira";</td>
+</tr>
+<tr>
+<td><strong>Resultado esperado:</strong></td>
+<td>É esperado que o aluno erre a segunda questão e tenha que reiniciar o jogo.</td>
+</tr>
+</tbody>
+</table>
+<h5 id="fonte-autor-2020_3">Fonte: Autor (2020)</h5>
+<h2 id="coleta-de-dados">Coleta de dados</h2>
+<p>A coleta de dados ocorreu por meio da aplicação e gravação da avaliação heurística, feita com a participante Matilde.</p>
+<p>Para acessar a gravação da avaliação 1 &gt;&gt;<a href="https://www.youtube.com/embed/LeNjNtP9bVY">clique aqui.</a>&lt;&lt;</p>
+<h2 id="consolidacao-e-relato-dos-resultados">Consolidação e relato dos resultados</h2>
+<p align="justify">
+A avaliação com a Matilde gerou bons resultados. Para uma versão inicial do protótipo, demonstrou está coerente com a ideia do produto. A participante disse: "Parece ser coerente com o estudo de prototipação e o design parece bem simples entender então eu acredito que está adequado." A organização das atividades também estão simplificadas e claras. A participante disse: "Sim para mim estava bem claro. [...] Se eu errar eu sou levada para o início do jogo, se eu acerto eu consigo prosseguir. Então está bem claro". As atividades também foram avaliadas como intuitivas e as informações simples de compreender . A participante disse: " Sim. É bem intuitivo, porque são poucas funcionalidades. É um protótipo bem simples então acaba que a gente não tem muito aonde se perder no jogo. [...] "Sim. São bem simples como eu falei, são poucas atividades no jogo então a gente não tem como se perder muito". No geral, a ideia do produto foi considerada agradável. A participante disse: "A ideia do produto é agradável sim. Eu gostei bastante da ideia. Questões simples e aí vai dificultando o nível. [...]  eu gostei da ideia do produto".
+</p>
+<p align="justify"> 
+No geral a avaliação do protótipo, na atividade do aluno responder uma questão, atendeu as expectativas iniciais da equipe. Atividades simples, claras, coerentes e agradavel.
+</p>
+
+<h1 id="avaliacao-2">Avaliação 2</h1>
+<h3 id="participante_1">Participante:</h3>
+<p><a href="../img/personas/persona-4.png">Figura 3: Descrição da Persona 4</a></p>
+<p><img alt="persona 4" src="../img/personas/persona-4.png" /></p>
+<h5 id="fonte-autor-2020_4">Fonte: Autor (2020)</h5>
+<h3 id="objetivos-da-avaliacao_1">Objetivos da Avaliação:</h3>
+<p align="justify">
+ O participante, Pedro deverá seguir as instruções definidas nas duas tabelas abaixo. Tendo como objetivo adicionar novas questões na aplicação e gerenciá-las.
+</p>
+
+<h5 id="tabela-3-avaliacao-da-persona-4-objetivo-1">Tabela 3 - Avaliação da Persona 4: Objetivo 1</h5>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Objetivo 1:</strong></td>
+<td>Criar uma turma e incluir questões</td>
+</tr>
+<tr>
+<td><strong>Ator:</strong></td>
+<td>Professor</td>
+</tr>
+<tr>
+<td><strong>Pré-condição:</strong></td>
+<td>Nenhuma</td>
+</tr>
+<tr>
+<td><strong>Procedimentos:</strong></td>
+<td>1. Entrar no jogo ProtoGame selecionar a opção "Professor"</td>
+</tr>
+<tr>
+<td></td>
+<td>2. Fazer seu cadastro como professor</td>
+</tr>
+<tr>
+<td></td>
+<td>3. Criar questão</td>
+</tr>
+<tr>
+<td></td>
+<td>4. Listar questões</td>
+</tr>
+<tr>
+<td></td>
+<td>5. Alterar uma questão</td>
+</tr>
+<tr>
+<td></td>
+<td>6. Excluir uma questão</td>
+</tr>
+<tr>
+<td><strong>Resultado esperado:</strong></td>
+<td>É esperado que o professor consiga gerenciar suas questões</td>
+</tr>
+</tbody>
+</table>
+<h5 id="fonte-autor-2020_5">Fonte: Autor (2020)</h5>
+<h2 id="coleta-de-dados_1">Coleta de dados</h2>
+<p>A coleta de dados ocorreu por meio da aplicação e gravação do teste de usabilidade com a utilização do software Cool Scren Recorder, feita com o participante Pedro. </p>
+<p>Para acessar a gravação da avaliação 2 &gt;&gt;<a href="https://www.youtube.com/embed/N9F5ZYSmbU0">clique aqui.</a>&lt;&lt;</p>
+<h2 id="consolidacao-e-relato-dos-resultados_1">Consolidação e relato dos resultados</h2>
+<p align="justify">
+A avaliação com o Pedro gerou bons resultados, assim como a com a Matilde. O participante gostou da aplicação e não demonstrou dificuldades ao navegar afim de realizar suas tarefas. Além disso, avaliou como sendo útil para seus objetivos. Sugeriu que a aplicação permitisse o professor adicionar tempo para responder cada pergunta, porque assim poderia usar o jogo para aplicar mini testes da disciplina.
+</p>
+<p align="justify"> 
+A avaliação do protótipo do ponto de vista do professor também obteve resultados positivos.
+</p>
+
+<h1 id="avaliacao-3">Avaliação 3</h1>
+<h3 id="participante_2">Participante:</h3>
+<h4 id="figura-4-persona-3">Figura 4 - Persona 3</h4>
+<p><img alt="persona 1" src="../img/personas/persona-3.jpg" /></p>
+<h5 id="fonte-autor-2020_6">Fonte: Autor (2020)</h5>
+<h3 id="objetivos-da-avaliacao_2">Objetivos da Avaliação:</h3>
+<p align="justify">A participante, Carolina deverá seguir as instruções definidas nas duas tabelas abaixo. Tendo como objetivo 1 "Iniciar um jogo e responder questões corretamente." e objetivo 2 "Iniciar um jogo e responder alguma questão incorretamente."</p>
+
+<h5 id="tabela-4-avaliacao-da-persona-3-objetivo-1">Tabela 4 - Avaliação da Persona 3: Objetivo 1</h5>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Objetivo 1:</strong></td>
+<td>Iniciar um jogo e responder questões corretamente.</td>
+</tr>
+<tr>
+<td><strong>Ator:</strong></td>
+<td>Aluno.</td>
+</tr>
+<tr>
+<td><strong>Pré-condição:</strong></td>
+<td>O Aluno já está cadastrado no sistema.</td>
+</tr>
+<tr>
+<td><strong>Procedimentos:</strong></td>
+<td>1. Entrar no jogo ProtoGame e selecionar a opção "Aluno";</td>
+</tr>
+<tr>
+<td></td>
+<td>2. Selecionar a opção "Próximo";</td>
+</tr>
+<tr>
+<td></td>
+<td>3. Selecionar a opção "Jogar";</td>
+</tr>
+<tr>
+<td></td>
+<td>4. Selecionar a opção "Iniciar";</td>
+</tr>
+<tr>
+<td></td>
+<td>5. Responder a primeira questão como "verdadeira";</td>
+</tr>
+<tr>
+<td></td>
+<td>6. Responder a segunda questão como "falsa";</td>
+</tr>
+<tr>
+<td></td>
+<td>7. Responda a terceira questão selecionando a primeira opção;</td>
+</tr>
+<tr>
+<td><strong>Resultado esperado:</strong></td>
+<td>É esperado que o aluno acerte todas as questões e passe de fase.</td>
+</tr>
+</tbody>
+</table>
+<h5 id="fonte-autor-2020_7">Fonte: Autor (2020)</h5>
+<h5 id="tabela-5-avaliacao-da-persona-3-objetivo-2">Tabela 5 - Avaliação da Persona 3: Objetivo 2</h5>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Objetivo 2:</strong></td>
+<td>Iniciar um jogo e responder alguma questão incorretamente.</td>
+</tr>
+<tr>
+<td><strong>Ator:</strong></td>
+<td>Aluno.</td>
+</tr>
+<tr>
+<td><strong>Pré-condição:</strong></td>
+<td>O Aluno já está cadastrado no sistema.</td>
+</tr>
+<tr>
+<td><strong>Procedimentos:</strong></td>
+<td>1. Entrar no jogo ProtoGame e selecionar a opção "Aluno";</td>
+</tr>
+<tr>
+<td></td>
+<td>2. Selecionar a opção "Próximo";</td>
+</tr>
+<tr>
+<td></td>
+<td>3. Selecionar a opção "Jogar";</td>
+</tr>
+<tr>
+<td></td>
+<td>4. Selecionar a opção "Iniciar";</td>
+</tr>
+<tr>
+<td></td>
+<td>5. Responder a primeira questão como "verdadeira";</td>
+</tr>
+<tr>
+<td></td>
+<td>6. Responder a segunda questão como "verdadeira";</td>
+</tr>
+<tr>
+<td><strong>Resultado esperado:</strong></td>
+<td>É esperado que o aluno erre a segunda questão e tenha que reiniciar o jogo.</td>
+</tr>
+</tbody>
+</table>
+<h5 id="fonte-autor-2020_8">Fonte: Autor (2020)</h5>
+<h2 id="coleta-de-dados_2">Coleta de dados</h2>
+<p>A coleta de dados ocorreu por meio da aplicação e gravação da avaliação heurística, feita com a participante Carolina.</p>
+<p>Para acessar a gravação da avaliação 3 &gt;&gt;<a href="https://youtu.be/KiTVuwHflpA">clique aqui.</a>&lt;&lt;</p>
+<h2 id="consolidacao-e-relato-dos-resultados_2">Consolidação e relato dos resultados</h2>
+<p align="justify">
+A avaliação com a Carolina foi considerada um sucesso, assim como as duas anteriores. A participante conseguiu utilizar o protótipo normalmente sem muitas explicações, considerou a ideia do jogo como um todo bem agradável e interessante para ela já que possui uma certa dificuldade em aprender conteúdo de forma mais tradicional. A participante gostou bastante do mascote, Protus, e achou as telas do jogo bem agradáveis visualmente assim como a disposição dos botões também bem legais. Conseguiu realizar os dois objetivos da avaliação que foram completar as questões de forma correta e outra errada. O resultado dessa avaliação foi ótima para o histótico de testes do projeto.
+</p>
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid" aria-label="Footer">
+        
+          <a href="../analise-prototipo/" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-footer-nav__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+            </div>
+            <div class="md-footer-nav__title">
+              <div class="md-ellipsis">
+                <span class="md-footer-nav__direction">
+                  Previous
+                </span>
+                Protótipo de Papel
+              </div>
+            </div>
+          </a>
+        
+        
+          <a href="../PlanVerificacao/" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-footer-nav__title">
+              <div class="md-ellipsis">
+                <span class="md-footer-nav__direction">
+                  Next
+                </span>
+                Planejamento e Execução
+              </div>
+            </div>
+            <div class="md-footer-nav__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    </div>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        Made with
+        <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+          Material for MkDocs
+        </a>
+      </div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../assets/javascripts/vendor.fd16492e.min.js"></script>
+      <script src="../assets/javascripts/bundle.7836ba4d.min.js"></script><script id="__lang" type="application/json">{"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing"}</script>
+      
+      <script>
+        app = initialize({
+          base: "..",
+          features: [],
+          search: Object.assign({
+            worker: "../assets/javascripts/worker/search.4ac00218.min.js"
+          }, typeof search !== "undefined" && search)
+        })
+      </script>
+      
+    
+  </body>
+</html>

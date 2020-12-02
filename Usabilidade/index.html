@@ -1,0 +1,1647 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      <link rel="shortcut icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-6.1.6">
+    
+    
+      
+        <title>Guia de Estilo - ProtoGame</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.6910b76c.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.196e0c26.min.css">
+        
+      
+    
+    
+    
+      
+        
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
+        <style>body,input{font-family:"Roboto",-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono",SFMono-Regular,Consolas,Menlo,monospace}</style>
+      
+    
+    
+    
+    
+      
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="none" data-md-color-accent="none">
+      
+  
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#guia-de-estilo-de-usabilidade-do-protogame" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid" aria-label="Header">
+    <a href=".." title="ProtoGame" class="md-header-nav__button md-logo" aria-label="ProtoGame">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 003-3 3 3 0 00-3-3 3 3 0 00-3 3 3 3 0 003 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>
+    <label class="md-header-nav__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header-nav__title" data-md-component="header-title">
+      
+        <div class="md-header-nav__ellipsis">
+          <span class="md-header-nav__topic md-ellipsis">
+            ProtoGame
+          </span>
+          <span class="md-header-nav__topic md-ellipsis">
+            
+              Guia de Estilo
+            
+          </span>
+        </div>
+      
+    </div>
+    
+      <label class="md-header-nav__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0116 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 019.5 16 6.5 6.5 0 013 9.5 6.5 6.5 0 019.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" data-md-state="active" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0116 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 019.5 16 6.5 6.5 0 013 9.5 6.5 6.5 0 019.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <button type="reset" class="md-search__icon md-icon" aria-label="Clear" data-md-component="search-reset" tabindex="-1">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header-nav__source">
+        
+<a href="https://github.com/Design-de-Jogos/2020.1-Prototyping/" title="Go to repository" class="md-source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05L244 40.45a28.87 28.87 0 00-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 01-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 000 40.81l195.61 195.6a28.86 28.86 0 0040.8 0l194.69-194.69a28.86 28.86 0 000-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="ProtoGame" class="md-nav__button md-logo" aria-label="ProtoGame">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 003-3 3 3 0 00-3-3 3 3 0 00-3 3 3 3 0 003 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>
+    ProtoGame
+  </label>
+  
+    <div class="md-nav__source">
+      
+<a href="https://github.com/Design-de-Jogos/2020.1-Prototyping/" title="Go to repository" class="md-source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05L244 40.45a28.87 28.87 0 00-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 01-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 000 40.81l195.61 195.6a28.86 28.86 0 0040.8 0l194.69-194.69a28.86 28.86 0 000-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href=".." class="md-nav__link">
+      Início
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2" >
+    <label class="md-nav__link" for="nav-2">
+      Sobre o Projeto
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Sobre o Projeto" data-md-level="1">
+      <label class="md-nav__title" for="nav-2">
+        <span class="md-nav__icon md-icon"></span>
+        Sobre o Projeto
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../equipe/" class="md-nav__link">
+      Equipe
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Cronograma/" class="md-nav__link">
+      Cronograma
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../ferramentas/" class="md-nav__link">
+      Ferramentas
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Riscos/" class="md-nav__link">
+      Riscos
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Reuniao/" class="md-nav__link">
+      Reuniões
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-3" type="checkbox" id="nav-3" checked>
+    <label class="md-nav__link" for="nav-3">
+      Análise de Requisitos
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Análise de Requisitos" data-md-level="1">
+      <label class="md-nav__title" for="nav-3">
+        <span class="md-nav__icon md-icon"></span>
+        Análise de Requisitos
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Visao/" class="md-nav__link">
+      Visão do Produto
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Perfil-usuario/" class="md-nav__link">
+      Perfil do Usuário
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Persona/" class="md-nav__link">
+      Personas
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Descricao-jogo/" class="md-nav__link">
+      Descrição do Jogo
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../recursos-produto/" class="md-nav__link">
+      Recursos do Produto
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../storyboard/" class="md-nav__link">
+      Storyboards
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../analise_de_tarefas/" class="md-nav__link">
+      Análise de Tarefas
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../diretrizesDesign/" class="md-nav__link">
+      Princípios e Diretrizes para o Design
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        Guia de Estilo
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+    
+    <a href="./" class="md-nav__link md-nav__link--active">
+      Guia de Estilo
+    </a>
+    
+      
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1-introducao" class="md-nav__link">
+    1. Introdução
+  </a>
+  
+    <nav class="md-nav" aria-label="1. Introdução">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#11-objetivo-do-documeto" class="md-nav__link">
+    1.1 Objetivo do Documeto
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#12-audiencia-do-documento" class="md-nav__link">
+    1.2 Audiência do Documento
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#13-intencao-de-uso-do-documento" class="md-nav__link">
+    1.3 Intenção de Uso do Documento
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#14-estilo-do-documento" class="md-nav__link">
+    1.4 Estilo do Documento
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#15-consistencia-com-outros-padroes" class="md-nav__link">
+    1.5 Consistência com outros padrões
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#16-dados-do-projetos" class="md-nav__link">
+    1.6 Dados do Projetos
+  </a>
+  
+    <nav class="md-nav" aria-label="1.6 Dados do Projetos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tabela-1-dados-do-projetos" class="md-nav__link">
+    Tabela 1 - Dados do Projetos
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#fonte-autor-2020" class="md-nav__link">
+    Fonte: Autor (2020)
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#17-organizacao-do-documento" class="md-nav__link">
+    1.7 Organização do documento
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-conceitos-preliminares" class="md-nav__link">
+    2. Conceitos preliminares
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-padroes-especificos-da-familia-de-produtos" class="md-nav__link">
+    3. Padrões específicos da família de produtos
+  </a>
+  
+    <nav class="md-nav" aria-label="3. Padrões específicos da família de produtos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#31-aspectos-gerais" class="md-nav__link">
+    3.1 Aspectos gerais
+  </a>
+  
+    <nav class="md-nav" aria-label="3.1 Aspectos gerais">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#311-organizacao-de-telas" class="md-nav__link">
+    3.1.1 Organização de telas
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#32-padroes-de-comportamento-da-interface" class="md-nav__link">
+    3.2 Padrões de comportamento da interface
+  </a>
+  
+    <nav class="md-nav" aria-label="3.2 Padrões de comportamento da interface">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#321-funcaocomportamento-dos-botoes" class="md-nav__link">
+    3.2.1 Função/Comportamento dos Botões
+  </a>
+  
+    <nav class="md-nav" aria-label="3.2.1 Função/Comportamento dos Botões">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tabela-2-funcaocomportamento-dos-botoes" class="md-nav__link">
+    Tabela 2 - Função/Comportamento dos Botões
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#fonte-autor-2020_1" class="md-nav__link">
+    Fonte: Autor (2020)
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#322-tela-de-cadastro-usuario" class="md-nav__link">
+    3.2.2 Tela de Cadastro Usuário
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#33-elementos-de-interacao" class="md-nav__link">
+    3.3 Elementos de interação
+  </a>
+  
+    <nav class="md-nav" aria-label="3.3 Elementos de interação">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#331-descricao-de-elementos-de-interacao" class="md-nav__link">
+    3.3.1 Descrição de elementos de interação
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#332-padroes-visuais-para-elementos-de-interacao" class="md-nav__link">
+    3.3.2 Padrões visuais para elementos de interação
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3321-cores" class="md-nav__link">
+    3.3.2.1 Cores
+  </a>
+  
+    <nav class="md-nav" aria-label="3.3.2.1 Cores">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#fonte-autor-2020_2" class="md-nav__link">
+    Fonte: Autor (2020)
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3322-fontes" class="md-nav__link">
+    3.3.2.2 Fontes
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3323-botoes" class="md-nav__link">
+    3.3.2.3 Botões
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3324-campos" class="md-nav__link">
+    3.3.2.4 Campos
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3325-menu" class="md-nav__link">
+    3.3.2.5 Menu
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#34-mensagens" class="md-nav__link">
+    3.4 Mensagens
+  </a>
+  
+    <nav class="md-nav" aria-label="3.4 Mensagens">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#341-descricao-dos-tipos-de-mensagens" class="md-nav__link">
+    3.4.1 Descrição dos Tipos de Mensagens
+  </a>
+  
+    <nav class="md-nav" aria-label="3.4.1 Descrição dos Tipos de Mensagens">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tabela-3-descricao-dos-tipos-de-mensagens" class="md-nav__link">
+    Tabela 3 - Descrição dos Tipos de Mensagens
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#fonte-autor-2020_3" class="md-nav__link">
+    Fonte: Autor (2020)
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-bibliografia" class="md-nav__link">
+    5. Bibliografia
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+    
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-4" type="checkbox" id="nav-4" >
+    <label class="md-nav__link" for="nav-4">
+      Design e Avaliação
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Design e Avaliação" data-md-level="1">
+      <label class="md-nav__title" for="nav-4">
+        <span class="md-nav__icon md-icon"></span>
+        Design e Avaliação
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-4-1" type="checkbox" id="nav-4-1" >
+    <label class="md-nav__link" for="nav-4-1">
+      Planejamento das Avaliações
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Planejamento das Avaliações" data-md-level="2">
+      <label class="md-nav__title" for="nav-4-1">
+        <span class="md-nav__icon md-icon"></span>
+        Planejamento das Avaliações
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Planejamento-Avaliacao/" class="md-nav__link">
+      Storyboards
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Planejamento-avaliacao-prototipo-papel/" class="md-nav__link">
+      Protótipo de Papel
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Planejamento-prototipo-alta-fidelidade/" class="md-nav__link">
+      Prototipo de Alta Fidelidade
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-4-2" type="checkbox" id="nav-4-2" >
+    <label class="md-nav__link" for="nav-4-2">
+      Análise dos Resultados da Avaliação
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Análise dos Resultados da Avaliação" data-md-level="2">
+      <label class="md-nav__title" for="nav-4-2">
+        <span class="md-nav__icon md-icon"></span>
+        Análise dos Resultados da Avaliação
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Avaliacao-storyboard/" class="md-nav__link">
+      Storyboards
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../analise-prototipo/" class="md-nav__link">
+      Protótipo de Papel
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Avaliacao-relato-resultados-proto-alta-fidelidade/" class="md-nav__link">
+      Protótipo de Alta Fidelidade
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-5" type="checkbox" id="nav-5" >
+    <label class="md-nav__link" for="nav-5">
+      Verificação
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Verificação" data-md-level="1">
+      <label class="md-nav__title" for="nav-5">
+        <span class="md-nav__icon md-icon"></span>
+        Verificação
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../PlanVerificacao/" class="md-nav__link">
+      Planejamento e Execução
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Apresentacao/" class="md-nav__link">
+      Apresentações
+    </a>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1-introducao" class="md-nav__link">
+    1. Introdução
+  </a>
+  
+    <nav class="md-nav" aria-label="1. Introdução">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#11-objetivo-do-documeto" class="md-nav__link">
+    1.1 Objetivo do Documeto
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#12-audiencia-do-documento" class="md-nav__link">
+    1.2 Audiência do Documento
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#13-intencao-de-uso-do-documento" class="md-nav__link">
+    1.3 Intenção de Uso do Documento
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#14-estilo-do-documento" class="md-nav__link">
+    1.4 Estilo do Documento
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#15-consistencia-com-outros-padroes" class="md-nav__link">
+    1.5 Consistência com outros padrões
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#16-dados-do-projetos" class="md-nav__link">
+    1.6 Dados do Projetos
+  </a>
+  
+    <nav class="md-nav" aria-label="1.6 Dados do Projetos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tabela-1-dados-do-projetos" class="md-nav__link">
+    Tabela 1 - Dados do Projetos
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#fonte-autor-2020" class="md-nav__link">
+    Fonte: Autor (2020)
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#17-organizacao-do-documento" class="md-nav__link">
+    1.7 Organização do documento
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-conceitos-preliminares" class="md-nav__link">
+    2. Conceitos preliminares
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-padroes-especificos-da-familia-de-produtos" class="md-nav__link">
+    3. Padrões específicos da família de produtos
+  </a>
+  
+    <nav class="md-nav" aria-label="3. Padrões específicos da família de produtos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#31-aspectos-gerais" class="md-nav__link">
+    3.1 Aspectos gerais
+  </a>
+  
+    <nav class="md-nav" aria-label="3.1 Aspectos gerais">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#311-organizacao-de-telas" class="md-nav__link">
+    3.1.1 Organização de telas
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#32-padroes-de-comportamento-da-interface" class="md-nav__link">
+    3.2 Padrões de comportamento da interface
+  </a>
+  
+    <nav class="md-nav" aria-label="3.2 Padrões de comportamento da interface">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#321-funcaocomportamento-dos-botoes" class="md-nav__link">
+    3.2.1 Função/Comportamento dos Botões
+  </a>
+  
+    <nav class="md-nav" aria-label="3.2.1 Função/Comportamento dos Botões">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tabela-2-funcaocomportamento-dos-botoes" class="md-nav__link">
+    Tabela 2 - Função/Comportamento dos Botões
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#fonte-autor-2020_1" class="md-nav__link">
+    Fonte: Autor (2020)
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#322-tela-de-cadastro-usuario" class="md-nav__link">
+    3.2.2 Tela de Cadastro Usuário
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#33-elementos-de-interacao" class="md-nav__link">
+    3.3 Elementos de interação
+  </a>
+  
+    <nav class="md-nav" aria-label="3.3 Elementos de interação">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#331-descricao-de-elementos-de-interacao" class="md-nav__link">
+    3.3.1 Descrição de elementos de interação
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#332-padroes-visuais-para-elementos-de-interacao" class="md-nav__link">
+    3.3.2 Padrões visuais para elementos de interação
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3321-cores" class="md-nav__link">
+    3.3.2.1 Cores
+  </a>
+  
+    <nav class="md-nav" aria-label="3.3.2.1 Cores">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#fonte-autor-2020_2" class="md-nav__link">
+    Fonte: Autor (2020)
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3322-fontes" class="md-nav__link">
+    3.3.2.2 Fontes
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3323-botoes" class="md-nav__link">
+    3.3.2.3 Botões
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3324-campos" class="md-nav__link">
+    3.3.2.4 Campos
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3325-menu" class="md-nav__link">
+    3.3.2.5 Menu
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#34-mensagens" class="md-nav__link">
+    3.4 Mensagens
+  </a>
+  
+    <nav class="md-nav" aria-label="3.4 Mensagens">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#341-descricao-dos-tipos-de-mensagens" class="md-nav__link">
+    3.4.1 Descrição dos Tipos de Mensagens
+  </a>
+  
+    <nav class="md-nav" aria-label="3.4.1 Descrição dos Tipos de Mensagens">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tabela-3-descricao-dos-tipos-de-mensagens" class="md-nav__link">
+    Tabela 3 - Descrição dos Tipos de Mensagens
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#fonte-autor-2020_3" class="md-nav__link">
+    Fonte: Autor (2020)
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-bibliografia" class="md-nav__link">
+    5. Bibliografia
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                  <a href="https://github.com/Design-de-Jogos/2020.1-Prototyping/edit/master/docs/Usabilidade.md" title="Edit this page" class="md-content__button md-icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"/></svg>
+                  </a>
+                
+                
+                <h1 id="guia-de-estilo-de-usabilidade-do-protogame">Guia de Estilo de Usabilidade do ProtoGame</h1>
+<table>
+<thead>
+<tr>
+<th>Data</th>
+<th>Versão</th>
+<th>Descrição</th>
+<th>Autor(es)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>19/09/2020</td>
+<td>0.0</td>
+<td>Criação do documento</td>
+<td>Equipe de GDD</td>
+</tr>
+<tr>
+<td>19/09/2020</td>
+<td>0.1</td>
+<td>Desenvolvimento</td>
+<td>Gabriela</td>
+</tr>
+<tr>
+<td>19/09/2020</td>
+<td>0.2</td>
+<td>Atualização da Wiki</td>
+<td>Iolane</td>
+</tr>
+<tr>
+<td>01/12/2020</td>
+<td>0.3</td>
+<td>Revisão do documento</td>
+<td>Stéfane Souza</td>
+</tr>
+</tbody>
+</table>
+<h2 id="1-introducao">1. Introdução</h2>
+<h3 id="11-objetivo-do-documeto">1.1 Objetivo do Documeto</h3>
+<p align="justify">O Guia de Estilo de Usabilidade tem como objetivo estabelecer padrões, na forma de diretrizes para o desenho da interface com o usuário. Os padrões definidos no Guia visamgarantir a  consistência interna e externa do desenho da interface com o usuário do software ProtoGame. </p>
+
+<h3 id="12-audiencia-do-documento">1.2 Audiência do Documento</h3>
+<p>Desenvolvedores autores do documento. </p>
+<h3 id="13-intencao-de-uso-do-documento">1.3 Intenção de Uso do Documento</h3>
+<p align="justify"> O Guia de Estilo de Usabilidade é utilizado como um padrão que guia o desenho da interface do usuário. Normalmente, o Guia é desenvolvido ou atualizado junto como projeto da interface com o usuário. Para o desenvolvedor da interação, serve como referência para o desenho da interface e como registro de novos padrões estabelecidos. Para os usuário e cliente, o Guia deve ser usado como uma meta-documentação do desenho da interface externa. </p>
+
+<p align="justify"> Este Guia, contém um conjunto de regras e orientações, cuja principal preocupação é a  padronização dos produtos da família Protogame e dos processos envolvidos na elaboração de suas interfaces.</p>
+<p>As principais vantagens do uso deste documento são: </p>
+<ul>
+<li>
+<p>Assegura a consistência através de uma família de produtos. </p>
+</li>
+<li>
+<p>Fomenta e facilita o trabalho conjunto de desenvolvedores e usuários. No desenho da interface, os usuários podem participar mais intensamente da elaboração do Guia, definindo os padrões que são utilizados pelos desenvolvedores no desenho da interface com o usuário. </p>
+</li>
+<li>
+<p>Contém um repositório de diretrizes e padrões. </p>
+</li>
+<li>
+<p>Pode ser utilizado para auxílio ao treinamento de novos 
+desenvolvedores. Minimiza a reinvenção e beneficia o re-uso. </p>
+</li>
+<li>
+<p>Diminui o tempo de desenvolvimento</p>
+</li>
+</ul>
+<h3 id="14-estilo-do-documento">1.4 Estilo do Documento</h3>
+<p align="justify"> Este Guia define padrões para o desenho da interface com o usuário dos produtos da família ProtoGame. </p>
+
+<h3 id="15-consistencia-com-outros-padroes">1.5 Consistência com outros padrões</h3>
+<p align="justify"> Este Guia herda os padrões estabelecidos no Guia de Estilo da Equipe 4 da disciplina de  Seminários de Software. </p>
+
+<h3 id="16-dados-do-projetos">1.6 Dados do Projetos</h3>
+<h5 id="tabela-1-dados-do-projetos">Tabela 1 - Dados do Projetos</h5>
+<table>
+<thead>
+<tr>
+<th>_</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Projeto</td>
+<td>ProtoGame</td>
+</tr>
+<tr>
+<td>Data inicial / Data Atual</td>
+<td>19 de agosto de 2020 / 19 de setembro de 2020</td>
+</tr>
+<tr>
+<td>Equipe</td>
+<td>Papel</td>
+</tr>
+<tr>
+<td>_</td>
+<td>Guilherme Desenvolvedor</td>
+</tr>
+<tr>
+<td>_</td>
+<td>Iolane Desenvolvedora</td>
+</tr>
+<tr>
+<td>_</td>
+<td>Stefane Desenvolvedora</td>
+</tr>
+</tbody>
+</table>
+<h5 id="fonte-autor-2020">Fonte: Autor (2020)</h5>
+<h3 id="17-organizacao-do-documento">1.7 Organização do documento</h3>
+<p>Este documento está dividido nas seguintes partes: </p>
+<ol>
+<li>
+<p><strong>Introdução:</strong> Apresenta contexto onde o Guia será utilizado </p>
+</li>
+<li>
+<p><strong>Conceitos Preliminares:</strong> Apresenta principais conceitos relacionados á usabilidade. Visa orientar o leitor quanto a esses aspectos. </p>
+</li>
+<li>
+<p><strong>Diretrizes Gerais:</strong> Apresenta princípios de desenho, diretrizes de usabilidade e diretrizes que devem ser observados no desenho da interface como usuário. </p>
+</li>
+<li>
+<p><strong>Padrões Específicos de Produtos:</strong> Padrões e consistências específicos para os produtos no escopo do Guia. </p>
+</li>
+<li>
+<p><strong>Glossário</strong></p>
+</li>
+<li>
+<p><strong>Bibliografia</strong></p>
+</li>
+</ol>
+<h2 id="2-conceitos-preliminares">2. Conceitos preliminares</h2>
+<p align="justify"> Alguns dos principais elementos que devem ser levados em conta no processo de produção de interfaces são: usabilidade, consistência, navegabilidade, interatividade, clareza, flexibilidade, funcionalidade e legibilidade. Vale ressaltar que o item “usabilidade” é mais genérico e envolve de uma certa maneira todos os outros itens listados. </p>
+
+<p align="justify"> <b>Usabilidade</b>, segundo a norma ISO 9241, é a capacidade que um sistema interativo oferece a seu usuário, em um determinado contexto de operação, para a realização de tarefas de maneira eficaz, eficiente e agradável. Pode ser vista como uma propriedade que um produto de software deve ter de tal forma que os usuários típicos possam operar bem esse software para realizar as tarefas de que necessitam. Usabilidade pode ser considerada como a característica de adequação ao uso de um  produto de software, onde a adequação ao uso pode se desdobrar em cinco atributos principais: desempenho do usuário, facilidade de aprendizado, retenção do aprendizado com o uso intermitente, prevenção de erros do usuário e satisfação do usuário. </p>
+
+<p align="justify"> <b>Consistência</b> refere-se à coerência na aplicação de regras de uso dos dispositivos ou itens de interface. Todos os elementos que possuem as mesmas funções devemapresentar as mesmas características gráficas e operacionais. O reconhecimento imediato da função de um determinado item de interface pelo usuário é algo que se deve buscar sempre que se busca a padronização. Pode- se notar que a consistência contribui para melhorar a qualidade da interface em termos de todos os cinco principais atributos de usabilidade. É importante lembrar que a consistência pode envolver diversos aspectos. Os seguintes tipos de consistência são desejáveis: </p>
+
+<ul>
+<li>
+<p>Expectativa dos usuários; </p>
+</li>
+<li>
+<p>Entre aplicações relacionadas ou aplicações de uma mesma organização; </p>
+</li>
+<li>
+<p>Com outros guias de estilo. Pode-se utilizar uma organização hierárquica de guias de estilo; Com padrões existentes na cultura da área; </p>
+</li>
+<li>
+<p>De terminologia; </p>
+</li>
+<li>
+<p>Entre páginas ou entre telas;</p>
+</li>
+<li>
+<p>Dentro de páginas, 
+janelas; Ícones; </p>
+</li>
+<li>
+<p>Mensagens de diálogo, especificamente em mensagens de erro.</p>
+</li>
+</ul>
+<p align="justify"> <b>Navegabilidade</b> é a propriedade, ou capacidade, que a interface do site possui de facilitar ao usuário chegar ao seu destino da maneira o mais eficiente possível. Corresponde à qualidade da estrutura viária que dá acesso ao conteúdo das informações no site.</p>
+
+<p align="justify"> <b>Interatividade</b> relaciona-se às interações do usuário que são um conjunto de operações ou  atividades que o usuário põe em prática com os objetos de tal modo a alterar o ambiente. No  projeto das ações do usuário deve ser detalhado como cada ação será representada, como o usuário vai pôr em prática a ação, e como será o efeito da ação completada.</p>
+
+<p align="justify"> <b>Clareza</b> diz respeito à evidência de se encontrar os itens principais da interface, ou seja, eles  devem ser claros o suficiente para que não haja dúvid a sobre sua funcionalidade e seu uso. Se não são evidentes, devem ser auto-explicativos.</p>
+
+<p align="justify"> <b>Flexibilidade</b> se refere aos meios colocados à disposição do usuário que lhe permitempersonalizar a interface, a fim de levar em conta as exigências da tarefa, de suas estratégias ou seus hábitos de trabalho. Ela corresponde também ao número das diferentes maneiras à disposição do usuário para alcançar um certo objetivo. Trata-se, em outros termos, da capacidade da interface de se adaptar as variadas ações do usuário. </p>
+
+<p align="justify"> <b>Legibilidade</b> diz respeito às características lexicais das informações apresentadas na tela que  possam dificultar ou facilitar a leitura dessa informação (brilho do caractere, contraste letra/fundo, tamanho da fonte, espaçamento entre palavras espaçamento entre linhas, espaçamento de parágrafos, comprimento da linha, etc).</p>
+
+<h2 id="3-padroes-especificos-da-familia-de-produtos">3. Padrões específicos da família de produtos</h2>
+<h3 id="31-aspectos-gerais">3.1 Aspectos gerais</h3>
+<p align="justify"> A aplicação deve permitir o acesso fácil a tela principal. O usuário deve se sentir confortável com as cores e  fontes. As escolhas acerca do design devem seguir o padrão determinado nesse documento.</p>
+
+<h4 id="311-organizacao-de-telas">3.1.1 Organização de telas</h4>
+<ul>
+<li>
+<p>Tela de perfil do usuário </p>
+</li>
+<li>
+<p>Tela para entrar ou não em uma turma </p>
+</li>
+<li>
+<p>Tela inicial do jogo com a visualização geral das fases a serem alcançadas </p>
+</li>
+<li>
+<p>Telas de interação de cada fase </p>
+</li>
+</ul>
+<h3 id="32-padroes-de-comportamento-da-interface">3.2 Padrões de comportamento da interface</h3>
+<h4 id="321-funcaocomportamento-dos-botoes">3.2.1 Função/Comportamento dos Botões</h4>
+<h5 id="tabela-2-funcaocomportamento-dos-botoes">Tabela 2 - Função/Comportamento dos Botões</h5>
+<table>
+<thead>
+<tr>
+<th>Rótulo</th>
+<th>Interfaces onde está presente</th>
+<th>Função/ Comportamento</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>“Cancelar”</td>
+<td>Toda interface que contenha dados editáveis ou ações  reversíveis.</td>
+<td>Toda interface que contenhadados editáveisouações reversíveis.</td>
+</tr>
+<tr>
+<td>“Salvar”</td>
+<td>Toda interface que contenha dados editáveis</td>
+<td>Fecha a tela de dados salvando-ose retornaàtelaanterior.</td>
+</tr>
+<tr>
+<td>“Visualizar”</td>
+<td>Toda interface de possibilite a visualização de dados.</td>
+<td>Abre uma tela comas informações solicitadas(nãoeditáveis).</td>
+</tr>
+<tr>
+<td>“Jogar”</td>
+<td>Interface onde o usuário consegue iniciar uma nova fase do jogo.</td>
+<td>Inicia o jogo da fase selecionada.</td>
+</tr>
+</tbody>
+</table>
+<h5 id="fonte-autor-2020_1">Fonte: Autor (2020)</h5>
+<h4 id="322-tela-de-cadastro-usuario">3.2.2 Tela de Cadastro Usuário</h4>
+<p>Nessa tela deve ser possível:
+- Inserir o nome do jogador 
+- Inserir e-mail do jogador 
+- Inserir a instituição do Jogador em modo opcional </p>
+<h3 id="33-elementos-de-interacao">3.3 Elementos de interação</h3>
+<ul>
+<li>Mascote do jogo representado por um cachorro </li>
+</ul>
+<h4 id="331-descricao-de-elementos-de-interacao">3.3.1 Descrição de elementos de interação</h4>
+<p align="justify"> Mascote do jogo representado por um cachorro: O Mascote deve ser cuidado pelo jogador. Durante o  desenvolvimento do jogo o usuário estará alimentando com biscoitos caninos o seu animal para mantê-lo vivo. </p>
+
+<h4 id="332-padroes-visuais-para-elementos-de-interacao">3.3.2 Padrões visuais para elementos de interação</h4>
+<h4 id="3321-cores">3.3.2.1 Cores</h4>
+<p align="justify"> As cores utilizadas no sistema ProtoGame constituem-se de diferentes tonalidades de verde, além de uma outra cor, o violeta, que por ser uma cor complementar ao verde, oferece contraste e uma ótima harmonia para a composição. A cor de fundo é a tonalidade com código #72F44B. Essa segunda tonalidade irá variar de acordo com os Sistemas do ProtoGame. As cores usadas estão apresentadas abaixo, junto com seus códigos. </p>
+
+<p><a href="../img/tabela-cores.jpeg">Figura 1: Tabela de Cores</a></p>
+<p><img alt="tabela de cores" src="../img/tabela-cores.jpeg" /></p>
+<h5 id="fonte-autor-2020_2">Fonte: Autor (2020)</h5>
+<h4 id="3322-fontes">3.3.2.2 Fontes</h4>
+<p align="justify"> A fonte utilizada em todos os textos é a <b>Roboto</b>. Essa fonte faz parte das Google Fonts. Existe a variação de tamanho, cor e estilo , onde cada tipo de título ou texto apresenta umpadrão diferente.</p>
+
+<h4 id="3323-botoes">3.3.2.3 Botões</h4>
+<p align="justify"> <b>Fundo:</b> Os botões apresentam o fundo da cor verde, cujo código é # A5EC8E. As exceções são os botões “Ajuda” e “Sair” que apresentam a cor de fundo num tomde verde diferente cujocódigo é #4CE07C. </p>
+
+<p align="justify"> <b>Formato:</b> Os botões possuem o formato de um retângulo, cujas bordas são arredondadas. Fonte: A fonte com a qual o comando é escrito é a Roboto, no tamanho 8 como estilo negrito.</p>
+
+<p align="justify"> <b>Escrita dos comandos:</b> Os comandos são escritos inicialmente através de verbos no infinitivona cor branca. </p>
+
+<p align="justify"> <b>Mudança de cor:</b> O comando inicialmente é escrito na cor branca com bordas na coloração padrão do botão e ao se passar o mouse sobre o botão, o comando passa a ter outra coloração, a cor específica de cada produto. </p>
+
+<h4 id="3324-campos">3.3.2.4 Campos</h4>
+<p align="justify"> <b>Formato:</b> Os campos serão sempre representados por caixas brancas. Os formulários receberãotratamentodiferenciado possuindo caixas apenas quando estão editáveis, quando estão apenas visualizáveis sãodispostossob a forma de texto. </p>
+
+<p align="justify"> <b>Posicionamento:</b> Os campos devem ser posicionados segundo a estrutura mais comum. O campo nome sempre  vem em primeiro lugar. Campos não obrigatórios serão exibidos por último.</p>
+
+<p align="justify"> <b>Rótulos:</b> Os rótulos compostos devem possuir somente a primeira palavra cominicial em maiúscula. </p>
+
+<p align="justify"> <b>Campos obrigatórios:</b> Todos os campos obrigatórios do sistema presentes nas telas emestadode inserção ou alteração, serão identificados por um “*” . </p>
+
+<h4 id="3325-menu">3.3.2.5 Menu</h4>
+<p align="justify"> A navegação no ProtoGame será realizada através do menu que pode ser acessado por meio do  sandwich menu.</p>
+
+<h3 id="34-mensagens">3.4 Mensagens</h3>
+<h4 id="341-descricao-dos-tipos-de-mensagens">3.4.1 Descrição dos Tipos de Mensagens</h4>
+<h5 id="tabela-3-descricao-dos-tipos-de-mensagens">Tabela 3 - Descrição dos Tipos de Mensagens</h5>
+<table>
+<thead>
+<tr>
+<th>Tipo de mensagem</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Mensagem de Erro</td>
+<td>Mensagens que informam (e solicitam alteração) sobre algum erro/problema durante a execução de uma tarefa. O erro/problema impede que o usuário realize a tarefa e deve ser alterado para a execução da tarefa. As mensagens de erro podem ser simples (somente um erro) ou compostas (mais de um erro).</td>
+</tr>
+<tr>
+<td>Mensagens de alerta</td>
+<td>Mensagens que informam (se sugerem alteração) sobre algum erro/problema durante a execução de uma tarefa. Entretanto, o erro/problema não impede o usuário de realizar a tarefa. As mensagens de alerta podem ser simples (somente um erro) ou compostas (mais de um erro).</td>
+</tr>
+<tr>
+<td>Mensagens de confirmação</td>
+<td>Mensagens que solicitam a confirmação do usuário antes da execução de alguma tarefa, normalmente porque a tarefa causa alguma alteração significativa no sistema.</td>
+</tr>
+</tbody>
+</table>
+<h5 id="fonte-autor-2020_3">Fonte: Autor (2020)</h5>
+<h2 id="5-bibliografia">5. Bibliografia</h2>
+<blockquote>
+<p>Figura 1 por Gabriela</p>
+<p>[Norman, 1988] Norman, D. A. <strong>The Psychology of Everyday Things</strong>. New York, Basic Books, 1988.  </p>
+<p>BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. <strong>Interação humano-computador</strong>. Elsevier, 2010  </p>
+</blockquote>
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid" aria-label="Footer">
+        
+          <a href="../diretrizesDesign/" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-footer-nav__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+            </div>
+            <div class="md-footer-nav__title">
+              <div class="md-ellipsis">
+                <span class="md-footer-nav__direction">
+                  Previous
+                </span>
+                Princípios e Diretrizes para o Design
+              </div>
+            </div>
+          </a>
+        
+        
+          <a href="../Planejamento-Avaliacao/" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-footer-nav__title">
+              <div class="md-ellipsis">
+                <span class="md-footer-nav__direction">
+                  Next
+                </span>
+                Storyboards
+              </div>
+            </div>
+            <div class="md-footer-nav__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    </div>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        Made with
+        <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+          Material for MkDocs
+        </a>
+      </div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../assets/javascripts/vendor.fd16492e.min.js"></script>
+      <script src="../assets/javascripts/bundle.7836ba4d.min.js"></script><script id="__lang" type="application/json">{"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing"}</script>
+      
+      <script>
+        app = initialize({
+          base: "..",
+          features: [],
+          search: Object.assign({
+            worker: "../assets/javascripts/worker/search.4ac00218.min.js"
+          }, typeof search !== "undefined" && search)
+        })
+      </script>
+      
+    
+  </body>
+</html>
