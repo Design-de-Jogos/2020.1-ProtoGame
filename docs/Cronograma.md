@@ -3,7 +3,8 @@
 Data | Versão | Descrição | Autor(es)
 ---------- | --- | -------------------------------------------------| -----
 16/09/2020 | 0.0 | Transferencia do cronograma para uma nova página | Iolane
-28/10/2020 | 0.1 | atualização do cronograma por entrega| Iolane
+28/10/2020 | 0.1 | Atualização do cronograma por entrega| Iolane
+02/02/2020 | 0.1 | Atualização do cronograma por entrega e revisão do documento | Stéfane
 
 ## Metodologia
 
